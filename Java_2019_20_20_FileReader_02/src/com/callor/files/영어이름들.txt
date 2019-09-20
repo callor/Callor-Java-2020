@@ -1,0 +1,5264 @@
+1:Aadan:불 같은
+2:Aaliah:하강, 상승
+3:Aalleeyaa:하강, 상승
+4:Aaric:ARIC의 변형, 용서 규칙
+5:Ab-Owen:오웬의 아들
+6:Abadine:희망, 기쁨
+7:Abagael:하느님은 기쁨
+8:Abagale:하느님은 기쁨
+9:Abbagail:하느님은 기쁨
+10:Abbegail:하느님은 기쁨
+11:Abbeygail:아버지의 기쁨
+12:Abbi:하느님은 기쁨
+13:Abbigail:하느님은 기쁨
+14:Abbigayle:하느님은 기쁨
+15:Abbot:성직자
+16:Abbott:대 수도원
+17:Aberfa:강의 입에서
+18:Abergavenny:헨리 여덟 번째 주 애버 게이브 니
+19:Abgail:하느님은 기쁨
+20:Abhorson:교수형 집행의 측정을 위해 측정
+21:Abigale:하느님은 기쁨
+22:Abrielle:가브리엘의 변형이 될 수 있습니다
+23:Acca:ACCA로
+24:Acennan:제공
+25:Acey:최고의
+26:Acker:오크의
+27:Ackerley:에이커의 초원에 상주
+28:Ackerman:오크의 남자
+29:Ackley:오크의 고정 초원
+30:Acton:오크 나무 정산
+31:Acwel:사망
+32:Acwellen:사망
+33:Adain:날개.
+34:Adalbeorht:고귀한
+35:Adalbrechta:고귀한
+36:Adalson:세이지
+37:Adam:사람
+38:Adamm:
+39:Adamson:아담의 아들 : 붉은 땅의 사람
+40:Addeline:탑
+41:Addis:사람
+42:Addison:아담의 자녀
+43:Adelaido:친한
+44:Adelyn:Magdala의 여인
+45:Adia:선물
+46:Adken:오크 나무
+47:Adkins:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+48:Adler:독수리
+49:Adney:귀족의 섬에 살고
+50:Adny:귀족의 섬에 살고
+51:Adonna:여자
+52:Adram:
+53:Adrean:Hadria, 이탈리아
+54:Adrena:즐거움
+55:Adrenalijna:방법 기쁨
+56:Adriann:Hadria, 이탈리아
+57:Adrieanna:Hadria, 이탈리아
+58:Adrin:Hadria, 이탈리아
+59:Adrion:아드리아 해에서
+60:Adriona:Hadria, 이탈리아
+61:Adron:아드리아 해에서
+62:Adyn:불 같은
+63:Adyna:천박한
+64:Adyson:
+65:Aeccestane:돌의 검객
+66:Aedd:아일랜드의 왕
+67:Aedre:흐름
+68:Aefentid:저녁
+69:Aefre:영원히
+70:Aeker:오크의
+71:Aekerman:오크의 남자.
+72:Aelfraed:열한 상담
+73:Aelfthryth:힘
+74:Aelfwine:마법의 친구
+75:Aelita:
+76:Aelle:여러 왕의 이름
+77:Aelwen:공정 이마
+78:Aenedleah:멋진 초원
+79:Aenescumb:장엄한 하나의 계곡에 살고
+80:Aeoelric:
+81:Aeric:사람들의 통치자
+82:Aerica:사람들의 통치자
+83:Aerlene:꼬마 요정의
+84:Aerona:셀틱 여신
+85:Aesclin:재 풀에서의 삶
+86:Aesoburne:재 스트림에 가까운 생활
+87:Aethelberht:귀족이나 밝은
+88:Aethelbert:귀족이나 밝은
+89:Aethelind:옛날 독일 고귀한 이름 의미 뱀의 고대 영어 이름
+90:Aethelred:왕의 이름
+91:Aethelweard:귀족 보호
+92:Aethelwine:엘프의 친구
+93:Aethelwulf:왕의 이름
+94:Aetheston:귀족의 언덕에서
+95:Agness:순수, 어린 양
+96:Ahebban:전쟁을하게
+97:Ahreddan:저장
+98:Aiken:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+99:Aikin:오크 나무
+100:Ailèn:멋진
+101:Ailene:새, 경쟁
+102:Ailith:노련한 전사
+103:Ain:친애하는, 소중한
+104:Ainne:하느님의 은혜
+105:Ainsley:아네 슬리의 영국 노팅엄 마을에서 유래. 앤의 초원입니다. 고무 하나의 초원에서.
+106:Ainslie:Ainsley의 스코틀랜드 철자 (덩크 링)
+107:Ainsworth:앤의 부동산에서
+108:Aireal:하느님의 사자
+109:Airica:사람들의 통치자
+110:Airon:아일랜드 평화
+111:Aisley:재 나무 과수원에 살고
+112:Aiyah:실크 옷감
+113:Aj:문자와 J의 조합
+114:Ajah:염소
+115:Ajha:염소
+116:Akacia:가시
+117:Akayla:아름다운
+118:Akker:떡갈 나무
+119:Alain:바위
+120:Alair:쾌활한
+121:Aland:박람회
+122:Alania:
+123:Alasan:친한
+124:Alasha:하느님은 화해
+125:Albern:고귀한 전사입니다.
+126:Albert:화려한 귀족의 행동에 의해
+127:Alberta:화려한 귀족에 의해
+128:Albertina:화려한 귀족의 행동에 의해
+129:Albertine:화려한 귀족의 행동에 의해
+130:Albertyna:고귀한
+131:Albet:노벨상을 취소
+132:Albie:화려한 오래 된 영어
+133:Albin:흰색, 버디 Alven
+134:Albina:흰색, Alven의 친구, 화이트 컬러
+135:Albinus:흰색, Alven의 친구, 화이트 컬러
+136:Alburt:귀족이나 밝은
+137:Alcott:옛 별장
+138:Aldan:와이즈 이전
+139:Alden:고대 영어 구문 Ealdwine 옛 친구로부터
+140:Alder:오리의
+141:Aldercy:장
+142:Aldin:오래된 친구
+143:Aldis:오래 된 집.
+144:Aldora:고귀한
+145:Aldous:2oth 세기 영국 작가 올더스 헉슬리
+146:Aldric:영주
+147:Aldrich:나이와 지혜로운 자
+148:Aldrid:현명한 사람 빨간 머리
+149:Aldrik:경험과 강력한
+150:Aldrin:이전과 현명한 통치자
+151:Aldus:원래 옛날 독일 이름은 오래된 의미
+152:Aldwin:성인 / 경험이 풍부한 친구, 현명한 친구
+153:Aldwyn:성인 / 경험이 풍부한 친구, 현명한 친구
+154:Aldys:오래 된 집.
+155:Alean:조명
+156:Aleceia:친한
+157:Alechia:친한
+158:Alecia:노블 (귀족)
+159:Aledwen:자식
+160:Aleisha:친한
+161:Aleishka:친한
+162:Aleix:사람들의 보호
+163:Aleiyah:하강, 상승
+164:Alejandria:사람들의 보호
+165:Alekah:사람들의 보호
+166:Aleke:사람들의 보호
+167:Alekia:사람들의 보호
+168:Aleksasha:사람들의 보호
+169:Alen:화려한 귀족의 행동에 의해
+170:Aler:오리 나무에서
+171:Alesa:사람들의 보호
+172:Aleshia:친한
+173:Alesis:사람들의 보호
+174:Aleson:친한
+175:Alex:보호, 인간의 afweerder
+176:Alexa:보호, 인간의 afweerder
+177:Alexanda:사람들의 보호
+178:Alexande:사람들의 보호
+179:Alexanderi:사람들의 보호
+180:Alexanderia:사람들의 보호
+181:Alexanderina:사람들의 보호
+182:Alexandia:사람들의 보호
+183:Alexandrea:변호하다
+184:Alexandrena:사람들의 보호
+185:Alexandria:변호하다
+186:Alexandrina:그리스어 변형
+187:Alexandrya:사람들의 보호
+188:Alexenia:사람들의 보호
+189:Alexi:도우미, 후원자. 알렉산더의 변형
+190:Alexia:도우미, 후원자
+191:Alexina:보호, 인간의 afweerder
+192:Alexine:보호
+193:Alexsia:사람들의 보호
+194:Alexsis:사람들의 보호
+195:Alexx:사람들의 보호
+196:Alexynthia:인류의 수호자, 매사추세츠
+197:Alexzandria:사람들의 보호
+198:Alfie:일레븐 변호사
+199:Alfonsus:전투 준비
+200:Alford:오래된 포드
+201:Alfornia:캘리포니아
+202:Alfred:그는 엘프의 보드를 가져옵니다
+203:Alfredia:
+204:Alfrid:세이지
+205:Algar:일레븐 창
+206:Alger:고귀한 (전사입니다) 창
+207:Aliah:하강, 상승
+208:Alice:귀족의
+209:Alichia:친한
+210:Alick:전사 보호자
+211:Aliezah:친한
+212:Alin:박람회
+213:Alisanne:귀족의
+214:Alisea:친한
+215:Alissa:사실, 고귀한
+216:Alisse:친절한 고귀한 혈통, 노벨의
+217:Alizabeth:야훼에 전념
+218:Allanah:
+219:Allannah:바위
+220:Allaya:하강, 상승
+221:Allayne:화려한 귀족의 행동에 의해
+222:Alleen:새, 경쟁
+223:Alley:친한
+224:Alleyne:화려한 귀족의 행동에 의해
+225:Allice:여성
+226:Allicyn:친한
+227:Allie:조화
+228:Allin:화려한 귀족의 행동에 의해
+229:Allisa:친한
+230:Allison:고귀한
+231:Allissa:친한
+232:Allix:사람들의 보호
+233:Allon:강한 나무, 상수리 나무, 떡갈 나무
+234:Allura:교황 고문
+235:Ally:조화
+236:Allyssa:(여자) 귀족의 성장, 자연의
+237:Almer:악명 높은.
+238:Almo:귀족이나 유명
+239:Alodia:모든 바보, 하나 모두 바보, 바보 외국인
+240:Alodie:풍족한
+241:Alon:오크 트리
+242:Alsa:야훼에 전념
+243:Althonso:
+244:Alton:고대
+245:Alura:교황 고문
+246:Alvena:엘프 와인, 고귀한 친구
+247:Alvin:엘프 와인, 고귀한 친구
+248:Alvis:토르 딸
+249:Alwin:고귀한 친구
+250:Alwyn:친구
+251:Alyanna:활기찬, 쾌활한
+252:Alycesone:세이지
+253:Alyse:노블 (귀족)
+254:Alyssa:고귀한
+255:Alyssabeth:하느님 께 헌신 귀족, 종류,
+256:Alysse:앨리스에서 파생 된
+257:Alyssia:노블 (귀족)
+258:Alysson:친한
+259:Alyx:보호, 인간의 afweerder
+260:Alyxandrya:사람들의 보호
+261:Amaethon:농업의 신
+262:Amandia:
+263:Amarra:쓴, 영원한 애인
+264:Amarylis:신선하고 반짝 꽃
+265:Ambelaine:보석 토치
+266:Amber:향수
+267:Ambere:호박
+268:Amberjill:gehaard 보석 아래
+269:Amberly:보석 품질의 화석 수지, 색으로 이름은 따뜻한 꿀 그늘을 말합니다.
+270:Amberlyn:보석 품질의 화석 수지, 색으로 이름은 따뜻한 꿀 그늘을 말합니다.
+271:Amberlynn:보석 품질의 화석 수지, 색으로 이름은 따뜻한 꿀 그늘을 말합니다.
+272:Ambria:호박
+273:Ambrose:불멸의.
+274:Amedeus:하느님의 사랑
+275:Amerawdwr:황제.
+276:Amerique:집의 통치자
+277:Amette:Amold 현대 변종
+278:Amhar:아서 전설의 아들
+279:Amia:. 잘 좋아
+280:Amie:사랑
+281:Amlawdd:전설적인 아버지 goieuddydd
+282:Ammie:사람들에게 사랑
+283:Amori:사람들에게 사랑
+284:Amory:애 머리의 변형
+285:Amren:Bedwyr 전설의 아들
+286:Amye:사람들에게 사랑
+287:Amynedd:환자
+288:Amyneddgar:환자
+289:Anabela:슬픈, 세상에, 달콤하고 쓴
+290:Anamaria:은혜, 쓴
+291:Anastasha:부활
+292:Anastassia:부활
+293:Anastazia:부활
+294:Andee:여성 안드레아
+295:Andena:여성 안드레아
+296:Anders:용감하고 씩씩한, 사람 같은
+297:Andi:; 맨리 용감한 : 앤드류의 소형. 유명한 무기명 : 앤드류 왕자.
+298:Andie:여성 안드레아
+299:Andonis:앤드류 왕자
+300:Andor:남성 / 강한
+301:Andora:용감한
+302:Andorra:용감한
+303:Andrah:용감한
+304:André:용감하고 씩씩한, 사람 같은
+305:Andrea:용감하고 씩씩한, 사람 같은
+306:Andreaka:용감한
+307:Andrean:용감한
+308:Andreanne:용감한
+309:Andrecka:용감한
+310:Andrei:용감하고 씩씩한, 사람 같은
+311:Andreis:태양의 상승
+312:Andrel:용감한, 영웅, M
+313:Andrell:용감한, 영웅, M
+314:Andren:사람
+315:Andrenetta:영웅의
+316:Andressa:용감한
+317:Andrey:용감한; 맨리
+318:Andreye:용감한
+319:Andri:용감한, 영웅, M
+320:Andrian:용감한 남성. 앤드류의 현대 버전
+321:Andric:용감한 남성. 앤드류의 현대 버전
+322:Andriea:용감한
+323:Andriel:용감한 남성. 앤드류의 현대 버전
+324:Andriella:영웅의
+325:Andriene:용감한
+326:Andriette:용기, 대담, 아름다움
+327:Andrya:앤드류의 여성 형태 : 용감한, 맨리. 유명한 무기명 : 앤드류 왕자.
+328:Andswarian:대답
+329:Andwearde:제시
+330:Aneirin:고귀한
+331:Aneisha:달콤한 / 은혜
+332:Aneita:하느님의 은혜
+333:Anessa:아름다운, 우아한
+334:Anfrenee:기특한
+335:Angelelee:천상의
+336:Angelic:천사 / 천사 \u003cbr /\u003e 하늘의 사자
+337:Angelik:천상의
+338:Angelquea:천상의
+339:Angelyn:하늘의 사자
+340:Angle:천상의
+341:Anglia:천상의
+342:Anhaga:고독한
+343:Aniesa:친한
+344:Anijae`:천상의
+345:Anise:향신료
+346:Anisha:중단되지 않은
+347:Anissa:친구, 친한 친구
+348:Anissia:즐거움, 기쁨
+349:Anjanette:하느님은 자비입니다
+350:Anjela:천상의
+351:Anlienisse:영상
+352:Ann:그레이스;
+353:Annabelle:슬픈, 세상에, 달콤하고 쓴
+354:Annabeth:슬픈, 세상에, 달콤하고 쓴
+355:Annah:하느님의 은혜
+356:Annalee:앤의 의미 은혜, 자비의 변화
+357:Annaline:은혜 토치
+358:Annalynn:아름다운 딸
+359:Annamarie:퓨즈
+360:Annbel:아름다운 스타일
+361:Anndreya:용감한
+362:Anne:아름다운, 우아한
+363:Annelisa:슬픈, 세상에, 달콤하고 쓴
+364:Annett:하느님의 은혜
+365:Annette:단
+366:Annia:하느님의 은혜
+367:Annice:앤 또는 아그네스의 변형
+368:Annie:/ 스위트
+369:Annika:단
+370:Annis:앤 또는 아그네스의 변형
+371:Annisha:즐거움, 기쁨
+372:Annjeanette:하느님의 은혜의 선물
+373:Anntoniett:기특한
+374:Annzlee:내 자신의 고원
+375:Anora:조명
+376:Anseim:종자
+377:Ansel:종자
+378:Ansell:종자
+379:Ansley:은자가 사는 집
+380:Anson:매끈한, 청소
+381:Ansson:배우 베어 윌리엄스
+382:Anston:아그네스의 아들
+383:Anterreon:기특한
+384:Anthasazia:부활
+385:Antigonus:시칠리아의 겨울 이야기 주
+386:Antiochus:안디옥의 타이어 왕 페리클레스 왕자
+387:Antiono:꽃
+388:Antoine:귀중한
+389:Antoinette:귀중한
+390:Antonina:안토니의 여성 형태 : 고 칭찬\u200b\u200b. 로마 클랜 이름에서. 17 세기에, 맞춤법 안토니는 그리스어 anthos 의미 꽃과 관련되었다.
+391:Antrunette:꽃
+392:Antuan:꽃
+393:Antuane:꽃
+394:Antwanette:꽃
+395:Antwone:꽃
+396:Anwil:연인
+397:Anwill:사랑스러운
+398:Anwir:거짓말 쟁이.
+399:Anya:투표
+400:Anyana:하느님의 은혜
+401:Anyssa:아름다운, 우아한
+402:Anzhela:천상의
+403:Ap-Howell:하웰의 아들
+404:Ap-Roderick:로데릭의 아들
+405:Aphton:강 아프
+406:Aprille:4 월 달, 봄을 상징
+407:Apryl:4 월 달, 봄을 상징
+408:Aqualine:경수
+409:Ar:자비
+410:Aragorn:반지의 제왕
+411:Arah:왕자
+412:Araminta:영광스러운
+413:Arathorn:로얄 이글
+414:Archer:사수
+415:Archidamusa:보헤미아의 겨울 이야기 주
+416:Arda:그 사람은 독수리 나 보호자 / 유산 관리인으로 다스리
+417:Ardaleah:홈 연인 초원에서
+418:Ardel:토끼 델
+419:Ardelia:뜨거운
+420:Ardell:토끼 델
+421:Ardene:고귀한
+422:Ardi:그 사람은 독수리 나 보호자 / 유산 관리인으로 다스리
+423:Ardine:
+424:Ardria:Hadria, 이탈리아
+425:Ardwolf:홈 사랑 늑대
+426:Ardys:
+427:Areal:하느님의 사자
+428:Areia:
+429:Argel:피난
+430:Aria:사자
+431:Ariandne:특히 신성한
+432:Arica:사람들의 통치자
+433:Arick:영원한
+434:Ariell:하느님의 사자
+435:Arietta:멜로디.
+436:Arik:고귀한 지도자입니다.
+437:Ariona:특히 신성한
+438:Arionna:특히 신성한
+439:Arkell:이글 헬멧
+440:Arkwright:상자를 만듭니다.
+441:Arla:남자 같은 의미
+442:Arlanda:유명한 국가
+443:Arlean:남자 다움
+444:Arleene:칼린의 변형
+445:Arlena:칼린와 샬린의 변형
+446:Arlenia:남자 다움
+447:Arlenna:칼린의 변형
+448:Arley:토끼의 할리 초원의 변형
+449:Arlie:약속
+450:Arlinda:알렌과 린다의 현대 혼합
+451:Arlyn:약속에 대한 게일 단어
+452:Arlyne:칼린의 변형
+453:Arlys:
+454:Armes:선지자
+455:Arnaud:독수리처럼 규칙 그
+456:Arnelle:Amold 현대 변종
+457:Arnet:작은 독수리
+458:Arnett:작은 독수리
+459:Art:강력한
+460:Arth:독수리처럼
+461:Arthes:그들은 수행
+462:Arthurr:라틴어 트라야누스 전설적인 왕의
+463:Artie:아서의 약어 - 귀족, 용감한
+464:Arty:로마의 씨족 이름 트라야누스에서
+465:Aruthur:맥주, 돌
+466:Arval:울
+467:Arvid:숲의 독수리
+468:Arvie:사람들의 친구
+469:Arvil:에 울었다
+470:Arville:황금의 도시
+471:Arvin:전투
+472:Arvis:박애주 의자
+473:Arwen:로얄 메이든
+474:Arwin:군대 나 뮤즈의 멧돼지 또는 친구의 친구
+475:Arwood:가문비 나무
+476:Aryelle:하느님의 사자
+477:Aryn:아일랜드 평화
+478:Ascot:동쪽 오두막에 살고
+479:Ash:행복한
+480:Ashbey:애쉬 트리 농장
+481:Ashby:애쉬 트리 하우스
+482:Asheleigh:애쉬 트리 필드
+483:Ashford:샤프트에 의해 포드
+484:Ashlan:애쉬 트리에서 초원
+485:Ashleah:화산재의 초원
+486:Ashlee:축
+487:Ashlei:애쉬 트리 필드
+488:Ashleigh:축
+489:Ashlen:\\ u200b \\ u200bvijver 주위 에센
+490:Ashlie:축
+491:Ashliegh:애쉬 트리 필드
+492:Ashlin:재 풀에서의 삶
+493:Ashling:꿈, 비전
+494:Ashly:축
+495:Ashlyn:꿈
+496:Ashlynn:꿈
+497:Ashton:화산재 도시
+498:Ashwin:스타, 하느님의 친구
+499:Asiah:하느님 께서 구원
+500:Aslinn:꿈, 비전
+501:Aspyn:아스펜 나무
+502:Aster:스타
+503:Astia:스타
+504:Aston:도시의 동쪽
+505:Astor:매
+506:Astria:스타
+507:Astrin:스타
+508:Astyrian:제거
+509:Aswin:신들의 친구
+510:Atheistan:왕의 이름
+511:Athelstan:고귀한 돌
+512:Athelston:귀족의 언덕에서
+513:Athemar:귀족이나 유명
+514:Atheron:봄 농장 동안 거주
+515:Athilda:노인
+516:Athony:기특한
+517:Atkinson:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+518:Atkinsone:칼, 아드리아에서 발생 (베니스) 또는 블랙 / 다크 둔
+519:Atley:유청
+520:Atteworthe:농장에서의 삶
+521:Attheaeldre:노인
+522:Atticus:아티카에서
+523:Attmore:무어에서
+524:Aud:16 세기 Etheidreda의 원래 소형
+525:Audelia:귀족, 힘
+526:Auden:오래된 친구
+527:Audene:귀족, 힘
+528:Audie:고귀한 힘
+529:Audre:고귀한 강도
+530:Audrey:고귀하고 강력한
+531:Audri:귀족, 힘
+532:Audria:귀족, 힘
+533:Audriana:오드리
+534:Audrianna:귀족, 힘
+535:Audric:오래되거나 현명한 통치자
+536:Audrie:귀족, 힘
+537:Audrielle:귀족, 힘
+538:Audrina:귀족, 힘
+539:Audris:귀족, 힘
+540:Audry:노벨상을 취소
+541:Audryanna:우아한, 고귀한 힘
+542:Aundra:용감한
+543:Aureole:발광 헤일로
+544:Auria:
+545:Auriana:특히 신성한
+546:Aurick:고귀한 지도자입니다.
+547:Austen:Honoured
+548:Austin:Honoured
+549:Austyn:위엄있는
+550:Autolycus:겨울 이야기 불량
+551:Autumn Rosemay:가을 Meiroosje
+552:Avalee:중세 주어진 이름 아비스과 아벨 린의 변화
+553:Avalyn:아름다운 새
+554:Avelina:중세 주어진 이름 아비스과 아벨 린의 변종.
+555:Aveline:중세 주어진 이름 아비스과 아벨 린의 변종.
+556:Avelyn:중세 주어진 이름 아비스과 아벨 린의 변종.
+557:Avena:귀리
+558:Averel:돼지 파이팅
+559:Averell:사나운 전투기
+560:Averil:멧돼지
+561:Averill:월에 태어난 봄의 싹을 열고,
+562:Avery:상담, 현명한 현인
+563:Averyl:돼지 파이팅
+564:Averyll:돼지 파이팅
+565:Avia:아버지는 주님
+566:Aviana:에바와 아나 현대 혼합
+567:Aviance:에바와 아나 현대 혼합
+568:Avianna:에바와 아나 현대 혼합
+569:Aviola:비올라
+570:Avira:일레븐 변호사
+571:Avon:강
+572:Avrel:돼지 파이팅
+573:Avrell:돼지 파이팅
+574:Avriel:
+575:Avril:
+576:Awel:산들 바람.
+577:Awen:뮤즈
+578:Awena:뮤즈
+579:Awstin:8월
+580:Aydon:불 같은
+581:Aylessa:친한
+582:Aylmer:유명한, 유명한
+583:Aymer:고귀한
+584:Aymon-Jae:콤비 이름 AimOne의 및 재
+585:Aynsley:앤`의 일반
+586:Ayrica:사람들의 통치자
+587:Ayrin:아일랜드 평화
+588:Ayub:가문비 나무
+589:Azura:하늘색
+590:Azurine:하늘색의
+591:Azurite:노벨 스톤
+592:Babara:이국적인, 신비 낯선 사람
+593:Babs:해외 외국 출생
+594:Baby:아가
+595:Badan:수퇘지
+596:Baerhloew:대머리 산 눈금자 또는 생활
+597:Bahron:남작
+598:Bailee:집행관
+599:Bailey:사법상의
+600:Baily:청지기
+601:Bain:밴 브리지, 공정 다리
+602:Bainbridge:흰색 물 위에 다리 근처 살고있다.
+603:Baker:베이커.
+604:Balamy:잘 생긴 동반자
+605:Balder:할 수있다
+606:Baldwin:굵은 친구
+607:Balerie:힘, 용기
+608:Ballad:감미로운 노래
+609:Balsam:향유
+610:Bana:살인자
+611:Banan:화이트
+612:Banbridge:화이트 워터 다리와 생활
+613:Banbrigge:흰색 물 위에 다리 근처 살고있다.
+614:Banjamino:판사의 아들. 베네딕트의 또한 변형
+615:Banjiman:판사의 아들. 베네딕트의 또한 변형
+616:Banyan:반얀 트리
+617:Banys:해리의 아들
+618:Bar:수퇘지
+619:Barbary:해외 외국 출생
+620:Barbee:이국적인, 신비 낯선 사람
+621:Barbi:외국의 여행자
+622:Barbie:바바라 소형 : 외국에서 외국 또는 이상한 여행자를 의미하는 그리스어 바바에서. 천주교 정의 세인트 바바라에서 불 번개 보호자의입니다.
+623:Barby:외국의 특이한
+624:Barda:지구의 딸
+625:Bardan:곰의 동굴 근처 생명이다
+626:Bardaric:도끼 자
+627:Bardarik:도끼 자
+628:Bardo:밭고랑 오프너
+629:Bardoul:밝은 늑대, 도끼 휘두르는 늑대
+630:Barkley:자작 밸리, 자작 나무, 초원
+631:Barnaby:위로의 아들
+632:Barnett:남작; 리더
+633:Barrclay:자작 밸리, 자작 나무, 초원
+634:Barris:해리의 아들
+635:Barron:전사
+636:Barse:민물 농어
+637:Bart:밝거나 반짝이는
+638:Bartel:밝거나 반짝이는
+639:Barth:훌륭해, 귀족이나 아름다운 까마귀의 뛰어난
+640:Barthel:밝거나 반짝이는
+641:Barthélemy:농부의 아들
+642:Bartholomeo:농부의 아들. 성 (姓)과 이름
+643:Bartholomew:Tolmai의 아들
+644:Bartle:세인트 바르톨로 뮤는 예수 그리스도의 사도였다
+645:Bartlet:세인트 바르톨로 뮤는 예수 그리스도의 사도였다
+646:Bártolo:농부의 아들
+647:Bartolomeo:농부의 아들
+648:Barton:보리 농장에서
+649:Bashar:남자 (종류)
+650:Basil:용감한 용감한
+651:Basile:왕, 왕
+652:Basilio:왕의
+653:Basilius:왕
+654:Basset:짧은
+655:Bassett:짧은.
+656:Bates:바돌로매의 변화는 종종 성으로 사용
+657:Bax:베이커.
+658:Baxter:
+659:Bayard:베이 색
+660:Baylee:집행관
+661:Bayley:스튜 나 공식, 책임있는 사람
+662:Bayly:청지기; 집행관
+663:Baynbridge:다리
+664:Bayou:기쁨으로
+665:Bazil:바질의 변형 : 왕, 왕
+666:Bazyl:바질의 변형 : 왕, 왕
+667:Beadwof:전쟁에서 지방
+668:Beale:멋진
+669:Beall:멋진
+670:Beamer:트럼펫.
+671:Beardsley:수염, 나무
+672:Bearn:아들
+673:Bearrocscir:버크셔에서
+674:Beaton:전사 부동산의
+675:Beatris:축복 여행
+676:Beauty:아름다움
+677:Becca:경계
+678:Beck:점유자
+679:Beckett:벌
+680:Becky:에
+681:Beda:빛나는, 반짝이는, 아름다운
+682:Bede:빛나는, 반짝이는, 아름다운
+683:Bedford:디스 포드
+684:Beecher:너도밤 나무로 거주자
+685:Bek:스트림입니다.
+686:Bekki:야곱의 이삭과 어머니의 아내
+687:Belanda:
+688:Beldene:아름다운 계곡에 살고
+689:Bellamy:잘 생긴 동반자
+690:Bemeere:트럼펫.
+691:Ben:재산의 아들
+692:Benecroft:빈 필드에서
+693:Benet:복이 주님의 이름으로 오시는 이여
+694:Beniamin:내 오른쪽의 아들
+695:Benjaman:판사의 아들. 베네딕트의 또한 변형
+696:Benjamie:내 오른쪽의 아들
+697:Benjenna:벤자민, 내 오른손의 아들
+698:Benji:오른쪽, 운이 좋은 아이에서 남쪽의 아들
+699:Benn:벤자민과 베네딕트의 약어
+700:Benna:복
+701:Bennet:축복받은
+702:Bennette:복
+703:Bennie:재산의 아들
+704:Benny:재산의 아들
+705:Benoic:의 금지
+706:Benon:훌륭해, 귀족이나 아름다운 까마귀의 뛰어난
+707:Bensen:벤의 아들. 성
+708:Benson:아들
+709:Bentley:하이 / 황무지
+710:Benton:잔디 장소에 정착
+711:Beorhthilde:빛나는 Battlemaid
+712:Beorhthramm:영광스러운 까마귀
+713:Beortbtraed:밝은 상담
+714:Beowulf:지능형 늑대
+715:Berangari:Spearbearer 하녀
+716:Berde:초원 자작 나무의 생명
+717:Berengaria:부담
+718:Berenice:승리
+719:Beric:곡물 농장
+720:Berk:부담
+721:Berke:아름다운 반짝이는, 빛나는
+722:Berkeley:버치 우드
+723:Bernard:강력하고 곰 같은 용감한
+724:Berney:
+725:Beronica:
+726:Berry:귀족으로 화려한
+727:Bert:화려한 귀족의 행동에 의해
+728:Bertie:화려한 까마귀
+729:Bertilda:빛나는 Battlemaid
+730:Bertilde:빛나는 Battlemaid
+731:Bertold:규칙 (D\u200b\u200b)
+732:Bertolde:밝은 강도
+733:Bertrand:서 브라 반트 이름
+734:Berty:버트의 소형 : 밝\u200b\u200b은 빛
+735:Beryl:크리스탈 (클리어)
+736:Bessie:하느님은 취임 선서를했습니다
+737:Bethan:하느님은 우리와 함께
+738:Bethannie:하우스 무화과
+739:Betina:야훼에 전념
+740:Betsy:하느님은 취임 선서를했습니다
+741:Betty:하느님은 취임 선서를했습니다
+742:Bettye:야훼에 전념
+743:Beverley:비버 초원에서 여성
+744:Beverly:비버 스트림, 비버 필드
+745:Bibi-Jaslene:레이디 Jaslene
+746:Bick:자르는 사람 포드
+747:Biecaford:자르는 사람 포드
+748:Bigot:참을 존 왕 주님
+749:Bill:헬멧과 의지로 강한로
+750:Bille:영웅 보호기
+751:Billi:영웅 보호기
+752:Billie:빌리의 철자 변형
+753:Billy:강한 의지 보호자 / 수비수
+754:Bin:빙햄은 침식
+755:Bina:지성
+756:Binder:책 바인더
+757:Bink:은행에서 라이브
+758:Bird:새.
+759:Birde:새.
+760:Birdie:현대 이름의 의미 작은 새, 조류와 같은
+761:Birdy:조류처럼
+762:Birkhed:자작 나무 곶에서의 생활
+763:Birkit:자작 나무 나무의 영역
+764:Birley:안정의 초원
+765:Birly:젖소 목장
+766:Bisgu:관심
+767:Bishop:감독
+768:Black:
+769:Blackburn:블랙 룩
+770:Blade:풍부한
+771:Blaecleah:어두운 초원에서
+772:Blagden:어두운 골짜기에서
+773:Blaise:말을 더듬다
+774:Blandford:회색 남자 포드
+775:Blathaon:Mwrheth 전설의 아들
+776:Blayke:어두운 빛
+777:Blayr:평평한
+778:Blaze:말을 더듬다
+779:Blejan:꽃
+780:Blessing:에
+781:Bliss:행복 기쁨
+782:Bliths:
+783:Blondel:솔직히 gehaard
+784:Blondelle:아첨하는
+785:Blossom:꽃, 꽃
+786:Blostm:신선한.
+787:Bluebell:블루 벨
+788:Blyde:기쁨 기원, 네덜란드어
+789:Blyss:즐거움, 기쁨 외침. 중세 시대에 사용
+790:Blysse:즐거움, 기쁨 외침. 중세 시대에 사용
+791:Blythe:쾌활한
+792:Boadicea:여왕
+793:Bobbi:바비의 변형 철자
+794:Bobbie:영광의 빛나는
+795:Bobby:영광의 빛나는
+796:Boc:남성 사슴
+797:Boda:전령 관
+798:Boh:잘 생긴, 아름다운
+799:Bolivia:
+800:Bolton:매너 농장의
+801:Bond:랜드 먼, 농부
+802:Bondig:무료로 제공됩니다.
+803:Bonie:
+804:Bonnita:연인 \u003cbr /\u003e 핸섬
+805:Booker:책 메이커
+806:Boot:집
+807:Bordin:멧돼지의 집
+808:Bordon:멧돼지의 집
+809:Boston:세인트 Botolf의 돌
+810:Bothe:오두막에 살고있다.
+811:Botulf:늑대의 오래 된 독일어 단어에서 유래. 보스턴은 Botulf의 돌 '로, 7 세기 성자의 이름을 따서 명명된다.
+812:Boy:용감한 친구
+813:Boyce:우즈
+814:Boyden:전령
+815:Brac:무료로 제공됩니다.
+816:Brack:Bracca`의 도시
+817:Brad:큰 초원
+818:Bradbourne:넓은 스트림에서
+819:Braddock:브로드 오크, 거주자
+820:Bradford:넓은
+821:Bradlee:넓은 초원 TBE
+822:Bradley:숲에서 삭제
+823:Bradlie:영화 배우 브래드 (브래들리) 피트
+824:Bradshaw:숲에서 삭제
+825:Braidon:Bradan`의 후계자
+826:Bram:많은 나라의 아버지
+827:Brand:(불타는) 검
+828:Branda:(불타는) 검
+829:Brandalynn:깨끗한 이미지 검
+830:Brande:횃불
+831:Brandeanna:검, 신성한 계곡
+832:Brandelyn:서 브라 반트 이름
+833:Brandenton:길가 덮여 언덕 마을
+834:Brandie:칼 불타는
+835:Brandis:길가에 덮여 언덕
+836:Brandon:언덕
+837:Brandy:칼 불타는
+838:Brandyn:비
+839:Brandywine:브랜디
+840:Brannon:아들
+841:Brant:검
+842:Brantley:검
+843:Brawley:Brolach의 후손
+844:Bray:벽돌공
+845:Braydan:Bradan`의 후계자
+846:Brayden:넓은
+847:Braydon:넓은
+848:Brayton:브레이의 마을
+849:Brean:강한
+850:Breann:강한
+851:Bredgitte:고상, 여신
+852:Breeana:강한
+853:Brendaly:칼 왕자
+854:Brenela:브렌다, 칼, 왕자
+855:Breneon:피크
+856:Brent:까마귀, 프린스, 그는 등대 사는 사람 / 성질 불타는 냄새 나는 그
+857:Brentan:가파른 언덕
+858:Brenton:배열
+859:Brentyn:피크
+860:Bret:
+861:Brette:영국 사람
+862:Brewstere:양조자
+863:Breyton:Bradan`의 도시
+864:Brezziana:에너지의 전체
+865:Briallan:앵초, 첫 번째는 장미
+866:Brianne:고귀한
+867:Briant:강한, 그는 내려
+868:Briar:관목 또는 작은 나무
+869:Brick:다리
+870:Brickelle:피클
+871:Bridge:다리 근처에 사는
+872:Bridgeley:다리 근처 초원에서
+873:Brieann:강한
+874:Brier:나무, 나무
+875:Brigett:고상, 여신
+876:Brigg:다리 근처 마을에서
+877:Briggebam:다리에서 라이브
+878:Briggs:다리 근처 마을에서
+879:Brigham:다리 결제
+880:Brighton:사람들에게 사랑
+881:Brigitha:고상, 여신
+882:Brihany:브리트니, 프랑스에서
+883:Brik:초자연적 존재에 대한 유행
+884:Brilane:브리검 레인
+885:Brilee:노벨, 매우 일반
+886:Brine:바닷물의
+887:Brinly:탄 나무
+888:Brion:용감한
+889:Brioni:민속 의학에서 사용되는 꽃 나무의 이름입니다.
+890:Brionna:민속 의학에서 사용되는 꽃 나무의 이름입니다.
+891:Briony:독성 등반 덩굴
+892:Briseida:그리스 Cresida의 원래 고대 영어 형태.
+893:Brista:
+894:Bristal:
+895:Bristol:다리
+896:Brit:영국에서 남자
+897:Brita:아일랜드 이름 Brighid에서 파생 된
+898:Britany:영국에서
+899:Britiney:브리트니, 프랑스에서
+900:Britnee:브리트니, 프랑스에서
+901:Britney:프랑스에서 브리트니의 원래 고대의 공작령. 셀틱 브리타니는 프랑스에서 영국 브리타니되기 위해 이민.
+902:Britni:브리트니, 프랑스에서
+903:Britny:브리트니, 프랑스에서
+904:Brittani:국가
+905:Brittany:국가
+906:Britteney:브리트니, 프랑스에서
+907:Britteny:브리트니, 프랑스에서
+908:Brittiany:브리트니, 프랑스에서
+909:Brittnee:프랑스에서 브리트니의 원래 고대의 공작령. 셀틱 브리타니는 프랑스에서 영국 브리타니되기 위해 이민.
+910:Brittney:프랑스에서 브리트니의 원래 고대의 공작령. 셀틱 브리타니는 프랑스에서 영국 브리타니되기 위해 이민.
+911:Brittni:프랑스에서 브리트니의 원래 고대의 공작령. 셀틱 브리타니는 프랑스에서 영국 브리타니되기 위해 이민.
+912:Brittny:국가
+913:Britto:신화 기원
+914:Britton:브르타뉴어
+915:Brock:스트림 살아
+916:Brockman:남자 괴롭힘
+917:Brok:오소리.
+918:Brone:갈색
+919:Bronsen:흑인의 아들
+920:Bronson:브라운
+921:Bronte:
+922:Bronwen:공정 가슴
+923:Bronwyn:화이트
+924:Brook:스트림 살아
+925:Brookanna:은혜 흐름
+926:Brooke:스트림 살아
+927:Brookelyn:아름 다운 강
+928:Brooklin:아름 다운 강
+929:Brooklyn:매끈한, 청소
+930:Brooklynn:물, 전기,
+931:Brooklynne:물, 전기,
+932:Brown:브라운 (색상 이름)
+933:Brownie:색상 브라운
+934:Brucie:굵은 브러시
+935:Brun:검은 피부.
+936:Bruns:검은 피부
+937:Bryana:고귀한
+938:Bryden:영국의 이름
+939:Brylan:고귀한 강한 매력
+940:Bryon:용감한, 유덕
+941:Bryony:공식적 기는 이름
+942:Brytanie:브리트니, 프랑스에서
+943:Buck:벅 / 리복
+944:Bucky:숫 사슴 소형 : 남성 사슴
+945:Bud:버튼 세균
+946:Buddie:버튼 세균
+947:Buddy:버튼 세균
+948:Bundy:무료로 제공됩니다.
+949:Bunty:부드러운, 친절한 펀치
+950:Burch:버크.
+951:Burckhardt:강력한 성
+952:Burford:성 포드에서 생활
+953:Burgard:강력한 성
+954:Burghard:성으로 강력한.
+955:Burket:자작 나무 나무의 영역
+956:Burkett:자작 나무 나무의 영역
+957:Burle:강화
+958:Burley:성 초원 생활
+959:Burnett:알 수없는
+960:Burney:브룩 섬 생활
+961:Burnidine:승리를 가져온다
+962:Burris:시에서 자치구
+963:Burt:삭제
+964:Burton:요새에서
+965:Buster:터프 가이
+966:Butch:정육점 정육점의 소형
+967:Butcher:정육점
+968:Butler:집사
+969:Byrd:새처럼
+970:Byron:에
+971:Cabe:로퍼 - 성 케이블에서 파생 된
+972:Cable:구둣방
+973:Caciana:은혜 후계자 Cathasaigh
+974:Cacilie:떨어 뜨리는
+975:Cadarn:
+976:Cadarrian:좋은 럭셔리
+977:Cadawg:전투 샤프
+978:Cadden:`의 후계자 종지
+979:Cadel:작은 스트로크
+980:Cadena:율동적인
+981:Cadi:깨끗하고, 순수한, 축복, 거룩한
+982:Cadie:케이디의 변형, 소리의 리듬 흐름
+983:Cadwallon:전투 배치
+984:Cadwyn:체인
+985:Cady:언덕
+986:Caer-Llion:Caerleon에서
+987:Caersewiella:물냉 봄 생활
+988:Cafell:신탁
+989:Cai:가이오의 변형
+990:Caine:스피어 사냥꾼
+991:Caio:즐거움
+992:Caius:행복한
+993:Cal:양배추, 이름의 약어로 시작하는 칼 -
+994:Calanthia:아름다운 꽃
+995:Calbert:소 치는 사람, 카우보이
+996:Calbex:목자.
+997:Caldre:콜드 스트림입니다.
+998:Cale:매끈한, 청소
+999:Calee:아름다운
+1000:Caleigh:자손
+1001:Caliban:폭풍 야생 변형 노예
+1002:Calinda:종달새
+1003:Calli:케일리, 아일랜드, 스코틀랜드에있는 자로부터
+1004:Callie:가장
+1005:Cally:종달새
+1006:Calvert:소 치는 사람, 카우보이
+1007:Calvin:불모의 땅의 주민, 베어
+1008:Calvyn:용맹 한
+1009:Came:
+1010:Camella:서 브라 반트 이름
+1011:Camellia:서 브라 반트 이름
+1012:Cameroon:상처 코
+1013:Cami:젊은 의식 보호자
+1014:Camie:젊은 의식 보호자
+1015:Camille:제단 Knaap
+1016:Camillo:제단 Knaap
+1017:Cammellia:젊은 의식 보호자
+1018:Cammie:젊은 의식 보호자
+1019:Cammy:젊은 의식 보호자
+1020:Camomilla:젊은 의식 보호자
+1021:Camreen:상처 코
+1022:Camyron:상처 코
+1023:Canda:빛나는 백색, 순수한
+1024:Candace:화재 화이트
+1025:Candian:빛나는 백색, 순수한
+1026:Candice:화재 화이트
+1027:Candis:빛나는 백색, 순수한
+1028:Candle:초
+1029:Candyace:빛나는 백색, 순수한
+1030:Candyce:에티오피아 여왕에 의해 사용되는 고대 유전 제목
+1031:Cane:설탕 줄기
+1032:Capella:아카펠라
+1033:Capricia:충격
+1034:Captain:그는 위탁
+1035:Caractacus:문자, 편심
+1036:Caralie:사랑하는 일반
+1037:Carayetta:사랑스런 왕관
+1038:Cardyn:블랙 요새에서
+1039:Carie:남자 다움
+1040:Cariel:하느님의 사자
+1041:Caril:남자 다움
+1042:Carilyn:찰스, 남성의 여성 변종
+1043:Carilynne:찰스, 남성의 여성 변종
+1044:Caris:은혜, 은혜
+1045:Carisah:
+1046:Carl:남자 같은 의미
+1047:Carlatun:칼의 농장에서
+1048:Carleigh:소유자, 무료 여성
+1049:Carlena:부드럽고, 약간의 챔피언
+1050:Carless:남자 다움
+1051:Carleton:농민 결제
+1052:Carley:야, 남자, 큰 또는 자유인 \u003cbr /\u003e 남성
+1053:Carlia:남자 다움
+1054:Carlis:남자 다움
+1055:Carlisa:남자 같은 의미
+1056:Carlisle:요새
+1057:Carlissa:친절, 귀족, 남성
+1058:Carlose:남자 다움
+1059:Carlson:도시의 칼튼 무료 남성의 변형
+1060:Carlye:남자 다움
+1061:Carlyle:보호 타워
+1062:Carlynn:캐롤린, 작은 여성
+1063:Carmel:정원
+1064:Carmelo:정원;
+1065:Carmilla:금과 달콤한
+1066:Carmine:정원;
+1067:Caro:야, 남자, 큰 또는 무료 사람, 찰스 여성 변종, 남성
+1068:Carol:비 귀족 자유민
+1069:Carolan:찰스, 남성의 여성 변종
+1070:Carolann:비 귀족 자유민
+1071:Carolanne:남자 다움
+1072:Carolee:멜로디, 보컬, 일반
+1073:Caroliana:찰스, 남성의 여성 변종
+1074:Caroll:남자 다움
+1075:Carols:남자 다움
+1076:Carolus:비 귀족 자유민
+1077:Carolyne:남자 다움
+1078:Carolynn:찰스 문장 전자에서 파생 된 여성
+1079:Caron:사랑, 종류
+1080:Carrey:Ciardha`의 후계자
+1081:Carri:
+1082:Carrington:습지의 마을
+1083:Carroline:남자 다움
+1084:Carroll:검객
+1085:Carrolyne:남자 다움
+1086:Carswell:물냉 봄 생활
+1087:Carter:운송자
+1088:Cartere:카트 드라이브
+1089:Cartwright:빌더 카트
+1090:Caryl:영어 캐롤의 프랑스 양식
+1091:Caryn:[순수]
+1092:Carys:사랑
+1093:Cas:Lucanie의 빛
+1094:Case:케이스;
+1095:Cash:캐스퍼의 소형 : 부자
+1096:Casper:회계 원
+1097:Caspian:사람들 Caspy의
+1098:Cassandra:그 남자 사이에서 빛난다
+1099:Cassaundra:인류에 빛나는
+1100:Cassey:경박 한
+1101:Cassi:그 남자 사이에서 빛난다
+1102:Cassiana:경박 한, 자비로운
+1103:Cassibellaunus:신화 기원
+1104:Cassideean:곱슬 머리와
+1105:Cassie:사람들
+1106:Cassy:그 남자 사이에서 빛난다
+1107:Caster:로마 캠프
+1108:Castle:성이 (가) 있습니다.
+1109:Catelin:순수한 아름다움
+1110:Cately:순수한 아름다움
+1111:Cater:역할 사람
+1112:Catheryn:순진한
+1113:Cathia:서 브라 반트 이름
+1114:Cathie:그리스 캐서린 의미를 순수한 형태
+1115:Cathy:깨끗하고 순수한
+1116:Catrin:깨끗하고, 순수한, 축복, 거룩한
+1117:Cayci:Cathasaigh`의 후계자
+1118:Caydon:`의 후계자 종지
+1119:Caylah:아름다운
+1120:Cayleigh:
+1121:Ceaster:사이트에 삶
+1122:Ceceli:떨어 뜨리는
+1123:Ceci:떨어 뜨리는
+1124:Cecil:떨어 뜨리는
+1125:Cécile:더미
+1126:Cecilianne:블라인드, 자비로운
+1127:Cecilie:떨어 뜨리는
+1128:Cecylia:떨어 뜨리는
+1129:Cedra:현대 여성 세드릭
+1130:Cedric:Cerdic, 웨 섹스의 첫 번째 앵글로 색슨 왕에서 파생 된
+1131:Cedrica:현대 여성 세드릭
+1132:Cédrik:화려 선물
+1133:Cedrych:Cerdic, 웨 섹스의 첫 번째 앵글로 색슨 왕에서 파생 된
+1134:Cee:떨어 뜨리는
+1135:Ceila:떨어 뜨리는
+1136:Ceilagh:떨어 뜨리는
+1137:Celes:
+1138:Celesia:
+1139:Celestial:
+1140:Celi:
+1141:Celiane:하늘, 자비로운
+1142:Celma:하느님의 보호
+1143:Celtic:셀틱의 사람들
+1144:Cendy:
+1145:Cenehard:지방 보호자
+1146:Cenhelm:현명한 보호
+1147:Cerella:주님,
+1148:Cerys:사랑
+1149:Cescelia:떨어 뜨리는
+1150:Cesia:떨어 뜨리는
+1151:Ceslie:떨어 뜨리는
+1152:Chadwick:Ceaddas
+1153:Chaise:사냥꾼
+1154:Chal:소년, 아들
+1155:Chaleb:개
+1156:Chalsea:포트
+1157:Champayne:샴페인
+1158:Chance:재산, 도박. 천시의 변형
+1159:Chandler:촛불 메이커.
+1160:Chann:젊은 늑대
+1161:Channing:박식 한
+1162:Chany:오크 나무
+1163:Chanyn:현명하고, 강
+1164:Chaon:특히
+1165:Chaos:혼돈
+1166:Chap:채프먼의 소형 : 행상, 상인
+1167:Chapel:예배 기독교 장소
+1168:Chaquilla:
+1169:Chardonnay:샤르도네
+1170:Chari:사람들에게 사랑
+1171:Charlean:남자 다움
+1172:Charleen:찰스 의미의 여성
+1173:Charles:비 귀족 자유민
+1174:Charlese:남자 다움
+1175:Charleston:사람, 칼의 변형
+1176:Charlet:남자 다움
+1177:Charlie:비 귀족 자유민
+1178:Charlli:남자 다움
+1179:Charlotte:그 자유의 몸
+1180:Charlsey:남자 다움
+1181:Charlsy:남자 다움
+1182:Charlton:무료 사람의 결산
+1183:Charly:남자. 칼의 변형
+1184:Charlyn:비 귀족 자유민
+1185:Charlysse:남자 다움
+1186:Charmagne:남자 다움
+1187:Charmain:클레오 파트라`의 경호원 중 하나
+1188:Charmaine:유혹
+1189:Charmine:클레오 파트라`의 보호자 중 하나
+1190:Chars:자유민
+1191:Chas:고대 영어 ceorl 의미 사람
+1192:Chasa:존경, 순수
+1193:Chasady:존경, 순수
+1194:Chase:사냥꾼.
+1195:Chasen:사냥꾼.
+1196:Chassidee:존경, 순수
+1197:Chassie:존경, 순수
+1198:Chassity:존경, 순수
+1199:Chaste:존경, 순수
+1200:Chastity:순결
+1201:Chatham:군인 나라
+1202:Chauncey:재산, 도박. 프랑스 마을에 따라 성에서. 유명한 소지자 : 찰스 Chauncy의, 초기 하버드 대학의 대통령.
+1203:Chayla:요정 궁전
+1204:Chaz:무료
+1205:Chelby:버드 나무 농장
+1206:Chelly:일반 증가
+1207:Chelsa:첼시의 변형
+1208:Chelse:착륙
+1209:Chelsea:분필
+1210:Chelsey:분필
+1211:Chelsi:도시, 런던 지역
+1212:Chelsie:분필
+1213:Chelsy:도시, 런던 지역
+1214:Cher:미덕
+1215:Chera:왕자
+1216:Cherese:그리고 Â'geliefd, 얘야
+1217:Cherette:사람들에게 사랑
+1218:Cheria:사람들에게 사랑
+1219:Cherie:그리고 Â'geliefd, 얘야
+1220:Cheril:사람들에게 사랑
+1221:Cherilyn:마릴린의 운 변종
+1222:Cherise:벚나무
+1223:Cherly:사람들에게 사랑
+1224:Cheron:
+1225:Cherria:사람들에게 사랑
+1226:Cherry:벚나무
+1227:Cheryl:야, 남자, 큰 또는 자유인
+1228:Chess:무료
+1229:Chester:Marmion
+1230:Cheston:군단병 캠프
+1231:Chet:캠프;
+1232:Cheyane:샤이엔, 모호한 이야기
+1233:Chile:좁은 (르 통로)
+1234:Chill:칠턴 이름
+1235:Chilton:강 마을
+1236:China:진
+1237:Chip:사람 (고대 영어 ceorl부터)
+1238:Chirley:분명 일반
+1239:Chirly:분명 일반
+1240:Chistopher:그리스도의 추종자
+1241:Chloie:
+1242:Chonda:하느님은 화해
+1243:Chris:기름 부음
+1244:Chrisopher:그리스도의 추종자
+1245:Chriss:그리스도의 추종자
+1246:Christa:기름 부음
+1247:Christabel:기름 부음
+1248:Christabelle:그리스도의 추종자
+1249:Christan:기름 부음
+1250:Christanne:기름 부음
+1251:Christeen:종자
+1252:Christeena:종자
+1253:Christen:종자
+1254:Christena:그리스도의 크리스티 추종자에서 파생 된
+1255:Christene:종자
+1256:Christian:기름 부음
+1257:Christiana:종자
+1258:Christianah:그리스도의 추종자
+1259:Christianos:그리스도의 추종자
+1260:Christina:기름 부음
+1261:Christine:기름 부음
+1262:Christion:그리스도의 추종자
+1263:Christmas:기름 부음받은 그리스도의 소유가 지적
+1264:Christof:그리스도의 무기명
+1265:Christofer:그의 마음에 그리스도를 보유하고 그
+1266:Christoff:그리스도의 무기명
+1267:Christoforus:그는 그의 마음에 그리스도를 전달
+1268:Christoph:그의 마음에 그리스도를 보유하고 그
+1269:Christophe:그의 마음에 그리스도를 보유하고 그
+1270:Christopho:그리스도의 추종자
+1271:Christos:그의 마음에 그리스도를 보유하고 그
+1272:Christphor:그리스도의 추종자
+1273:Christyn:기름 부음
+1274:Chrystalla:밝고 화려한 유리
+1275:Chrystian:그리스도의 추종자
+1276:Chrystina:종자
+1277:Chuck:Possessor
+1278:Churchyll:처치 힐에서의 삶
+1279:Chyna:진
+1280:Cibel:선지자
+1281:Cibele:선지자
+1282:Cibelle:선지자
+1283:Cicero:병아리 콩
+1284:Cici:떨어 뜨리는
+1285:Cidney:강을 따라 광대 한 풍경
+1286:Cilla:더미
+1287:Cim:자.
+1288:Cimberleigh:왕의 초원에서
+1289:Cinda:신시아와 루신다의 약어
+1290:Cindel:신시아와 루신다의 약어
+1291:Cindi:신시아와 루신다의 약어
+1292:Cindia:신시아와 루신다의 약어
+1293:Cindra:산 Kynthos에서
+1294:Cindy:그리스 신화에 등장하는 `달의 여신` 신디아(Cynthia)의 변형된 형태입니다. 그리고 신데렐라(Cinderella) 이름에서도 영향을 받았습니다.
+1295:Cingeswell:왕의 봄 생활
+1296:Cingeswiella:왕의 봄 생활
+1297:Cinthya:Kynthos에서
+1298:Cinty:Kynthos에서
+1299:Cirilla:주님,
+1300:Cis:그리스도와 함께 시작하는 남성 또는 여성 이름의 소형
+1301:Cissie:로 시작하는 남성 또는 여성 이름의 소형 그리스도
+1302:Claec:
+1303:Claegborne:점토 시내에서
+1304:Claegtun:인간.
+1305:Clair:강 클레어 근처에 사는 사람
+1306:Clar:밝은 조명
+1307:Clarabel:밝은 조명의 아름다움
+1308:Clarance:강 클레어 근처에 사는 사람
+1309:Clare:밝은, 빛나는
+1310:Claresta:화려한.
+1311:Clarey:클래 런스 소형 : 지우기
+1312:Claribel:삭제
+1313:Clarice:지우기;
+1314:Clarinda:아름다운 지우기
+1315:Claris:밝은 조명
+1316:Clarity:
+1317:Clark:남자 다움
+1318:Clarke:클라크의 이름
+1319:Claudelle:여성 클로드
+1320:Claudene:불쌍해
+1321:Claudette:절름발이의
+1322:Claudine:절름발이의
+1323:Claudineia:불쌍해
+1324:Claudius:불쌍하다, 불쌍해, 양
+1325:Clay:점토;
+1326:Clayne:점토 국가 가까운 마을
+1327:Claytin:점토 침대에 의해 도시
+1328:Clayton:점토
+1329:Clem:부드러운
+1330:Cleme:부드러운
+1331:Clemence:온유, 자비
+1332:Clemens:관대 온유, 자비
+1333:Clement:온유, 자비
+1334:Clementine:서 브라 반트 이름
+1335:Clemento:온유, 자비
+1336:Clemintina:교감 신경
+1337:Clemmie:부드러운
+1338:Cleomenes:시칠리아의 겨울 이야기 주
+1339:Cleon:Kleio의 변형
+1340:Clerc:학자
+1341:Clerk:학자
+1342:Cleva:절벽에 생활
+1343:Cleveland:경사
+1344:Clide:스코틀랜드의 클라이드 강
+1345:Cliff:절벽
+1346:Clifford:절벽
+1347:Cliffton:절벽 근처의 농장에서
+1348:Clifton:경사
+1349:Clint:배열
+1350:Clinton:언덕에 정착
+1351:Clinttun:곶 부동산에서
+1352:Clintwood:경사
+1353:Cliry:좋은 친구
+1354:Clive:절벽
+1355:Clover:초원 꽃
+1356:Cloyd:
+1357:Clyff:절벽 근처 포드 강
+1358:Clyfford:절벽 근처 포드 강
+1359:Clyford:절벽 쪽 포드
+1360:Clyfton:절벽 근처의 도시
+1361:Clynt:언덕 근처의 도시
+1362:Cobb:대단히
+1363:Codi:유용
+1364:Codie:자손
+1365:Cody:자손
+1366:Colbie:석탄 도시
+1367:Colby:석탄 노동자;
+1368:Cole:콜린의 소형 : 승리의 사람의, 젊은 소년.
+1369:Colin:사람들의 정복자
+1370:Colla:승리
+1371:Collby:어두운 농장
+1372:Colley:때때로 이름으로 사용 성 의미 암흑. 유명한 무기명, 18 세기의 배우이자 극작가 Colley의 Cibber.
+1373:Collier:석탄 광부
+1374:Collin:사람들의 정복자
+1375:Collins:니콜라스 사람들의 승리의 약어
+1376:Collis:어두운 사람의 아들입니다.
+1377:Collyer:숯 상인
+1378:Colman:비둘기, 검은 피부
+1379:Colonel:군사 순위
+1380:Colony:사람들의 그룹
+1381:Colt:젊은
+1382:Colten:석탄 도시.
+1383:Colton:석탄
+1384:Colver:비둘기.
+1385:Colvert:선원.
+1386:Colwyn:멤피스에있는 강 이름
+1387:Colyn:승리의 사람
+1388:Connie:확고하고 참을성있는
+1389:Conrade:용감한 고문
+1390:Constance:확고하고 참을성있는
+1391:Constancia:꾸준한, 지속적인
+1392:Constancy:16 및 17 세기 청교도에 의해 사용되는 콘 스탄 츠, 바덴 뷔 르템 베르크의 변형
+1393:Constant:확고하고 참을성있는
+1394:Constantine:고정 된
+1395:Constantino:고정
+1396:Constantinos:안정, 안정
+1397:Conswala:
+1398:Conswellia:
+1399:Conswello:
+1400:Cony:코리의 변형, 언덕 속을 비게
+1401:Cook:요리사
+1402:Cooke:요리사
+1403:Cookie:달콤한 비스킷
+1404:Cooper:통
+1405:Coral:산호;
+1406:Coralee:처녀
+1407:Coralia:처녀
+1408:Coralie:처녀
+1409:Coraline:인기있는 19 세기 보석 이름
+1410:Corben:까마귀 머리
+1411:Corbyn:까마귀의 변형
+1412:Cord:코델의 변형, 로프 제조 업체
+1413:Cordale:코델의 변형, 로프 제조 업체
+1414:Cordelia:드문 정직 셰익스피어의 리어 왕의 여자.
+1415:Cordell:메이커
+1416:Cordia:바다의 딸
+1417:Cordy:바다의 딸
+1418:Corella:처녀
+1419:Corenia:처녀
+1420:Coretta:처녀
+1421:Cori:처녀
+1422:Corianne:하느님
+1423:Corie:처녀
+1424:Corky:코리의 변형, 언덕 속을 비게
+1425:Corliss:치료에서 다행히도, 무료
+1426:Cornal:대학 도시 이름
+1427:Cornell:경적;
+1428:Cornwallis:콘월의 남자
+1429:Corrie:뿔
+1430:Corry:뿔
+1431:Cort:용기, 정직 고문
+1432:Cortland:아첨꾼, 법원 관리자
+1433:Cortney:법정에서의 삶
+1434:Corvin:까마귀 머리
+1435:Costa:콘스탄틴 소형 : 정상, 안정
+1436:Coti:강변
+1437:Cotina:강변
+1438:Cotton:면
+1439:Coty:강 은행
+1440:Coulson:승리의 사람
+1441:Coulter:콜트 젊은 말의 변형, 장난
+1442:Countess:제목
+1443:Courtenay:코트니의 변형
+1444:Courtlandt:농토
+1445:Courtlyn:공손한, 정중 한
+1446:Courtnee:커티스 지역
+1447:Courtney:쿠 르티 우스의 도메인
+1448:Coy:조용한
+1449:Craddock:애정, 사랑
+1450:Crawford:크로우 포드
+1451:Creda:신앙
+1452:Crescent:초승달
+1453:Crespin:도시 크릭에 살고
+1454:Cresswell:물냉이 강
+1455:Criseyde:초서에 의해 사용 그리스의 Cressida의 고대 영어 형태
+1456:Crist:기독교의
+1457:Cristen:종자
+1458:Cristhyan:그리스도의 추종자
+1459:Cristin:종자
+1460:Cristobal:그리스도
+1461:Cristyn:그리스도의 기름 부음, 무기명, 그리스도의 종
+1462:Crofton:작은 밀폐 된 필드 마을
+1463:Crosby:십자가 밑에 또는 교차로에서 사는 사람
+1464:Croslea:십자가와 초원
+1465:Crosley:크로스 초원에서
+1466:Crosly:크로스 초원에서
+1467:Cross:십자가
+1468:Crossley:십자가와 초원
+1469:Crowther:바이올린 연주자
+1470:Crystell:수정
+1471:Crystelle:수정
+1472:Cubert:Daere 전설의 아들
+1473:Cully:잘 생긴 또는 포리스트에있는
+1474:Culver:비둘기.
+1475:Cupid:아테네의 티몬의 생활
+1476:Cuthbert:유명한
+1477:Cwentun:부동산의 여왕
+1478:Cy:마스터 마스터
+1479:Cyanne:우아한, 리갈
+1480:Cyd:세인트에서
+1481:Cydne:낡은
+1482:Cydney:넓은
+1483:Cym:자.
+1484:Cymbeline:영국의 Cymbeline 왕
+1485:Cymone:하느님은 들었습니다
+1486:Cynbal:전사 최고
+1487:Cynbel:전사 최고
+1488:Cynburleigh:왕의 초원에서
+1489:Cyndi:신시아의 이름
+1490:Cyndy:신시아와 루신다의 약어
+1491:Cynric:왕.
+1492:Cynthya:Kynthos에서
+1493:Cyprus:사이프러스
+1494:Cyrus:일,
+1495:Dace:남쪽에서
+1496:Dack:닥스의 프랑스 마을에 대한 참조
+1497:Daedbot:참회
+1498:Dael:작은 계곡
+1499:Daelyn:작은 계곡
+1500:Daena:덴마크. 다니엘도 변형
+1501:Daffeney:월계수의 잎
+1502:Dafydd:서 브라 반트 이름
+1503:Dagian:새벽
+1504:Daijah:데자에 대한
+1505:Dain:덴마크, 덴마크의 변형
+1506:Daina:노래
+1507:Daine:덴마크, 덴마크의 변형
+1508:Daisey:하루의 눈
+1509:Daisie:하루의 눈
+1510:Daisy:데이지
+1511:Daizy:일 눈. 꽃 이름
+1512:Daja:데자에 대한
+1513:Dajanae:하느님은 화해
+1514:Dakatia:거룩한
+1515:Dakeitha:나무
+1516:Dakisha:계수 나무 향신료
+1517:Dakoda:
+1518:Dalbert:밝은 하나; 자랑
+1519:Dale:골짜기에 살고있다. 성
+1520:Daleen:어머니의
+1521:Dalen:길가의 나라
+1522:Dalena:작은 계곡
+1523:Dalene:작은 계곡
+1524:Dalenia:골짜기
+1525:Daley:수집
+1526:Dallan:블라인드
+1527:Dallin:점유자
+1528:Dallton:데일 도시, 도시의 계곡
+1529:Dalton:도시
+1530:Dalvin:
+1531:Dalwin:동료, 좋은 친구
+1532:Daly:계곡 / 계곡에 살고
+1533:Dalys:휴식의 장소
+1534:Damara:아름다운 소녀
+1535:Damarcus:남자 다움
+1536:Damein:길, 진정
+1537:Danah:내 판사는 하느님
+1538:Danail:하느님은 내 판사입니다
+1539:Dandra:용감한
+1540:Dandre:용감한, 영웅 남자
+1541:Danella:하느님은 내 판사입니다
+1542:Danelle:하느님은 내 판사입니다
+1543:Danette:내 판사는 하느님
+1544:Daney:덴마크는 다니엘의 변형입니다
+1545:Dania:중재인
+1546:Danice:하느님은 내 판사입니다
+1547:Danior:치아 탄생
+1548:Danise:다니엘 하느님의 여성 변종은 정의를 할 것
+1549:Danitza:다니엘 하느님의 여성 변종은 정의를 할 것
+1550:Danna:다니엘 하느님의 여성 변종은 정의를 할 것
+1551:Dannah:하느님은 내 판사입니다
+1552:Dannee:다니엘 하느님의 여성 변종은 정의를 할 것
+1553:Dannett:하느님의 은혜
+1554:Danni:하느님이 심판하실 것이다
+1555:Dannia:하느님은 내 판사입니다
+1556:Dantina:다니엘 하느님의 여성 변종은 정의를 할 것
+1557:Danton:귀중한
+1558:Danty:견디다
+1559:Dany:하느님은 내 판사입니다
+1560:Danya:하느님은 내 판사입니다
+1561:Danyale:하느님은 내 판사입니다
+1562:Danyell:하느님은 내 판사입니다
+1563:Danylynn:데럴의 변형
+1564:Daphnee:월계수의 잎
+1565:Daphyne:월계수의 잎
+1566:Dar:꾸미기
+1567:Daralis:사랑스러운
+1568:Daran:큰
+1569:Darbi:사슴 시티
+1570:Darek:영재 자. 테오
+1571:Darel:Airelle에서
+1572:Darelle:부드럽게 사랑
+1573:Dariël:다렐의 변형, 열
+1574:Dariell:다렐의 변형, 열
+1575:Darik:땅의 통치자
+1576:Daril:Airelle, 프랑스의
+1577:Darin:탄
+1578:Darious:좋은 럭셔리
+1579:Darla:사랑. 고대 영어의 친애하는 TION
+1580:Darleane:친애하는 오래된 영국 철도, 사랑
+1581:Darleen:사랑. 고대 영어의 친애하는 TION
+1582:Darlena:친애하는 오래된 영국 철도, 사랑
+1583:Darlene:사랑. 고대 영어의 친애하는 TION
+1584:Darlina:친애하는 오래된 영국 철도, 사랑
+1585:Darline:사랑. 고대 영어의 친애하는 TION
+1586:Darlla:작은 사랑
+1587:Darnal:쉼터 숨겨진 영\u200b\u200b역
+1588:Darnel:대피소, 숨겨진 영\u200b\u200b역
+1589:Darnell:숨겨진
+1590:Darold:대릴와 해롤드 또는 제럴드의 혼합물
+1591:Darolyn:대릴 의미의 변형 사랑
+1592:Daron:오크, 신 결말
+1593:Darrel:데럴의 변형
+1594:Darrell:Airelle에서
+1595:Darron:탄
+1596:Darryl:데럴의 변형
+1597:Darryn:큰
+1598:Darton:사슴
+1599:Darvin:대릴 및 마빈의 혼합물
+1600:Darwin:친애하는
+1601:Darwyn:친애하는 친구
+1602:Daryl:데럴의 변형
+1603:Daryll:데럴의 변형
+1604:Darylyn:데럴의 변형
+1605:Dasean:하느님은 화해
+1606:Dasity:존경, 순수
+1607:Dasmine:재스민
+1608:Dauna:
+1609:Davella:사람들에게 사랑
+1610:Daveth:사람들에게 사랑
+1611:Davia:사랑하는 여성 데이비드
+1612:Davian:다윗의 변형
+1613:Davianna:사랑하는 여성 데이비드
+1614:Davidia:사람들에게 사랑
+1615:Daviel:사랑하는 다윗의 변형,
+1616:Davies:성. 다윗의 변형 '사랑.'
+1617:Davine:사랑
+1618:Davion:사랑하는 다윗의 변형,
+1619:Davison:다윗의 사랑 성 변종
+1620:Davita:, 친구
+1621:Davonta:강
+1622:Davyn:다윗의 변형 '사랑.'
+1623:Dawn:아침
+1624:Dawnielle:일광의 첫 등장, 새벽.
+1625:Dawson:데이비드
+1626:Dax:물
+1627:Daxton:닥스의 프랑스 마을에 대한 참조
+1628:Daylan:길가의 나라
+1629:Dayle:작은 계곡
+1630:Daylen:길가의 나라
+1631:Daylin:길가의 나라
+1632:Daylon:길가의 나라
+1633:Dayna:. 다니엘도 변형
+1634:Dayne:흐름
+1635:Dayner:덴마크, 덴마크의 변형
+1636:Dayse:데이지
+1637:Daysi:일 눈. 꽃 이름
+1638:Dayson:성. 다윗의 변형 '사랑.'
+1639:De-Burgh:존 왕 허버트 드 Burgh
+1640:Dealbeorht:자랑스럽게 생각합니다.
+1641:Dean:계곡에서 인근
+1642:Deana:계곡에서. 다이애나의 의미 하느님의 변종
+1643:Deanda:다른 사람, 달의 여신, 빛과 사냥 중
+1644:Deandra:사람
+1645:Deane:계곡에서
+1646:Deaner:
+1647:Deangela:천상의
+1648:Deania:하느님의 리더
+1649:Deanie:
+1650:Deann:다이아나 신 감각에서 유래
+1651:Deanni:하느님의 은혜
+1652:Deara:공감, 현명한
+1653:Deba:
+1654:Debbie:부지런한 벌
+1655:Debbora:부지런한 벌
+1656:Debbra:
+1657:Decembre:12월
+1658:Dedriana:우아한 여성
+1659:Dedrick:지배자
+1660:Dee:를 참조하십시오
+1661:Deeana:다이아나, 신성의 변형
+1662:Deeann:다른 사람의 사이에서, 달의 여신, 빛 사냥, 신
+1663:Deeanna:다른 사람의 사이에서, 달의 여신, 빛 사냥, 신
+1664:Deena:평점
+1665:Deidri:여성
+1666:Deja:이미
+1667:Dejah:데자에 대한
+1668:Dejuan:하느님은 화해
+1669:Dekel:Schoonmaker, 경찰
+1670:Dekle:Schoonmaker, 경찰
+1671:Delaina:노인 학대 나무
+1672:Delanei:노인 학대 나무
+1673:Delania:노인 학대 나무
+1674:Delavan:동료, 좋은 친구
+1675:Delbert:맑은 날, 화창한 날에, 고귀한
+1676:Delene:노인 학대 나무
+1677:Delevan:동료, 좋은 친구
+1678:Delice:즐거움을 준다
+1679:Deliesselia:축복받은
+1680:Delight:라틴어 데리의 변화는 즐거움을 준다
+1681:Delisa:라틴어 데리의 변형, 즐거움을 준다
+1682:Delisea:축복받은
+1683:Delisha:즐거움을 준다
+1684:Deliza:라틴어 데리의 변형, 즐거움을 준다
+1685:Della:삭제
+1686:Dellana:고귀한 은혜
+1687:Delman:계곡에서 사람
+1688:Delmas:
+1689:Delmon:산에서
+1690:Delmont:산에서
+1691:Delorise:
+1692:Delpha:델파이, 그리스
+1693:Delroy:의
+1694:Deltha:델타
+1695:Delton:계곡에있는 도시
+1696:Delvin:친구, 좋은 친구
+1697:Delwin:하느님의 친구
+1698:Delwyn:동료, 좋은 친구
+1699:Deman:길들인
+1700:Demarius:남자 다움
+1701:Demelza:요새 Maeldaf
+1702:Demetrica:지구의 여신
+1703:Demetrice:지구의 여신
+1704:Demetrious:지구의 여신
+1705:Demey:지구의 여신
+1706:Demi:농업의 여신, 어머니 지구
+1707:Demitris:지구의 여신
+1708:Dene:계곡에서
+1709:Denesa:제우스의 산
+1710:Denham:델 시티 밸리 시티
+1711:Denia:하느님은, 계곡, 복수
+1712:Denise:비옥
+1713:Dennis:비옥
+1714:Dennisa:제우스의 산
+1715:Denta:견디다
+1716:Denu:골짜기
+1717:Denver:덴마크 사람
+1718:Denysa:제우스의 산
+1719:Denzil:콘웰에있는 장소 이름
+1720:Deonne:다이아나 신 감각에서 유래
+1721:Deontae:견디다
+1722:Dera:악마.
+1723:Dereck:지배자
+1724:Derek:지배자
+1725:Dereke:사람들의 통치자
+1726:Derian:좋은 럭셔리
+1727:Derick:지배자
+1728:Dericka:현대 여성 데릭의 재능있는 자
+1729:Derik:영재 자. 테오
+1730:Derius:좋은 럭셔리
+1731:Derrell:변형 다렐 오픈
+1732:Derren:큰
+1733:Derrian:큰
+1734:Derrick:지배자
+1735:Derrik:영재 자. 테오
+1736:Derrill:다렐의 변형, 열
+1737:Derring:지방
+1738:Derryl:데럴의 변형
+1739:Dervin:영재 친구
+1740:Derwin:야생 동물의 친구
+1741:Derwynn:친구
+1742:Deryck:영재 자. 테오
+1743:Deryk:영재 자. 테오
+1744:Deryn:새. 단어 'Aderyn의.
+1745:Des:데스몬드의 소형 : 아일랜드 'DEAS Mumhain'의미 '사우스 스터에서 파생 된 성에서 ". 또한 데스로 시작하는 이름의 소형.
+1746:Desaray:그런데
+1747:Desari:그런데
+1748:Desean:하느님은 화해
+1749:Désiré:프랑스어 데지의 변종.
+1750:Desirea:그런데
+1751:Desirel:그런데
+1752:Dessiree:그런데
+1753:Destine:재산, 신뢰
+1754:Destinee:운명
+1755:Destini:특정 재산, 운명
+1756:Destiny:운명, 운명, 운명
+1757:Devean:Dubhain`의 후계자
+1758:Deven:자손
+1759:Deveon:서 브라 반트 이름
+1760:Devereau:이름 Deverel에서 파생 된 성씨
+1761:Devereaux:이름 Deverel에서 파생 된 성씨
+1762:Devie:신
+1763:Devin:블랙 리버
+1764:Devinia:
+1765:Devon:아름다운 농지 알려진 영국의 군
+1766:Devona:신
+1767:Devonda:데본, 영국에서
+1768:Devonia:데본, 영국에서
+1769:Devonne:신의
+1770:Devyn:자손
+1771:Dewey:사랑, 사랑, 친구
+1772:Deysi:하루의 눈
+1773:Diamanda:큰 가치의, 화려한. 귀중한 다이아몬드
+1774:Diamante:큰 가치의, 화려한. 귀중한 다이아몬드
+1775:Diamond:값 비싼
+1776:Diamonique:큰 가치의, 화려한. 귀중한 다이아몬드
+1777:Diamontina:큰 가치의, 화려한. 귀중한 다이아몬드
+1778:Dianda:보호, 인간의 afweerder
+1779:Diandra:다른 사람, 달의 여신, 빛과 사냥 중
+1780:Diandre:보호, 인간의 afweerder
+1781:Diann:빛
+1782:Diannie:
+1783:Diantha:패 랭이의 변형
+1784:Dicie:강력하고 용감한 자
+1785:Dick:사람들 사이에 거대한
+1786:Dickens:성
+1787:Dickey:사람들 사이에 거대한
+1788:Dickinson:사람들에게 강력하고, 강력하고 용감한 자
+1789:Dickson:사람들 사이에 거대한
+1790:Dicky:사람들 사이에 거대한
+1791:Dicra:천천히.
+1792:Didacus:그는 뒤꿈치 그립
+1793:Diedra:여성
+1794:Digby:도랑 근처에 정착
+1795:Diggory:길잃은
+1796:Digon:날개의 전설의 아들
+1797:Dilania:
+1798:Dillard:신앙
+1799:Dillus:Eurei 전설의 아들
+1800:Dimen:다이아몬드
+1801:Dimiterios:지구의 여신
+1802:Dimitria:지구의 여신
+1803:Dimitrius:지구의 여신
+1804:Dimple:인식기, 현명한
+1805:Diona:제우스의 산
+1806:Diondra:신성한 봄부터. 디오네의 변종.
+1807:Dione:디온의 여성 형태 : 디오니시오, 와인의 그리스 신에서 유래 데니스의 변형. 또한 신성한 봄부터. 신화 디오네는 아프로디테의 제우스와 어머니의 아내.
+1808:Dionne:비옥
+1809:Diseree:그런데
+1810:Dives:부자
+1811:Divinity:
+1812:Dix:사람들 사이에 거대한
+1813:Dixie:강한
+1814:Dixon:DICK의 아들
+1815:Doane:산이 많은
+1816:Dob:사람들
+1817:Dock:일곱 번째 아들의 일곱 번째 아들
+1818:Doctor:
+1819:Dolabella:안토니와 클레오 파트라 카이사르의 친구
+1820:Doll:하느님의 선물
+1821:Dollie:야훼의 선물
+1822:Domanic:하느님 께 속한
+1823:Domaniciqu:하느님 께 속한
+1824:Dome:도미니크의 소형 : 주
+1825:Domenic:지배자
+1826:Domicio:지배자
+1827:Domingo:신
+1828:Domingos:신
+1829:Dominike:하느님 께 속한
+1830:Dominion:지배, 전원
+1831:Dominique:주님의 날에 태어난 주에 속하는
+1832:Dominy:하느님 께 속한
+1833:Dominyk:하느님 께 속한
+1834:Domo:지배자
+1835:Domokos:지배자
+1836:Domonique:하느님 께 속한
+1837:Donald:큰 커츠, 세계 강. 게일 Domhnall에서. 이름 도널드는 초기 스코틀랜드 왕의 숫자에 의해 지원되었다. 유명한 소지자 : 억만 장자 도널드 트럼프, 배우 도널드 서덜랜드.
+1838:Donathan:하느님이 주신
+1839:Dondra:용감한
+1840:Dondrea:용감한
+1841:Donette:
+1842:Donie:세계의 리더
+1843:Donilda:세계의 리더
+1844:Donn:갈색. 신화 아일랜드 멋있지는 지하의 왕으로 알려졌다.
+1845:Donnah:여자
+1846:Donnika:하느님의 보좌
+1847:Donta:견디다
+1848:Dontae:견딤
+1849:Donte:견딤
+1850:Donzella:요새
+1851:Doogie:어두운 물
+1852:Dora:선물
+1853:Dorcey:다아시의 어두운 버전
+1854:Dorette:도로테아의 원래 소형
+1855:Dorian:도리아«R, 기본 도리아«
+1856:Dorien:선물
+1857:Dorinda:하느님의 선물
+1858:Dorion:하느님의 선물
+1859:Doris:
+1860:Dorit:세대
+1861:Dorita:선물
+1862:Dorman:짐꾼
+1863:Doro:하느님의 그리스 도로시 선물 변종
+1864:Doron:변형 Dorran '낯선 사람.'.
+1865:Doroteio:야훼의 선물
+1866:Dorothee:그리스 도로시 의미의 변형
+1867:Dorothy:선물
+1868:Dorrit:영국에서 나타납니다
+1869:Dorthea:야훼의 선물
+1870:Dorthy:야훼의 선물
+1871:Dossie:야훼의 선물
+1872:Dot:하느님의 선물
+1873:Dottie:그리스 도로시 의미의 변형
+1874:Dotty:야훼의 선물
+1875:Doug:어두운 물
+1876:Dover:물. 영국 해협에있는 영국의 항구.
+1877:Drake:뱀
+1878:Dream:현대의
+1879:Drefan:노력
+1880:Dreogan:고통
+1881:Dridan:마른 계곡에서
+1882:Driden:마른 계곡에서
+1883:Driskoll:통역사
+1884:Dru:앤드류의 변형 '사내.'.
+1885:Dryden:건조
+1886:Drygedene:마른 계곡에서
+1887:Du:자신을 즐겁게하기 위해
+1888:Dud:Dudda 삭제
+1889:Dudley:Dudda의 변형
+1890:Duke:제목 로열티 닉네임 이름으로 사용됩니다. 또한 마마 듀크의 약어. 유명한 무기명 : 미국의 재즈 음악가 듀크 엘링턴.
+1891:Dull:노동 치안을 잃은 사랑
+1892:Dunstan:언덕
+1893:Duran:계속, 계속, 영속
+1894:Durrell:아들
+1895:Dust:먼지가 많은 장소
+1896:Dustan:먼지가 많은 장소
+1897:Dustee:별명
+1898:Dusti:별명
+1899:Dustin:토르
+1900:Duston:먼지가 많은 장소
+1901:Dusty:먼지, 회색
+1902:Dwan:어두운 작은
+1903:Dwana:어두운 작은
+1904:Dweight:와인, 기쁨
+1905:Dwight:산
+1906:Dwyane:어두운 작은
+1907:Dyane:
+1908:Dyer:염료 천
+1909:Dylan:Dylan(딜런), 바다의 아들을 의미합니다. 이 이름을 가진 유명한 사람으로는 영국을 대표하는 시언 딜런 토마스(Dylan Thomas), 유명한 미국 가수 밥 딜런(Bob Dylan)이 있습니다.
+1910:Dylana:딜런이나 들라 노에, 또는 두 이름의 혼합물
+1911:Dyllan:충성스러운
+1912:Dyllon:충실
+1913:Dyllyn:
+1914:Dymond:다이아몬드
+1915:Dynielle:하느님은 내 판사입니다
+1916:Dynna:시도
+1917:Dyson:데니스의 아들
+1918:Dywel:Erbin의 전설 아들
+1919:Ead:풍부한 축복
+1920:Eadburt:리치.
+1921:Eadgyth:행복 전쟁
+1922:Eadlyn:부자 친구
+1923:Ealasaid:하느님은 취임 선서를했습니다
+1924:Ealdwode:오래된 숲에서
+1925:Ealhdun:elves'valley의
+1926:Eallard:용감한
+1927:Eallison:장로의 아들
+1928:Eardly:영어 장소 이름과 성
+1929:Earla:
+1930:Earle:빛나는 리더
+1931:Earlene:귀족 여성
+1932:Earline:귀족 여자. 여성의 얼
+1933:Early:빛나는 리더
+1934:Earnest:진지한
+1935:Eartha:세계
+1936:Earvin:민물의
+1937:Earwine:바다의 친구.
+1938:Easter:스타
+1939:Easton:강
+1940:Eastre:부활절에 태어
+1941:Eathelyn:고귀한 폭포
+1942:Ebba:조수 흐르는
+1943:Ebonnie:흑단
+1944:Ed:재산 부, 보호자
+1945:Eda:풍부한 보호자
+1946:Edaline:고귀한 왕
+1947:Edbert:풍족한
+1948:Eddie:재산 부, 보호자
+1949:Eddis:에드워드의 아들
+1950:Eddrick:힘과 행복
+1951:Eddy:재산 부, 보호자
+1952:Ede:풍부한 보호자
+1953:Edelina:전쟁의 전리품
+1954:Edelmarr:고귀한
+1955:Edena:기쁨, 행복
+1956:Edgar:창에 유산의 보호
+1957:Edgard:유산의 보호자 또는 후견인 (창)
+1958:Edgardo:보호자
+1959:Edie:행복 전쟁
+1960:Edison:에드워즈
+1961:Edit:즐거운
+1962:Edith:유산 strijderes
+1963:Editha:유산 운동가, 축복 전쟁
+1964:Edla:왕자
+1965:Edlen:고귀한 폭포
+1966:Edlin:고귀한 폭포
+1967:Edlyn:고귀한 폭포
+1968:Edlynn:왕비
+1969:Edmanda:부유 한 후원자
+1970:Edmon:풍부한 감시
+1971:Edmond:번영하는
+1972:Edmonda:부유 한 후원자
+1973:Edmund:번영하는
+1974:Edmunda:번영하는
+1975:Edna:기쁨, 행복
+1976:Edouard:재산 부, 보호자
+1977:Edra:강한
+1978:Edrea:강한
+1979:Edred:왕의 이름
+1980:Edric:풍부하고 강력한
+1981:Edrick:강력한 질권자
+1982:Edrie:축복 수호자
+1983:Edrik:풍부한 자
+1984:Edris:풍부한 자
+1985:Edrys:풍부한 자
+1986:Edsel:집에서 전자 매뉴얼
+1987:Edson:행복 전사의 아들
+1988:Eduard:재산 부, 보호자
+1989:Eduarda:부유 한 후원자
+1990:Edvard:유산의 보호자 또는 후견인 (창)
+1991:Edwald:풍부한 자
+1992:Edwaldo:풍부한 자
+1993:Edwar:축복 수호자
+1994:Edward:재산, 또는 그 재산의 수호자를 의미합니다.
+1995:Edwardson:에드워드의 아들
+1996:Edwin:부자 친구
+1997:Edwina:부자 친구
+1998:Edwond:축복 친구
+1999:Edwy:전쟁
+2000:Edythe:에디스의 대체 철자
+2001:Eean:하느님은 화해
+2002:Effie:그리스어에서 파생 된 인기 스코틀랜드의 이름
+2003:Egbert:화려한, 빛나는 검
+2004:Eiddoel:넬의 전설 아들
+2005:Eifion:웨일스어 성
+2006:Eirlys:헌병
+2007:Eisling:꿈, 비전
+2008:Elain:엷은 황갈색
+2009:Elainia:
+2010:Elam:고지
+2011:Eland:아델 국가의 아마 유도
+2012:Elania:
+2013:Elbert:화려한 귀족의 행동에 의해
+2014:Elberta:소중한 나 영광
+2015:Elberte:고귀하고 영광스러운
+2016:Eldan:elves'valley의
+2017:Elden:엘라의 언덕
+2018:Elder:(노인)에서 가장 오래된 중 하나; 노인
+2019:Eldon:엘라의 언덕
+2020:Eldred:고대 영어 Ealdraed에서
+2021:Eldrian:현명한 / 이전 통치자
+2022:Eldrick:현명한 / 이전 통치자
+2023:Eldrid:현명한 조언자
+2024:Eldridge:현명한 / 이전 통치자
+2025:Eldwin:현명한 / 이전 통치자
+2026:Eldwyn:현명한 조언자
+2027:Eléa:토치
+2028:Eleanor:하느님은 우리의 빛
+2029:Elease:야훼에 전념
+2030:Eledon:리더의 언덕
+2031:Elen:헬렌 웨일스 어 forrn
+2032:Eleonor:하느님은 우리의 빛
+2033:Elethea:
+2034:Eleyn:분명
+2035:Elfie:좋은 열한.
+2036:Elfleda:고귀한 아름다움
+2037:Elfred:
+2038:Elfrida:평화로운 통치자
+2039:Elfrieda:좋은 상담
+2040:Elga:꼬마 창
+2041:Elgin:오만하는
+2042:Elida:날개.
+2043:Elidure:신화 기원
+2044:Elined:cilun
+2045:Elinor:빛을 빛나는. 헬렌의 변형
+2046:Eliot:엘리엇의 변형 높음, 내 하느님 야훼의 신. 그리스 엘리야의 중세 약어에서 \u200b\u200b유래 성에서. 엘리야의 변종.
+2047:Eliott:엘리엇의 변형 높음, 내 하느님 야훼의 신. 그리스 엘리야의 중세 약어에서 \u200b\u200b유래 성에서. 엘리야의 변종.
+2048:Elisiana:귀족, 친절, 정중
+2049:Elison:엘리스의 아들
+2050:Elissa:하느님은 취임 선서를했습니다
+2051:Elivina:좋은 열한.
+2052:Eliza:하느님은 취임 선서를했습니다
+2053:Elizbeth:야훼에 전념
+2054:Elizebeth:야훼에 전념
+2055:Ella:신의 맹세를 의미합니다.
+2056:Elle:귀족 출신
+2057:Elleen:빛, 아름 다운 여자를 의미 헬렌의 변형.
+2058:Ellen:그리스 헬렌(the greek helen)의 변형된 형태. 반짝이는 빛, 절세미인을 의미합니다. 이 이름을 가진 유명한 사람으로는 영국의 영화배우 데미 엘렌 테리(Dame Ellen Terry)가 있습니다.
+2059:Ellena:하느님은 빛나는 나의 빛
+2060:Ellene:하느님은 빛나는 나의 빛
+2061:Ellenweorc:유명 용기
+2062:Ellery:오리 나무
+2063:Ellesia:친한
+2064:Ellice:야훼는 (내) 하느님
+2065:Ellie:엘리노어(Eleanor)의 약칭 : 헬렌(Helen)의 변형된 형태로 12세기에 헨리 II세의 아내 `아키텐의 엘리노어(Eleanor of Aquitaine)`에 의해 영국에 소개되었다.
+2066:Elliott:엘리엇의 변형 높음, 내 하느님 야훼의 신. 그리스 엘리야의 중세 약어에서 \u200b\u200b유래 성에서. 엘리야의 변종.
+2067:Ellis:귀족의 후손, 또는 나는 맹세
+2068:Ellison:장로의 아들
+2069:Ellissia:친한
+2070:Elliston:일라이어스와 엘리야의 변형, 나의 하느님 야훼
+2071:Ellmer:고귀한
+2072:Ellouise:
+2073:Ellsworth:집에서 큰 사람
+2074:Elly:하느님은 취임 선서를했습니다
+2075:Ellyce:야훼는 (내) 하느님
+2076:Ellylw:Neol의 전설 딸은 닭을 매달아
+2077:Ellymarie:쓴 토치
+2078:Ellyn:하느님은 빛나는 나의 빛
+2079:Ellys:
+2080:Ellyson:엘리스의 아들
+2081:Elma:의지가 굳고 강한 보호
+2082:Elmer:고귀한
+2083:Elmir:고귀한
+2084:Elmira:Tartuffe
+2085:Elmo:사랑스러운
+2086:Elmoor:느릅 나무 무어의 삶
+2087:Elmyra:고귀한
+2088:Elne:용기
+2089:Elnora:엘리의 변형
+2090:Elora:하느님은 우리의 빛
+2091:Elphin:Gwyddno 전설의 아들
+2092:Elric:강력한 귀족의
+2093:Elrick:왕
+2094:Elson:올드 타운에서. 성
+2095:Elston:"나의 하느님 야훼이다." 또한 "오래된 마을에서." 성
+2096:Elton:알마
+2097:Elva:열한 / sylph의 친구
+2098:Elvena:좋은 열한.
+2099:Elvet:백조 스트림
+2100:Elvey:엘프 전사
+2101:Elvia:꼬마 요정의
+2102:Elvie:꼬마 요정의
+2103:Elvina:친구
+2104:Elvine:좋은 열한.
+2105:Elvinia:꼬마 요정의
+2106:Elvy:엘프 전사
+2107:Elvyn:앨빈의 꼬마 요정 현명한 친구 변종
+2108:Elvyne:좋은 열한.
+2109:Elwen:
+2110:Elwin:고귀한 친구
+2111:Elwood:오래된 나무 숲에서
+2112:Elwyn:방법 친구
+2113:Elwyna:엘프의 친구
+2114:Elynn:하느님은 빛나는 나의 빛
+2115:Elyta:날개.
+2116:Elyza:하느님은 취임 선서를했습니다
+2117:Emalyne:전체, 전체, 소프트
+2118:Ember:탄
+2119:Embry:라인 작업
+2120:Emeline:
+2121:Emely:경쟁,
+2122:Emelyn:아말
+2123:Emerald:녹색
+2124:Emerick:알 수없는
+2125:Emerson:에머리의 아들. 강력하고 용감한.
+2126:Emhyr:자.
+2127:Emil:경쟁,
+2128:Emilena:경쟁자
+2129:Emlyn:열심히
+2130:Emmalene:전체, 전체, 소프트
+2131:Emmaleth:, 전체 포괄적 인, 하느님 전용
+2132:Emme:선대
+2133:Emmerson:에머리의 아들
+2134:Emmet:강한
+2135:Emmett:모두 함유;
+2136:Emory:세대주
+2137:Emsley:느릅 나무
+2138:Ena:깨끗하고 순수한
+2139:Enderby:영어 성
+2140:Enerstyne:진지한
+2141:Engel:
+2142:Enid:영혼
+2143:Enit:Woodlark.
+2144:Enyd:공정.
+2145:Eofor:
+2146:Eoforwic:곰 부동산에서
+2147:Eostre:새벽의 여신
+2148:Eowyn:말 기쁨
+2149:Epiphany:신의 존재의 계시 표현
+2150:Eponine:말 프랑스어 여신
+2151:Ereca:사람들의 통치자
+2152:Eres:큰
+2153:Erian:쟁기질
+2154:Erickah:사람들의 통치자
+2155:Erl:계산
+2156:Erland:국가 noblemsns의
+2157:Erle:귀족
+2158:Erlene:귀족 여성
+2159:Erline:ERL
+2160:Erling:에델만의 아들
+2161:Ermid:Erbin의 전설 아들
+2162:Ern:독일어 진지한의 변형 철자
+2163:Erna:심각도 / 결정
+2164:Ernest:진지한
+2165:Ernestene:
+2166:Ernestine:진지한
+2167:Ernestino:진지한
+2168:Ernst:단호한 조치
+2169:Erryl:빛나는 리더
+2170:Ervine:친구
+2171:Erwin:군대의 친구
+2172:Erwina:바다의 친구.
+2173:Erwyn:바다의 친구. 에르 윈 변형 : 멧돼지 친구.
+2174:Eryca:사람들의 통치자
+2175:Erykah:사람들의 통치자
+2176:Eryl:보호자
+2177:Eshauna:
+2178:Esmond:보호의 용이성
+2179:Essie:딱딱한
+2180:Esteline:스타
+2181:Estephani:왕관
+2182:Esthefani:왕관
+2183:Estmund:하느님에 의해 보호됩니다.
+2184:Eston:동부 도시에서. 성
+2185:Ethel:Aethelind에서
+2186:Ethelbert:고귀하고 밝은
+2187:Ethelda:Aethelind에서
+2188:Ethelreda:고귀한 처녀
+2189:Ethen:내구성, 강도
+2190:Ethyl:
+2191:Eton:리버 시티
+2192:Etta:화재 골키퍼
+2193:Ettie:화재 골키퍼
+2194:Etty:화재 골키퍼
+2195:Eurlene:
+2196:Eus:ERIM 전설의 아들
+2197:Ev:에반의 소형 하느님이 좋다
+2198:Evald:법에 강한
+2199:Evaleen:I 반짝임, flonker, 반짝
+2200:Evalina:I 반짝임, flonker, 반짝
+2201:Evaline:즐거운, 즐거운
+2202:Evalyn:즐거운, 즐거운
+2203:Evanee:아처
+2204:Evania:조용한
+2205:Evann:하느님은 좋은 것입니다
+2206:Evans:서 브라 반트 이름
+2207:Evelin:매끈한, 청소
+2208:Eveline:생명을주는
+2209:Eveling:새
+2210:Evelyn:옛 프랑스어 에블린(aveline)에서 파생된 `성(姓)`에서 유래된 이름입니다. 에블린은 개암나무를 의미합니다. 이 이름을 가진 유명한 사람으로는 영국 소설가 `에블린 워(Evelyn Waugh)`가 있습니다.
+2211:Evelyne:즐거운, 즐거운
+2212:Evelynn:즐거운, 즐거운
+2213:Evelynne:I 반짝임, flonker, 반짝
+2214:Ever:이제까지
+2215:Evera:용감
+2216:Everard:곰처럼 힘이 센
+2217:Everett:강한
+2218:Everhard:이제까지
+2219:Everild:적으로 싸움
+2220:Everleigh:어느 초원에서
+2221:Everley:멧돼지 초원
+2222:Everly:멧돼지 초원
+2223:Evers:멧돼지
+2224:Evert:멧돼지가 강하지 용감
+2225:Everton:용감한, 강화. EVERARD의 변형
+2226:Evin:야훼의 대속
+2227:Evona:하느님은 화해
+2228:Ewald:법률 강력한
+2229:Eweheorde:목자.
+2230:Exavier:깨끗한 새 집
+2231:Eydie:풍부한 선물
+2232:Ezekiel:하느님은 우리와 함께
+2233:Ezella:
+2234:Ezria:
+2235:Fabian:bonenverbouwer
+2236:Fae:신앙
+2237:Faer:여행자.
+2238:Faerrleah:황소 목장에서
+2239:Faeryn:요정
+2240:Fain:즐거운
+2241:Faina:기쁨으로
+2242:Faine:양성의
+2243:Fairleigh:황소 초원
+2244:Fairlie:황소 목장에서
+2245:Fairly:먼 초원
+2246:Fairy:요정
+2247:Falcon:매 사냥에 관한 성
+2248:Fanceen:프랜시스의 애완 동물 이름, 무료, 변형
+2249:Fancy:장착
+2250:Fane:즐거운
+2251:Fanni:프랜시스의 애완 동물 이름, 무료, 변형
+2252:Fannie:무료 닉네임 의미, 프랜시스의 변형
+2253:Fanny:왕관이나 화환
+2254:Fantine:무료 닉네임 의미, 프랜시스의 변형
+2255:Fara:여행자.
+2256:Farah:여행자.
+2257:Faran:영어 성
+2258:Faren:모험적인
+2259:Farewell:인사, 꽤 좋은
+2260:Farin:영어 성
+2261:Faris:라이더 기사
+2262:Farlow:황소 목장에서. 성
+2263:Farly:황소 목장에서
+2264:Farman:여행자
+2265:Farnam:펀 초원
+2266:Farnum:펀 초원
+2267:Farold:강력한 여행자
+2268:Faron:옛날 독일 이름
+2269:Farrah:즐거운
+2270:Farren:옛날 독일 이름
+2271:Farrin:영어 성
+2272:Farris:주철의
+2273:Farron:영어 성
+2274:Fars:
+2275:Farson:여행자
+2276:Faulkner:매 사냥꾼, 송골매를 훈련 한
+2277:Fauna:다산의 여신
+2278:Faune:젊은 사슴
+2279:Favian:bonenverbouwer
+2280:Fawn:젊은 사슴
+2281:Fay:믿음, 신뢰
+2282:Faye:믿음, 신뢰
+2283:Fayre:훌륭한
+2284:Felabeorbt:화려한.
+2285:Felabeorht:화려한.
+2286:Felding:이 지역에 살고있다.
+2287:Felece:정력, 기쁨
+2288:Felica:정력, 기쁨
+2289:Felicha:정력, 기쁨
+2290:Felton:필드에 의해 도시의
+2291:Fenton:늪 도시
+2292:Fenwick:늪 농장
+2293:Feran:진행
+2294:Fergie:록
+2295:Ferguson:첫 번째 선택의 아들
+2296:Fern:그늘을 좋아하는 녹색 식물. 양치류
+2297:Ffanci:공상
+2298:Fflewdwr:마시면 전설의 아들
+2299:Ffraid:웅대 한
+2300:Field:에서
+2301:Filbert:매우 밝은
+2302:Filberta:화려한.
+2303:Filbuk:화려한.
+2304:Finan:금발 아이
+2305:Finn:핀
+2306:Firman:
+2307:Fisk:물고기
+2308:Fiske:물고기입니다.
+2309:Fitch:족제비 (페렛 같은 포유류).
+2310:Fitche:흰담비.
+2311:Fitz:아들.
+2312:Fitz Gerald:제럴드의 아들
+2313:Fitz-Patrick:패트릭의 아들
+2314:Fitzgerald:제럴드의 아들
+2315:Fitzhugh:지능형 사람의 아들
+2316:Fitzsimmons:
+2317:Flair:스타일, 열정
+2318:Fleming:계곡에서
+2319:Flemming:계곡에서
+2320:Fletch:소형 플레처 : 화살표 메이커
+2321:Fleur:꽃
+2322:Fleuretta:꽃
+2323:Flick:행복
+2324:Flint:Flintrock
+2325:Florian:꽃
+2326:Floy:회색
+2327:Floyd:회색 리카 락 인
+2328:Flynt:
+2329:Fonda:기초
+2330:Fontella:아름 다운 분수
+2331:Ford:강 건너
+2332:Fordon:리지 웨이
+2333:Forestine:숲, 나무
+2334:Forrest:숲;
+2335:Forrester:숲
+2336:Foster:가스 코뉴, 프랑스에서 호스트,
+2337:Fountaine:
+2338:Fox:붉은 갈색 모피와 간교한 포유
+2339:Fraine:외국인.
+2340:France:프랑스
+2341:Francenia:프랑스
+2342:Francie:프랑스
+2343:Francys:프랑스
+2344:Frankeleyn:
+2345:Franki:프랑스 또는 무료에서 프랑스의 현대적인 변형,
+2346:Frankie:프랑스 또는 무료
+2347:Franklen:
+2348:Franklin:자유민
+2349:Franklyn:남성, 지주
+2350:Franklynn:토지 소유자 무료
+2351:Franky:프랑스
+2352:Frannie:프랑스
+2353:Frayn:외국의
+2354:Frayne:화산재 주민
+2355:Fraze:프레이저 소형 : 프랑스 마을
+2356:Freda:강력한 보호
+2357:Fredderick:조용하고 강력한 통치자
+2358:Free:무료
+2359:Freed:나무, 우드랜드
+2360:Freedom:자유, 자유.
+2361:Freely-Wheely:포뮬러 1 드라이버
+2362:Freeman:무료 남자, 군주에 바인딩 노예에서 해방 남자. 성.
+2363:Freemon:자유인
+2364:Frewin:무료 친구, 고귀한 친구
+2365:Freyda:
+2366:Friend:친구
+2367:Frika:지방
+2368:Frisa:곱슬 - 머리
+2369:Frost:물의 동결
+2370:Fuchia:자홍 꽃
+2371:Fulbert:매우 밝은
+2372:Fuller:표백 천
+2373:Fulton:도시의 조류 포수
+2374:Gabe:환대를 제공
+2375:Gabrieal:
+2376:Gabriell:가브리엘라의 변형 하느님`의 welgeschapene
+2377:Gabrien:
+2378:Gael:이름
+2379:Gaige:측정
+2380:Gail:아비가일의 소형 : 아버지는 기뻐, 또는 아버지의 기쁨. 기쁨을 제공합니다. 지능형, 아름다운 아비가일 '는 판단에 따라 좋은 형태의 아름 다운로 설명 구약 성경 다윗 왕의 세 번째 부인이었다.
+2381:Gaila:즐거운
+2382:Gaius:행복한
+2383:Galahad:여름
+2384:Galan:노래
+2385:Galaxy:은하, 우주
+2386:Galea:축제 파티
+2387:Galen:진정
+2388:Galena:진정
+2389:Gallus:갈리아«R
+2390:Gar:삼각형 필드
+2391:Garaden:세 모서리 언덕에서
+2392:Garanhon:giythvyr 전설의 아들
+2393:Gard:정원의 골키퍼. 성
+2394:Gardenia:치자 나무
+2395:Gardner:가디너
+2396:Garet:창으로 용감
+2397:Gareth:강력 창으로
+2398:Garett:힘
+2399:Garey:강력 창으로
+2400:Garfield:삼각형 필드
+2401:Garison:싸움에 힘
+2402:Garland:화환 제작자
+2403:Garman:Speannan
+2404:Garmangahis:랜 체스터에서 숭배 여신
+2405:Garmann:Speannan
+2406:Garner:정원사
+2407:Garnet:창으로 무장
+2408:Garnett:창으로 무장
+2409:Garnetta:석류석
+2410:Garnock:Walesche 올드 타운, 오리 나무의`강. `Variant입니다.
+2411:Garren:강력 창으로
+2412:Garrett:힘
+2413:Garrick:창
+2414:Garrison:강한
+2415:Garry:강하거나 용감한
+2416:Garvin:
+2417:Gates:문을 통해 주민
+2418:Gay:
+2419:Gaybrielle:
+2420:Gaye:골
+2421:Gayla:축제 파티
+2422:Gayle:아비가일의 소형 : 아버지는 기뻐, 또는 아버지의 기쁨. 기쁨을 제공합니다. 지능형, 아름다운 아비가일 '는 판단에 따라 좋은 형태의 아름 다운로 설명 구약 성경 다윗 왕의 세 번째 부인이었다.
+2423:Gaylen:축제 파티
+2424:Gearldine:보호자
+2425:Gearlean:
+2426:Geary:융통성있는
+2427:Geena:농부 또는 농부
+2428:Gelsey:재스민
+2429:Gene:좋은
+2430:Genell:하느님은 화해
+2431:Genette:하느님은 화해
+2432:Genifer:
+2433:Genista:직전 심기
+2434:Genna:제니 하얀 파도에서 파생 된
+2435:Genny:제니 하얀 파도에서 파생 된
+2436:Gent:신사
+2437:Gentry:출생 아델
+2438:Geoff:하느님의 평화
+2439:Geoffrey:하느님의 평화
+2440:Geordie:지구
+2441:George:지구 편집기
+2442:Georgianna:농부
+2443:Georgianne:농부
+2444:Georgie:토양의 타병
+2445:Georginna:농업 노동자
+2446:Geraldina:창에 강. 창으로 통용
+2447:Geraldine:창
+2448:Geralene:창 전사
+2449:Gerard:강력 창으로
+2450:Gerarda:강력 창으로
+2451:Gereldine:창 전사
+2452:Geremy:하느님이 영화 롭게 할 것이다
+2453:Geri:창을 잘 알고있는
+2454:Gerica:게리 플러스 에리카의 혼합
+2455:Gerika:게리 플러스 에리카의 혼합
+2456:Gerlisa:하느님 께 헌신 창 전사,
+2457:Gerrald:철 창으로 자
+2458:Gerrett:용기 스피어,
+2459:Gerrey:
+2460:Gerrick:지배 검
+2461:Gerrilyn:창을 잘 알고있는
+2462:Gerry:창을 잘 알고있는
+2463:Gibson:길버트의 아들
+2464:Giffard:단정 한 선물
+2465:Gifford:포동 포동 한 얼굴
+2466:Gifre:탐욕스러운
+2467:Gift:현재 이벤트
+2468:Gijs:복사 화살표
+2469:Gilburt:신뢰할 수있는
+2470:Gilda:이 값을 희생
+2471:Gildan:금박.
+2472:Gildas:해야 하느님
+2473:Giles:아이
+2474:Gill:목성에 전념 관산성 야경,
+2475:Gillian:젊음과 목성에 전념
+2476:Gillot:척
+2477:Gilmar:유명한 인질
+2478:Ginger:봄 같은;
+2479:Ginna:버지니아의 약어
+2480:Ginnette:버지니아의 약어
+2481:Ginni:순수한 처녀
+2482:Ginnie:버지니아의 약어
+2483:Ginny:소녀
+2484:Giordani:하강 흐름,
+2485:Gipsy:이집트의
+2486:Githa:선물
+2487:Glad:고대 웨일스어 이름 Gwladys에서 파생 된
+2488:Gladis:불충분 한
+2489:Gladwin:행복 친구
+2490:Gladyce:
+2491:Gladys:절름발이의
+2492:Glan:해안에서.
+2493:Gleis:Merin 전설의 아들
+2494:Glendel:골짜기
+2495:Glenis:거룩한, 정직, 좋은
+2496:Glennie:골짜기
+2497:Glennis:순수, 신성한
+2498:Glinda:공정; 좋은
+2499:Glinys:리틀 밸리
+2500:Glitter:빛나는, 예쁜
+2501:Gloriana:영광스러운 은혜
+2502:Glorianna:영광스러운 은혜
+2503:Glorie:
+2504:Glorin:
+2505:Glorious:
+2506:Glyn:계곡, 계곡에 살고있는 그는
+2507:Glynda:공정; 좋은
+2508:Glynn:공정; 잘. 글렌의
+2509:Godiva:야훼의 선물
+2510:Godric:하느님과 규칙
+2511:Godwin:하느님의 친구
+2512:Gold:
+2513:Golda:금
+2514:Golden:
+2515:Goldie:골다의 변형. 골디 혼
+2516:Goldy:금으로 만든
+2517:Gomer:사라지고, 전체, 완전한
+2518:Goneril:리어 왕의 리어 왕의 딸의 비극
+2519:Gorawen:
+2520:Gore:지역
+2521:Govan:까악 까악의 전설적인 아들
+2522:Gracey:
+2523:Gracia:은혜, 매력
+2524:Gracie:잘
+2525:Graciela:은혜
+2526:Graent:큰
+2527:Graf:작은 관목 숲
+2528:Graison:주지사의 아들
+2529:Gram:그레이엄의 수축
+2530:Grand:그랜드 수 페리 어
+2531:Grantley:큰 초원에서
+2532:Granville:도시
+2533:Gray:칼라 그레이
+2534:Grayce:
+2535:Grayson:아들
+2536:Greenberry:그린 하우스
+2537:Gregg:감시 경보
+2538:Gregory:감시 경보
+2539:Gregson:그렉의 아들. 성
+2540:Greid:에리의 전설 아들
+2541:Grendel:전설적인 이름
+2542:Grenville:프랑스의 지명에 따라 영어 성
+2543:Gretta:꾸미기
+2544:Grey:회색 리카 락 인
+2545:Greyn:잔디로 녹색
+2546:Greyson:아들
+2547:Griffith:강한 전사, 주
+2548:Griffyn:
+2549:Grigor:시계에
+2550:Grimm:맹렬한
+2551:Grimme:FLINK
+2552:Grover:숲
+2553:Gulliver:걸리버
+2554:Gustaf:신들의 직원
+2555:Guyon:활기찬
+2556:Gwen:백색, 백색
+2557:Gwenddydd:좋은 날 - 멀린의 자매의 전설
+2558:Gwendelyn:공정; 축복
+2559:Gwendol:흰색, 공정, 축복
+2560:Gwenevere:흰색, 공정, 축복
+2561:Gwevyl:Gwastad 전설의 아들
+2562:Gwilym:윌리엄의 변형 : 윌 - 헬멧. 유명한 소지자 : 시인이자 극작가 윌리엄 셰익스피어 (1564-1616)와 윌리엄 워즈워스 (1,770에서 1,850 사이).
+2563:Gwladys:절름발이 의미 클라우디아의 변형.
+2564:Gwrddywal:Evrei 전설의 아들
+2565:Gwydion:마법의 신
+2566:Gwyn:백색, 백색
+2567:Gwyndolynn:흰색, 공정, 축복
+2568:Gwyneth:흰색. 솔직히. 행복. 축복받은
+2569:Gwynette:흰색, 공정, 축복
+2570:Gyo:
+2571:Gypsy:보헤미안 여행자
+2572:Gytha:선물
+2573:Hadden:헬스에서
+2574:Haddon:헬스에서
+2575:Haden:헬스에서
+2576:Hadlee:히스
+2577:Hadleigh:헤더 소녀
+2578:Hadley:히스 덮인 초원에서
+2579:Hadon:헬스에서
+2580:Hadrian:아드리안의 변형. 아드리안의 아들
+2581:Haesel:너트
+2582:Hailee:헤이 일반
+2583:Hailey:건초
+2584:Haili:헤이 일반
+2585:Hailie:헤이 일반
+2586:Haines:호손
+2587:Hal:가정의 선두 주자
+2588:Halbert:멋진 krijsman
+2589:Haldane:반
+2590:Hale:구석;
+2591:Halee:건초 초원
+2592:Halen:구석;
+2593:Haley:건초
+2594:Halie:영웅
+2595:Halig:거룩한
+2596:Hall:전사;
+2597:Hallan:홀 저택
+2598:Halley:홀
+2599:Hallie:집
+2600:Halliwell:신성한 봄의 생활
+2601:Halsey:채널
+2602:Halstead:사이트
+2603:Hamelatun:잔디 숙박에서
+2604:Hamia:시리아 여신
+2605:Hamlet:바보
+2606:Hamnet:윌리엄 셰익스피어 앤 해서웨이의 아들
+2607:Hamo:홈
+2608:Hampton:집
+2609:Handi:용감한, 영웅, M
+2610:Hanley:높은 초원에서
+2611:Hanly:높은 초원에서
+2612:Hannalee:장점, 스타일. 선지자 사무엘의 성경 어머니
+2613:Harden:토끼
+2614:Hardin:계곡에서 필렛
+2615:Harding:강한
+2616:Hardwin:강한 친구
+2617:Hardyn:계곡에서 필렛
+2618:Hare:토끼입니다.
+2619:Hareleah:초원에서 필렛
+2620:Harford:토끼 포드
+2621:Harlan:국가
+2622:Harland:토끼의 초원입니다. 할리의 변종. 성
+2623:Harleen:이내
+2624:Harlen:회색 국가
+2625:Harley:고대 영어 토끼 나무 (또는 매도)에서. 풀밭에 토끼에서
+2626:Harli:Hazenveld
+2627:Harlon:토끼의 초원입니다. 변형 할리. 성
+2628:Harlowe:토끼 언덕
+2629:Harmonie:에
+2630:Harper:하프 플레이어 또는 창조자
+2631:Harriet:통치자 왕
+2632:Harriman:성
+2633:Harris:해리의 아들
+2634:Harrisin:
+2635:Harrison:아들
+2636:Harrission:
+2637:Harry:통치자 왕
+2638:Hart:사슴
+2639:Hartford:사슴 포드
+2640:Hartley:사슴 초원
+2641:Hartman:강력한 영웅
+2642:Harva:전투
+2643:Harvey:가치
+2644:Harvie:가치
+2645:Haslet:개암 국가
+2646:Hastings:Haests
+2647:Hattie:집
+2648:Haven:천국;
+2649:Hawk:매
+2650:Hawley:위험 회피 초원에서
+2651:Hayden:이교도
+2652:Haydin:강한 독립적 사랑
+2653:Hayes:울타리
+2654:Haylee:건초
+2655:Haylen:빛의 전당
+2656:Hayley:건초 일반의
+2657:Hayli:헤이 일반
+2658:Haylie:건초
+2659:Haywood:건초
+2660:Haze:HAZEL
+2661:Hazell:개암 나무, 너트
+2662:Headley:가죽 지우기
+2663:Healhtun:hillslope 부동산에서
+2664:Healum:홀 슬로프에 삶
+2665:Healy:사면 땅에서
+2666:Heanford:고 포드
+2667:Heanleah:높은 초원에서
+2668:Heardwine:용감한 친구
+2669:Heath:사람
+2670:Heathcliff:절벽
+2671:Heather:헤더 (허브)
+2672:Hecate:멀리 떨어져
+2673:Hedley:가죽 지우기
+2674:Hedy:전투기
+2675:Helea:헤이 일반
+2676:Helena:횃불, 빛나는
+2677:Helewise:행복
+2678:Hellon:
+2679:Helton:hillslope 부동산에서
+2680:Hen-Beddestyr:ERIM 전설의 아들
+2681:Hendrix:헨드릭의 아들
+2682:Hengist:종마
+2683:Henley:하이 필드
+2684:Hennah:하느님의 은혜
+2685:Henrick:집의 규칙
+2686:Heolstor:어둠
+2687:Heortwiella:삶에 가까운 봄 사슴이다
+2688:Herald:사람이 사람 선포. 해롤드의도 변형, 육군 사령관
+2689:Heraldo:리더
+2690:Herby:배송 군사 통치자
+2691:Hern:헤론;
+2692:Heron:왜 라기
+2693:Hertha:
+2694:Hervé:전투
+2695:Hervie:
+2696:Hervy:
+2697:Hester:에스더의 변종.
+2698:Hevean:하늘
+2699:Hewitt:아들
+2700:Heywood:위험 회피 숲에서
+2701:Hid:피부의
+2702:Hide:피부의
+2703:Hilary:쾌활한
+2704:Hild:노력
+2705:Hillary:쾌활한
+2706:Hilliary:
+2707:Hilton:배열
+2708:Hline:은행.
+2709:Hob:생각 마음 지성
+2710:Holden:깊은
+2711:Holdon:계곡에있는 구멍
+2712:Holen:빨간 열매와 홀리 트리
+2713:Holiday:거룩한 날에 태어
+2714:Hollace:홀리 근처
+2715:Holley:호랑 가시 나무
+2716:Hollie:호랑 가시 나무
+2717:Hollis:홀리 트리를 삽니다
+2718:Holly:호랑 가시 나무
+2719:Holman:계곡의 남자
+2720:Holmes:안전한
+2721:Holofernes:노동 교장을 잃은 사랑
+2722:Holt:숲
+2723:Honey:꿀
+2724:Hope:세 기독교 덕 (믿음, 희망과 사랑) 중 하나입니다.
+2725:Hortensius:정원
+2726:Horton:진흙
+2727:Howard:양
+2728:Howell:저명한
+2729:Howland:국가의 지도자
+2730:Hud:후드
+2731:Hudson:후드 사람의 아들
+2732:Huey:정신
+2733:Hugh:생각 마음 현명한
+2734:Hugi:
+2735:Hugiet:작은 휴
+2736:Hugo:생각 마음 현명한
+2737:Hulen:
+2738:Hunter:특히 게임에 대한 검색 자,
+2739:Husain:작은 아름다움
+2740:Huxley:역마살
+2741:Hwitloc:흰색의 요새
+2742:Hyatt:높은
+2743:Hyde:피부의
+2744:Hyram:내 동생은 높임
+2745:Iachimo:뒤꿈치 그립, 그는 보호 그는
+2746:Iahn:하느님은 화해
+2747:Iann:하느님의 은혜
+2748:Iau:하느님은 우리와 함께
+2749:Idal:주목 나무 계곡에서
+2750:Idella:풍부
+2751:Iden:리치.
+2752:Idony:
+2753:Ignatius:불 같은
+2754:Ike:그는 (하느님)은 웃을 수 있습니다
+2755:Ilde:전투
+2756:Ilean:새, 경쟁
+2757:Ilena:아일린의 변형
+2758:Ilene:아일린의 변형
+2759:Ilio:태양
+2760:Iliria:
+2761:Ily:수련
+2762:Immy:순진한
+2763:Imogen:무죄
+2764:Ina:깨끗하고 순수한
+2765:Inda:국가 인도
+2766:India:몸
+2767:Indiana:국가 인도
+2768:Ine:깨끗하고 순수한
+2769:Infant:
+2770:Innocent:결백, 사심
+2771:Irah:경고, 상속인
+2772:Irisa:조리개
+2773:Irl:귀족
+2774:Irven:녹색
+2775:Irvyn:녹색
+2776:Irwin:수퇘지
+2777:Irwyn:바다 친구
+2778:Isaic:
+2779:Isalie:전용 장미
+2780:Isbel:야훼에 전념
+2781:Isen:
+2782:Isham:영국에서 강 이세에 마을
+2783:Isolde:지배하다
+2784:Israela:
+2785:Isrel:
+2786:Ithel:관대 주
+2787:Iuma:인터넷 지하 음악 아카이브
+2788:Iva:상록 등산 관상용 식물
+2789:Ivar:흔히 묘지에 심는 상록수 및 전사
+2790:Ives:아처
+2791:Ivey:상록 등산 관상용 식물
+2792:Ivi:공장
+2793:Ivia:아이비
+2794:Ivie:상록 등산 관상용 식물
+2795:Ivo:궁수
+2796:Ivon:주목의 주목 / 나비
+2797:Ivor:신
+2798:Ivy:아이비
+2799:Jabriel:
+2800:Jacee:아름다운
+2801:Jacelyn:아름다운
+2802:Jacen:
+2803:Jachueline:거주자
+2804:Jaci:그는 뒤꿈치 그립
+2805:Jack:젊은이, 사나이를 의미합니다.
+2806:Jackelaine:거주자
+2807:Jackelyn:거주자
+2808:Jacki:자비 하느님
+2809:Jackline:거주자
+2810:Jacklyn:거주자
+2811:Jackquelin:거주자
+2812:Jackquelyn:거주자
+2813:Jaclyn:거주자
+2814:Jacoby:거주자
+2815:Jacolbie:거주자
+2816:Jacolby:거주자
+2817:Jacoueline:거주자
+2818:Jacqualyn:거주자
+2819:Jacquanette:거주자
+2820:Jacquelynn:거주자
+2821:Jacqui:거주자
+2822:Jacqulyne:거주자
+2823:Jada:값 비싼
+2824:Jade:준(準)보석의 이름입니다.
+2825:Jadeline:밝은 녹색 돌 고귀한
+2826:Jadelyn:린든 나무 또는 호스의 방패
+2827:Jadira:고귀한 돌, 색, 녹색
+2828:Jadrien:제이드와 제이와 아드의 혼합
+2829:Jady:고귀한 돌, 색, 녹색
+2830:Jae:제이슨과 야곱과 같은 변종의 이름
+2831:Jaeden:감사합니다
+2832:Jaena:어치
+2833:Jaeson:그는 치유 할 것이다
+2834:Jafir:흐름
+2835:Jager:케이스
+2836:Jagger:행상인
+2837:Jago:뒤꿈치 그립, 그는 보호 그는
+2838:Jaguar:대규모 목격 고양이
+2839:Jai:사기꾼
+2840:Jaida:값 비싼
+2841:Jaique:하느님은 화해
+2842:Jake:젊은이, 사나이를 의미합니다.
+2843:Jakline:거주자
+2844:Jaklyn:거주자
+2845:Jalen:어치
+2846:James:그는 뒤꿈치 그립
+2847:Jamese:제임스
+2848:Jameson:거주자
+2849:Jammal:
+2850:Jamy:그는 뒤꿈치 그립
+2851:Janae:하느님은 자비 파라다이스입니다
+2852:Janai:야훼는 은혜입니다
+2853:Janaia:하느님은 들었습니다
+2854:Janais:야훼는 은혜입니다
+2855:Janaya:하느님`의 은혜로운 선물
+2856:Jancis:하느님은 자비입니다
+2857:Jander:사람들의 보호
+2858:Jane:야훼는 은혜입니다
+2859:Janea:하느님은 화해
+2860:Janel:하느님은 화해
+2861:Janell:야훼는 은혜입니다
+2862:Janella:야훼는 은혜입니다
+2863:Janette:하느님은 자비입니다
+2864:Janey:야훼는 은혜입니다
+2865:Janice:야훼는 은혜입니다
+2866:Janicia:야훼는 은혜입니다
+2867:Janie:하느님은 자비 야훼는 은혜입니다 장점을 보여줍니다. 조안의 변형
+2868:Janiece:야훼는 은혜입니다
+2869:Janina:지니의 변형
+2870:Janis:야훼는 은혜입니다
+2871:Janise:야훼는 은혜입니다
+2872:Jannae:야훼는 은혜입니다
+2873:Jannina:지니에서 파생 된
+2874:Jannis:제인에서 파생 된
+2875:Jaquelyn:거주자
+2876:Jar:Jarel, Jarek 또는 제라드, Jareh의 약어
+2877:Jared:규칙 사람
+2878:Jaret:아래 지구
+2879:Jareth:JAR 또는 렘과 가레스 블 레드
+2880:Jarin:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+2881:Jarred:자손
+2882:Jarrel:Jarel, Jarek 또는 제라드, Jareh의 약어
+2883:Jarrell:Jarel, Jarek 또는 제라드, Jareh의 약어
+2884:Jarret:힘
+2885:Jarrett:힘
+2886:Jarrod:자손
+2887:Jarron:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+2888:Jaslynn:게르만 부족의 회원 Gauts
+2889:Jasmen:재스민
+2890:Jasper:회계 원
+2891:Jasson:
+2892:Jawn:하느님은 화해
+2893:Jayar:글자에 음성 이름을 기반으로
+2894:Jaycee:치료자
+2895:Jaycob:거주자
+2896:Jayde:값 비싼
+2897:Jaydee:글자에 음성 이름을 기반으로
+2898:Jaylene:어치
+2899:Jaylynn:어치
+2900:Jayme:거주자
+2901:Jaymes:거주자
+2902:Jaymi:저를 사랑 해요.
+2903:Jayna:운반 인
+2904:Jayne:제인의 변형. 제인 맨스필드
+2905:Jayni:야훼는 은혜입니다
+2906:Jaynie:제인의 변형. 제인 맨스필드
+2907:Jayron:제이슨과 야곱과 같은 변종의 이름
+2908:Jayvee:글자에 음성 이름을 기반으로
+2909:Jazlyn:린든 나무 또는 호스의 방패
+2910:Jazlynn:게르만 부족의 회원 Gauts
+2911:Jazman:재스민
+2912:Jazmen:재스민
+2913:Jazmina:게르만 부족의 회원 Gauts
+2914:Jazzy:게르만 부족의 회원 Gauts
+2915:Jeaneen:하느님은 화해
+2916:Jeanelle:야훼는 은혜입니다
+2917:Jeanetti:하느님은 화해
+2918:Jeania:하느님은 화해
+2919:Jeanna:하느님은 우리와 함께
+2920:Jeannell:자비 하느님
+2921:Jearldine:창 전사
+2922:Jearlene:창 전사
+2923:Jef:하느님의 평화
+2924:Jefferson:하느님의 평화
+2925:Jeffery:하느님의 평화
+2926:Jefford:이름과 위치
+2927:Jeffrey:하느님의 휴전
+2928:Jeffri:하느님의 평화
+2929:Jeffries:
+2930:Jeffry:하느님의 평화
+2931:Jem:Iacobus의 변형
+2932:Jemmy:Iacobus의 변형
+2933:Jéna:비옥 한
+2934:Jenai:하느님은 대답했다
+2935:Jenalyn:비옥 한
+2936:Jenavieve:제네 비브의 변형
+2937:Jenay:하느님은 대답했다
+2938:Jenaya:하느님은 대답했다
+2939:Jenee:현대 이름은 Janai에 따라 제인이나 진에 기반.
+2940:Jenella:자비 하느님
+2941:Jenelle:하느님은 우리와 함께
+2942:Jenene:비옥 한
+2943:Jenet:하느님은 화해
+2944:Jeneth:흰색 골프
+2945:Jeneva:공정 팬텀 주니퍼 베리
+2946:Jenevieve:주느비에브의 현대적인 소리 변종
+2947:Jeni:비옥 한
+2948:Jenice:비옥 한
+2949:Jenifer:비옥 한
+2950:Jenilynn:비옥 한
+2951:Jenise:비옥 한
+2952:Jenita:비옥 한
+2953:Jenna:비옥 한
+2954:Jennalee:제니와 제니퍼의 현대 버전
+2955:Jennalyn:제니와 제니퍼의 현대 버전
+2956:Jennarae:제니와 제니퍼의 현대 버전
+2957:Jennay:야훼는 은혜입니다
+2958:Jennelle:자비 하느님
+2959:Jennette:하느님은 화해
+2960:Jenney:
+2961:Jenni:비옥 한
+2962:Jennica:비옥 한
+2963:Jennie:비옥 한
+2964:Jennifer:비옥 한
+2965:Jennifermay:월 화이트
+2966:Jennifur:
+2967:Jennika:비옥 한
+2968:Jennilyn:비옥 한
+2969:Jennis:야훼는 은혜입니다
+2970:Jenny:비옥 한
+2971:Jeovana:야훼는 은혜입니다
+2972:Jeovanna:야훼는 은혜입니다
+2973:Jepson:그는 뒤꿈치 그립
+2974:Jerad:자손
+2975:Jerael:창 전사
+2976:Jeral:창 전사
+2977:Jerald:창
+2978:Jeraldine:창
+2979:Jeralyn:제리와 마릴린 현대의 조화
+2980:Jeramie:하느님은 우리와 함께
+2981:Jeramy:하느님은 우리와 함께
+2982:Jeran:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+2983:Jerande:개렛의 변형, 창으로 통용
+2984:Jerara:
+2985:Jered:땅에 내려
+2986:Jerel:강한 편견. 제론과 Darell 믹스
+2987:Jerelyn:제리와 마릴린 현대의 조화
+2988:Jeremy:신성한 이름
+2989:Jeren:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+2990:Jeric:강한 재능있는 자. 렘과 데릭의 혼합
+2991:Jerick:강한 재능있는 자. 렘과 데릭의 혼합
+2992:Jeriel:아이디어에 개방, 강한. 제럴드와 Darell의 혼합
+2993:Jerline:
+2994:Jermain:남자 다움
+2995:Jermaine:남자 다움
+2996:Jerod:자손
+2997:Jerrad:개렛의 변형, 창으로 통용
+2998:Jerred:개렛의 변형, 창으로 통용
+2999:Jerrel:아이디어에 개방, 강한. 제럴드와 Darell의 혼합
+3000:Jerrell:아이디어에 개방, 강한. 제럴드와 Darell의 혼합
+3001:Jerren:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+3002:Jerrika:사람들의 통치자
+3003:Jerron:이스라엘 재론의 현대적인 변형 '기쁨의 외침.'.
+3004:Jerry:철 창으로 자
+3005:Jersey:잔디 섬
+3006:Jeryl:아이디어에 개방, 강한. 제럴드와 Darell의 혼합
+3007:Jesiah:여호수아의 변종. 야훼의 제시 변형은
+3008:Jesika:하느님은보고
+3009:Jesscia:하느님은보고
+3010:Jesse:선물 (하느님의)
+3011:Jessee:
+3012:Jessyca:하느님은보고
+3013:Jessye:야훼는
+3014:Jestina:다만, 수직. 여성 저스틴
+3015:Jesyca:하느님은보고
+3016:Jett:검은
+3017:Jetta:거주 강, 높은 태어난 고귀한 블랙 스톤
+3018:Jewel:값 비싼
+3019:Jeweldine:
+3020:Jhanna:
+3021:Jhosafat:하느님은 심판했다
+3022:Jilian:아래층 gehaard, 젊은이나 목성에 전념
+3023:Jill:젊은이나 값 / 보복
+3024:Jilliane:목성 아이
+3025:Jilly:질리언이나 질리안의 약어. 주피터 아이
+3026:Jim:그가 보호하는 것
+3027:Jimi:발 뒤꿈치 나 변위를 이해 사람
+3028:Jimmi:미혹
+3029:Jimmie:뒤꿈치 또는 supplanter을 grasps 사람
+3030:Jimmy:데메테르의 아들
+3031:Jinelle:귀네비어의
+3032:Jinny:처녀 자리
+3033:Jiselle:서약
+3034:Jo:야훼는 은혜입니다
+3035:Joan:야훼는 은혜입니다
+3036:Joana:하느님은 우리와 함께
+3037:Joandra:야훼는 은혜입니다
+3038:Joanie:하느님은 우리와 함께
+3039:Joann:하느님은 우리와 함께
+3040:Joanna:하느님은 우리와 함께
+3041:Joanne:야훼는 은혜입니다
+3042:Joby:박해 싫어
+3043:Jocelina:중세 남성 이름은 여성의 이름으로 채택했다.
+3044:Joceline:중세 남성 이름은 여성의 이름으로 채택했다.
+3045:Jocelyne:종족의
+3046:Jocelynn:중세 남성 이름은 여성의 이름으로 채택했다.
+3047:Joda:요셉과 유다에 대한 별명의 여성.
+3048:Jodee:요셉과 유다에 대한 별명의 여성.
+3049:Jodi:노블 (귀족)
+3050:Jodie:노블 (귀족)
+3051:Jody:전사, 포함 화살표 또는 유대의 여성
+3052:Joe:주 께서 추가 할 수 있습니다
+3053:Joey:야훼 보조금 증가
+3054:Johathan:하느님이 주신
+3055:John:존(Jonh)은 영어권에서 남자아이의 성으로 쓰입니다. 그리고 이 이름은 라틴어 이름인 "Ioannes and Iohannes"의 유래되었습니다. 처음에는 유대인의 언어로 알려져 있었고, `신의 은총`을 의미하는 히브리어 이름인 요한(Yohanan)으로 불렸습니다.
+3056:Johnetta:현대 존의 여성과 존
+3057:Johnica:하느님은 화해
+3058:Johnna:하느님은 우리와 함께
+3059:Johnneta:하느님은 화해
+3060:Johnni:하느님은 화해
+3061:Johnnie:하느님은 자비입니다
+3062:Johnny:야훼는 은혜입니다
+3063:Johnton:하느님이 주신
+3064:Joi:
+3065:Joia:기쁨, 기쁨, 보석
+3066:Joleen:조와 연결하고 여성의 요소 이름은 -
+3067:Joleigh:영리한, 쾌활한
+3068:Jolena:야훼는 은혜입니다
+3069:Jolene:조와 연결하고 여성의 요소 이름은 -
+3070:Jolice:친한
+3071:Jolie:아름다운, 사랑스러운
+3072:Jolina:의 잘 확립 된 화합물 조 -
+3073:Joline:의 잘 확립 된 화합물 조 -
+3074:Jon:야훼는 은혜입니다
+3075:Jonalyn:현대 존의 여성과 존
+3076:Jonalynn:현대 존의 여성과 존
+3077:Jonatha:하느님이 주신
+3078:Jonay:현대 존의 여성과 존
+3079:Jondalar:제작 이름
+3080:Jonell:현대 존의 여성과 존
+3081:Jonelle:야훼는 은혜입니다
+3082:Jones:비둘기
+3083:Joni:하느님은 화해, 비둘기, 하느님의 선물
+3084:Jonita:현대 존의 여성과 존
+3085:Jonithan:하느님이 주신
+3086:Jonn:야훼는 은혜입니다
+3087:Jonna:자비 하느님
+3088:Jonni:야훼의 대속
+3089:Jonnie:하느님은 자비입니다
+3090:Jonthan:하느님이 주신
+3091:Jonty:야훼의 선물
+3092:Joran:농장주
+3093:Jorayn:아름다운 가을 비
+3094:Jorcina:농부 또는 농부
+3095:Jordi:지구 편집기
+3096:Jorgia:농업 노동자
+3097:Jori:지구 편집기
+3098:Josalind:조슬린과 로잘린 현대의 조화
+3099:Joscelyn:중세 남성 이름은 여성의 이름으로 채택했다.
+3100:Joscelyne:장난.
+3101:Joseluis:
+3102:Josephs:
+3103:Joseth:
+3104:Josheph:
+3105:Josian:
+3106:Josie:추가
+3107:Josina:추가
+3108:Joslin:중세 남성 이름은 여성의 이름으로 채택했다.
+3109:Joslyn:중세 남성 이름은 여성의 이름으로 채택했다.
+3110:Jourdain:지구, 토지
+3111:Joya:기쁨, 기쁨, 보석
+3112:Joyanna:즐거움
+3113:Joyanne:즐거움
+3114:Joyca:
+3115:Joyceanne:쾌활한, 행복
+3116:Joycelyn:쾌활한, 행복
+3117:Joycelynn:쾌활한, 행복
+3118:Joye:즐거움
+3119:Joyelle:즐거움
+3120:Jozy:값 비싼
+3121:Judge:권리
+3122:Judson:달렌;
+3123:Julianne:목성에 전념 청소년,
+3124:Julieonna:gehaard 아래
+3125:Justeene:의인
+3126:Justin:의인
+3127:Justis:의 새로운 변종
+3128:Jyle:
+3129:Kacee:큰
+3130:Kacey:서 브라 반트 이름
+3131:Kaci:케이시
+3132:Kacia:어려운
+3133:Kacie:케이시
+3134:Kacy:케이시
+3135:Kadi:케이티 또는 캐디의 변형
+3136:Kadia:케이티 또는 캐디의 변형
+3137:Kadian:케이티 또는 캐디의 변형
+3138:Kadie:케이티 또는 캐디의 변형
+3139:Kadienne:케이티 또는 캐디의 변형
+3140:Kady:케이디의 변형, 소리의 리듬 흐름
+3141:Kaela:Leana
+3142:Kaelene:keyholder
+3143:Kaeli:keyholder
+3144:Kaety:축복, 하느님의 거룩한
+3145:Kahlia:
+3146:Kaila:하느님처럼 누구
+3147:Kailan:keyholder
+3148:Kailee:키 홀더
+3149:Kailin:keyholder
+3150:Kailyn:아름다운
+3151:Kailynne:keyholder
+3152:Kaise:경고, 강력한
+3153:Kalah:왕자
+3154:Kalan:아일랜드어 / Keltse 이름, 전사
+3155:Kalee:keyholder
+3156:Kaleigh:아름다운
+3157:Kalen:아일랜드어 / Keltse 이름, 전사
+3158:Kaley:아름다운
+3159:Kalin:성실, 두려움
+3160:Kallie:
+3161:Kallita:켈리의 현대적인 변형
+3162:Kally:종달새
+3163:Kalvin:불모의 땅의 주민, 베어
+3164:Kalyn:키 홀더
+3165:Kalysta:
+3166:Kamber:컴 브리아 (웨일즈)
+3167:Kamelia:꽃 이름이 동백 나무에서 파생 된
+3168:Kamille:고귀한 자유 출생. 카밀라의 변형
+3169:Kamren:카메론의 현대적인 변형은 소녀를 위해 사용
+3170:Kandace:화재 화이트
+3171:Kandi:정직한
+3172:Kandice:화재 화이트
+3173:Kandy:화재 화이트
+3174:Kanyon:
+3175:Kapri:변덕
+3176:Karan:도우미, 도우미
+3177:Karen:순수함을 의미합니다.
+3178:Karia:거룩한
+3179:Karisma:훈장, 선물, 카리스마
+3180:Karmina:노래, 가수
+3181:Karol:비 귀족 자유민
+3182:Karolyn:남자 다움
+3183:Karon:캐서린의 약어. 순수한
+3184:Karr:늪, 습지
+3185:Karren:캐서린의 약어. 순수한
+3186:Karsen:늪에 사는 아들, 카의 아들
+3187:Karston:칼의 마을
+3188:Karyn:[순수]
+3189:Kasey:관찰력, 신호, 강력한
+3190:Kasia:, 경고 강력한. 케이시의 현대적인 변형
+3191:Kassi:그 얽혀 버린 남자
+3192:Kassia:계피와 같은
+3193:Kassidy:곱슬 곱슬하게하다
+3194:Kassie:카산드라의 약어
+3195:Kassy:그 얽혀 버린 남자
+3196:Kateline:서 브라 반트 이름
+3197:Kath:순수한
+3198:Katherina:순수한
+3199:Katherine:순수한
+3200:Katheryn:순수한
+3201:Kathi:순수 / 청소 \u003cbr /\u003e 축복, 순수한, 거룩한
+3202:Kathleen:깨끗하고 순수한
+3203:Kathrine:순수한
+3204:Kathy:순수 / 청소
+3205:Katiella:축복, 순수한, 거룩한 아름다움
+3206:Katilyn:순수한
+3207:Katlin:순수한
+3208:Katlyn:순수한
+3209:Katlyne:순수한
+3210:Katlynn:서 브라 반트 이름
+3211:Katlynne:서 브라 반트 이름
+3212:Katriona:거룩한
+3213:Kayana:키 케이 골키퍼, 순수 변종
+3214:Kayanna:키 케이 골키퍼, 순수 변종
+3215:Kayce:효과적인
+3216:Kaycee:Initals K와 C
+3217:Kayci:효과적인
+3218:Kaye:키 케이 골키퍼, 순수 변종
+3219:Kaylah:어느
+3220:Kaylan:아름다운
+3221:Kaylee:케일리, 아일랜드, 스코틀랜드에있는 자로부터
+3222:Kayleen:keyholder
+3223:Kaylen:keyholder
+3224:Kaylene:keyholder
+3225:Kayley:자손
+3226:Kayli:keyholder
+3227:Kaylie:자손
+3228:Kaylin:슬림하고 공정
+3229:Kayly:아름다운
+3230:Kaylyn:keyholder
+3231:Kaylynn:keyholder
+3232:Keanan:고대
+3233:Keaton:연
+3234:Kecia:Lakeisha의 약어
+3235:Kedric:친절의 예
+3236:Keen:와이즈 자랑
+3237:Keinan:소유
+3238:Kelemon:전설 볼더의 딸
+3239:Kellsie:선박의 섬
+3240:Kelsay:섬의 주민
+3241:Kelsie:분필
+3242:Kelson:켈시의 아들
+3243:Kelsy:승리 선박
+3244:Kelven:강 사람
+3245:Kemp:
+3246:Kempe:캠프, 전투
+3247:Kenda:지우기, 쿨 워터의 아이
+3248:Kendal:골짜기
+3249:Kendall:강 켄트의 계곡
+3250:Kendra:아들
+3251:Kendria:타고난
+3252:Kendrick:아들
+3253:Kendrik:해리의 아들
+3254:Kenith:잘 생긴, 불
+3255:Kenley:왕의 초원
+3256:Kenn:태어난 브랜드
+3257:Kennard:용감한 가드
+3258:Kenric:두려움 리더
+3259:Kenriek:왕 자
+3260:Kensey:왕의 승리
+3261:Kensington:사람들의 Cynsige의 중심
+3262:Kent:매끈한, 청소
+3263:Kenton:왕의
+3264:Kenway:지방 전사
+3265:Kenyon:Einion의 마운드에서
+3266:Ker:
+3267:Kermeilde:금박.
+3268:Kerrie:검은
+3269:Kersta:그리스도의 추종자
+3270:Kersti:그리스도의 추종자
+3271:Kerstie:그리스도의 추종자
+3272:Kester:로마 캠프
+3273:Kestrel:거의 매
+3274:Ketty:자.
+3275:Keva:아름다운 아이 여성 케빈
+3276:Kevia:아름 다운 아이입니다. 여성의 케빈
+3277:Khloe:
+3278:Kiandra:키안의 변종. 늙은
+3279:Kieve:신화 이름
+3280:Kim:야훼가에 초점을 맞추고
+3281:Kimball:최고 전쟁
+3282:Kimberely:Cyneburga`의 일반
+3283:Kimberlee:Cyneburga`의 일반
+3284:Kimberley:숲 초원 Cyneburg
+3285:Kimberli:Cyneburga`의 일반
+3286:Kimberlie:Cyneburga`의 일반
+3287:Kimberly:숲 초원 Cyneburg
+3288:Kimble:전쟁 최고
+3289:Kimbra:왕의 요새 초원
+3290:Kimbralee:Cyneburga`의 일반
+3291:Kimbrielle:숭고한 토치 왕실 일반
+3292:Kimly:로얄 일반
+3293:Kindra:타고난
+3294:King:왕
+3295:Kingsley:나무 / 초원
+3296:Kingston:왕
+3297:Kinsey:왕의
+3298:Kinsley:자손
+3299:Kip:애완 동물
+3300:Kipling:Cuppels 사람들의
+3301:Kippie:뾰족한 언덕에서
+3302:Kirkley:초원의 교회
+3303:Kirkwood:교회 숲에서
+3304:Kit:오래된 호기심 상점
+3305:Kitt:그의 마음에 그리스도를 보유하고 그
+3306:Knight:귀족이나 군인
+3307:Knox:작은 언덕에서
+3308:Kodie:베개; 도움
+3309:Kody:자손
+3310:Kolby:어두운, 검은 머리.
+3311:Kole:사람들의 승리
+3312:Kolleen:젊은
+3313:Korrigan:스피어. 성
+3314:Kraig:록
+3315:Krishnona:검정, 진한
+3316:Kriss:그리스도의 추종자
+3317:Kristalena:수정
+3318:Kristena:그리스도의 관심
+3319:Kristiana:그리스도의 관심
+3320:Kristiane:그리스도의 관심
+3321:Kristianna:그리스도의 관심
+3322:Kristianne:기름 부음
+3323:Kristin:종자
+3324:Kristine:종자
+3325:Krystabelle:수정
+3326:Krystal:수정
+3327:Krystiana:그리스도의 관심
+3328:Krystine:기름 부음
+3329:Krystle:밝고 화려한 유리
+3330:Kurt:예의 바른
+3331:Kyleigh:부메랑
+3332:Kym:야훼가에 초점을 맞추고
+3333:Kynan:개
+3334:Kyndall:로얄 밸리, 영국 켄트을 참조.
+3335:Kyson:켄터키의 아들
+3336:Labertha:밝은 명성
+3337:Lacee:레이시에서 파생 된 노르만 정복은 영국 제도를 가져온 후 프랑스 귀족의 어느 성.
+3338:Lacey:레이시에서 파생 된 노르만 정복은 영국 제도를 가져온 후 프랑스 귀족의 어느 성.
+3339:Lach:물 근처 생활
+3340:Lache:물 근처 생활
+3341:Lacherry:
+3342:Laci:레이시에서 파생 된 노르만 정복은 영국 제도를 가져온 후 프랑스 귀족의 어느 성.
+3343:Lacie:레이시에서 파생 된 노르만 정복은 영국 제도를 가져온 후 프랑스 귀족의 어느 성.
+3344:Lacy:레이시에서 파생 된 노르만 정복은 영국 제도를 가져온 후 프랑스 귀족의 어느 성.
+3345:Lady:여자
+3346:Lady-Gaga:하늘에서 숙녀
+3347:Lagina:유명한 전사
+3348:Lajohn:하느님은 화해
+3349:Lakesha:살아있는
+3350:Lakisha:살아있는
+3351:Lalisa:친한
+3352:Lalisia:친한
+3353:Lally:말하는 경우
+3354:Lamari:격분한
+3355:Lancaster:강 룬 요새
+3356:Lancelot:종자
+3357:Landen:긴
+3358:Lander:초원에서.
+3359:Landers:시골 거주자의 후손
+3360:Landon:긴
+3361:Landri:토지 눈금자
+3362:Landry:거친 지형
+3363:Lane:레인
+3364:Lanette:록
+3365:Laney:토치;
+3366:Lange:키가 큰
+3367:Lanice:잘 생긴라나 정직의 변형,
+3368:Lanie:경로, 도로. 성씨 레인과 라 이네의 변형
+3369:Lanna:록
+3370:Lannie:롤랜드 같은 이름의 약어
+3371:Lanny:롤랜드 같은 이름의 약어
+3372:Laquisha:살아있는
+3373:Lar:배우다
+3374:Larhonda:좋은 베이
+3375:Lari:월계수로 선정
+3376:Larkin:종달새처럼
+3377:Larkyn:여자 가수
+3378:Lashonda:하느님은 화해
+3379:Lass:
+3380:Lassie:어린 소녀, 여자
+3381:Lathan:히브리어 나단의 운 형태
+3382:Laticia:중세 이름 레티샤의 현대적인 형태. 즐거운 행복.
+3383:Latimer:통역사
+3384:Latonya:기특한
+3385:Latoria:
+3386:Latorria:
+3387:Latorry:
+3388:Launder:초원에서.
+3389:Lauralee:월계수 나무 또는 달콤한 베이
+3390:Laurean:로렌의 형태. 월계수 나무의 장소에서.
+3391:Laureana:월계수의 잎
+3392:Laureano:월계수 나무의 장소
+3393:Laureen:월계수 나무 또는 달콤한 베이
+3394:Laurel:명성
+3395:Laurelene:월계수의 잎
+3396:Laurelle:월계수 나무 또는 달콤한 베이 트리 명예와 승리의 상징.
+3397:Lauren:로린의 여성 형태 : 로렌스의 변종 : 월계수 나무의 장소에서.
+3398:Laurena:Laurentum, 이탈리아에서
+3399:Laurence:명성
+3400:Laurene:월계수의 잎
+3401:Laurenne:월계수 나무 또는 달콤한 베이
+3402:Laurentia:Laurentium, 월계수 나무의 장소, 명예와 승리의 장소에서. 여성 로렌스 로마인의 시간에서 날짜.
+3403:Lauretta:Laurentum, 이탈리아에서
+3404:Laurian:월계수 나무의 장소
+3405:Lauriano:월계수 나무의 장소
+3406:Lauriel:월계수 나무 또는 달콤한 베이 트리 명예와 승리의 상징.
+3407:Lauryn:남자 다움
+3408:Lava:무르 지구
+3409:Lavender:보라색 \u200b\u200b꽃 식물
+3410:Laverna:
+3411:Laverne:옛 이탈리아어 지식의 도둑의 여신
+3412:Lavon:나무
+3413:Law:언덕에서
+3414:Lawford:언덕에 포드
+3415:Lawley:언덕 초원에서
+3416:Lawrie:월계수의 잎
+3417:Lawson:남자 다움
+3418:Lawton:언덕에 정착
+3419:Lay:초원 농장에서
+3420:Layne:레인
+3421:Layton:워터 코스
+3422:Laz:명성
+3423:Lea:사자
+3424:Leal:충실.
+3425:Leander:사람들의 사람
+3426:Leann:리
+3427:Leanna:리
+3428:Leanne:청소년 또는 목성에 전념
+3429:Lear:셰익스피어의 왕
+3430:Leatrice:강하고 사자와 같은 용맹 한
+3431:Lecia:귀족 출신
+3432:Lee:사자, 하드
+3433:Leea:
+3434:Leeann:리
+3435:Leeanne:빛, 아름다운 여자, 젊음, 언약
+3436:Leeland:시드되고 땅에 사는 사람
+3437:Leesa:야훼에 전념
+3438:Leia:피곤한
+3439:Leianna:빛, 아름다운 여자, 젊음, 언약
+3440:Leigb:목초지
+3441:Leigh:청소
+3442:Leighanna:청소
+3443:Leighton:허브. 초원 농장에서. 성씨와 장소 이름
+3444:Leisa:야훼에 전념
+3445:Leland:국가
+3446:Lele:충성스러운
+3447:Leman:계곡에서
+3448:Lenny:은혜 강한, 강한 나 사자와 같은 용기
+3449:Lenora:빛나는 빛. 엘리의 변형
+3450:Lensar:그의 부모와 함께
+3451:Leo:사자
+3452:Leoma:강하고 사자와 같은 용맹 한
+3453:Leonato:메시나의 고뇌에 대해 아무것도 총재
+3454:Leontes:시실리의 겨울 이야기 왕
+3455:Leopold:사람들
+3456:Lester:ligora의 변형
+3457:Lette:기쁨, 행복
+3458:Leverton:군중 농장에서
+3459:Levina:Levinia에 대한 로마의 이름에서 유래.
+3460:Levon:연결
+3461:Levy:유태인 성
+3462:Levyna:Issh
+3463:Lew:프랑코 - 게르\u200b\u200b만 이름 루이 영어 변종
+3464:Lewella:계몽 된
+3465:Lewin:
+3466:Lex:보호, 인간의 afweerder
+3467:Lexandra:인류의 수호자
+3468:Lexia:사람들의 보호
+3469:Lexie:변호하다
+3470:Lexus:사람들의 보호
+3471:Ley:목초지
+3472:Leydy:여자
+3473:Leyman:계곡에서
+3474:Leyton:작은 마을
+3475:Liana:청소년 또는 목성에 전념
+3476:Liane:태양의 딸. 엘리 아나의 소형
+3477:Lianna:목성에 전념 청소년,
+3478:Lianne:청소년 또는 목성에 전념
+3479:Libby:야훼에 전념
+3480:Liberty:무료로 제공됩니다.
+3481:Liesl:하느님은 취임 선서를했습니다
+3482:Lila:어두운 머리
+3483:Lilah:밤
+3484:Lilian:또는 이름 리리 조합 ()와 안나 (은혜)
+3485:Lilibet:백합
+3486:Lilibeth:백합
+3487:Lilla:백합
+3488:Lillah:하느님도 맹세
+3489:Lilliam:백합 꽃
+3490:Lillian:하느님은 취임 선서를했습니다
+3491:Lilliana:백합
+3492:Lillie:수련
+3493:Lilybeth:백합
+3494:Lin:변형 린 맞춤법 검사
+3495:Lina:니스
+3496:Linc:호수 식민지
+3497:Lindel:보리수 Dell에서
+3498:Lindell:보리수 밸리의 삶
+3499:Linden:석회
+3500:Lindi:린다 레몬 트리의 변형, 라임 나무, pulchritudinous
+3501:Lindisfarne:린디 스판의.
+3502:Lindley:라임 나무
+3503:Lindly:보리수 초원에서
+3504:Linds:감소 린지
+3505:Lindsee:링컨`의 벤
+3506:Lindsley:링컨`의 벤
+3507:Line:은행.
+3508:Linford:린든 포드에서
+3509:Link:호스
+3510:Linley:아마 필드에서
+3511:Linly:아마 필드에서
+3512:Linn:붉게-의 complected
+3513:Linne:폭포.
+3514:Linnette:은혜
+3515:Linnie:린든 나무의 방패
+3516:Linton:아마 결제
+3517:Lintun:아마 인클로저
+3518:Linwood:라임 델
+3519:Lion:강하고 사자와 같은 용맹 한
+3520:Lionel:새끼 사자
+3521:Lionell:젊은 사자
+3522:Liora:나의 빛
+3523:Lisa:하느님은 취임 선서를했습니다
+3524:Lisandra:인류의 수호자
+3525:Lisbet:엘리자베스의 약어
+3526:Lisia:친한
+3527:Lissa:하느님은 내 맹세합니다
+3528:List:교활한
+3529:Livia:생활. 고대 로마 이름입니다. 올리비아에 대한 짧은
+3530:Livingston:Leofwine의 정착
+3531:Liz:하느님은 취임 선서를했습니다
+3532:Liza:하느님은 취임 선서를했습니다
+3533:Lizabeth:엘리자베스의 약어
+3534:Lizandra:하느님은 취임 선서를했습니다
+3535:Lizbet:엘리자베스의 약어
+3536:Lizbeth:하느님은 취임 선서를했습니다
+3537:Lizette:신에 헌신
+3538:Lizz:하느님은 취임 선서를했습니다
+3539:Llara:순한
+3540:Llewellyn:사자처럼
+3541:Lloyd:(와) 회색 (머리)
+3542:Llundein:런던.
+3543:Loc:단추
+3544:Lockett:닫은
+3545:Lockie:전사
+3546:Lockwood:동봉 된 나무에서
+3547:Lodema:안내합니다.
+3548:Loly:자상 한 꽃
+3549:Lomar:오마르의 아들
+3550:Lona:\\ U0026quot;. 노란색 돈 \\ u0026quot;
+3551:London:런던 사람
+3552:Loni:고귀한
+3553:Lonnie:고귀한
+3554:Lonny:전투 준비
+3555:Lora:하느님은 우리의 빛
+3556:Loran:명성
+3557:Lorance:Laurentum, 이탈리아에서
+3558:Loree:월계수의 잎
+3559:Loreen:하느님은 우리의 빛
+3560:Loren:지휘자 로린 마젤 (193 년생)
+3561:Lorence:현대 사용
+3562:Lorene:하느님은 우리의 빛
+3563:Lorenia:하느님은 우리의 빛
+3564:Lorenna:하느님은 우리의 빛
+3565:Lorens:명성
+3566:Loreta:월계수 월계수
+3567:Loreto:이탈리아의 도시
+3568:Lorette:
+3569:Lorian:하느님은 우리의 빛
+3570:Loriana:하느님은 우리의 빛
+3571:Loriann:하느님은 우리의 빛
+3572:Lorianne:하느님은 우리의 빛
+3573:Loriel:하느님은 우리의 빛
+3574:Lorimar:승용마
+3575:Lorin:월계수 나무의 장소에서
+3576:Lorinda:생성 이름
+3577:Lorrey:월계수의 잎
+3578:Lorrie:월계수의 잎
+3579:Lorrin:Laurentum, 이탈리아에서
+3580:Lorry:월계수의 잎
+3581:Loryn:로렌스, Laurentium의 변형
+3582:Louella:전체 명성 전사, 전리품이나 모든면에서 전사 현명한
+3583:Lousie:유명한 전사
+3584:Louvain:벨기에의 도시
+3585:Louvenia:벨기에 도시
+3586:Love:사랑으로 가득
+3587:Loveday:하루 사랑에 태어난 아이들에게 주어진 이름. 사랑의 날은 12 세기 전통이었다 - 분쟁의 화해와 타협을위한 일을 따로 설정할 수 있습니다. 오늘날의 이름은 이제 성으로 발견된다.
+3588:Lovel:왕 리처드 3 주 Lovel
+3589:Lovely-Candy:단것.
+3590:Lovette:인기없는
+3591:Lowell:늑대
+3592:Lowri:로라 웨일스 어 형태, 의미 월계수.
+3593:Loyal:충실
+3594:Lsss:
+3595:Luann:영광스러운 전사
+3596:Lucan:Lucania 중 하나
+3597:Lucasta:반짝, 새벽에 태어난
+3598:Luci:조명, 조명
+3599:Lucianne:은혜로운 빛
+3600:Lucky:행복한
+3601:Lucullus:아테네의 티몬의 생활
+3602:Ludie:조명
+3603:Ludlow:시끄러운 리버힐
+3604:Luel:유명한 열한
+3605:Lug:Lucania에서 Lucani에서 사람,
+3606:Lura:월계수의 잎
+3607:Luvina:Levinia에 대한 로마의 이름에서 유래.
+3608:Lyla:어두운 머리
+3609:Lyle:섬의 주민
+3610:Lyman:계곡의 남자
+3611:Lynd:라임 나무에 살고
+3612:Lyndall:린다의 변종. 레몬 트리, 라임 나무, pulchritudinous
+3613:Lynde:부드러운
+3614:Lyndon:석회
+3615:Lyndsay:보리수 섬 린지의 변종.
+3616:Lyndsea:링컨`의 벤
+3617:Lynelle:cilun
+3618:Lynessa:우상
+3619:Lynet:은혜
+3620:Lyneth:아름다운
+3621:Lynette:우상
+3622:Lynley:가정 교회
+3623:Lynn:린든 나무 또는 호스의 방패
+3624:Lynna:린든 나무 또는 호스의 방패
+3625:Lynnette:아이돌의 Cilun 의미
+3626:Lynze:링컨`의 벤
+3627:Lynzee:보리수 섬 린지의 변종.
+3628:Lyra:거문고, 하프
+3629:Lyre:하프 나 리라
+3630:Lyssa:귀족 출신
+3631:Lytton:토런트에 의해 도시의
+3632:Lyudmila:사람들은 사랑하면
+3633:Lyvia:생활
+3634:Lyza:엘리자베스와 엘리자의 약어
+3635:Lyzbeth:엘리자베스의 약어
+3636:Mabel:에이미의 소형 : 사랑스러운
+3637:Mabella:Amabel의 소형
+3638:Mabelle:사랑스러운
+3639:Mable:사랑스러운
+3640:Machelle:신으로
+3641:Maci:야훼의 선물
+3642:Macie:야훼의 선물
+3643:Macy:마요라나 (허브). 또한 마요라나 허브 소시지 나로 알려진
+3644:Maddie:막달레나의 변형
+3645:Maddockson:Maddock에 아들
+3646:Maddocson:인정이있는
+3647:Maddog:자비로운
+3648:Maddox:Maddock에 아들
+3649:Maddy:마들렌 소형 : 막달라 여자
+3650:Madelene:막달레나의 변형
+3651:Madelin:막달 렌 타워
+3652:Madge:진주
+3653:Madison:마 우드 스웨의 아들
+3654:Madisyn:매디슨 좋은 변종
+3655:Madlyn:막달라 여자 상승 하나, 높은 타워
+3656:Madog:인정이있는
+3657:Madra:어머니의
+3658:Madre:
+3659:Mae:이름의 변형 M.로 시작 매 웨스트
+3660:Maed:초원에서
+3661:Mael:진주
+3662:Maertisa:유명.
+3663:Magaline:막달 렌 타워
+3664:Magdalia:Magdala의 여인
+3665:Magdelena:막달 렌 타워
+3666:Maggi:약어 마가렛 진주
+3667:Maggie-Lyn:빛의 아름다운 아이
+3668:Maggy:진주, 바다의 딸, 빛의 자녀
+3669:Magnolia:목련 (꽃 나무)
+3670:Mahogany:다크 레드 우드
+3671:Maida:처녀, 처녀
+3672:Maidel:처녀
+3673:Maitane:사랑스러운
+3674:Maitena:사랑스러운
+3675:Makalah:왕자
+3676:Makayla:어느
+3677:Makenzi:화재의 자녀
+3678:Makenzie:화재의 자녀
+3679:Makeyla:신으로
+3680:Malandra:강력하고 용감하고, 남성
+3681:Malaurie:월계수 왕관 내 여자,
+3682:Malinda:쉴드 (참 피나무)
+3683:Mallie:격분한
+3684:Mallory:TV 시리즈 가족의 탄생에서 말로리
+3685:Malorie:어두운, 블랙
+3686:Malvina:부드럽게
+3687:Malvyn:리더
+3688:Malyn:작은 전사입니다.
+3689:Mamie:꾸미기
+3690:Manda:막달라 마리아에서 발췌
+3691:Mander:광산
+3692:Mandi:사람들
+3693:Mandie:사랑스러운, 호감
+3694:Manhattan:위스키
+3695:Manly:공유 국가
+3696:Manning:자손
+3697:Mansfield:산이 많은
+3698:Maralyn:매끈한, 청소
+3699:Marcell:전투
+3700:Marcie:호전적인
+3701:Mardel:지정된 이름으로 사용 성
+3702:Marden:경계
+3703:Mardon:수영장과 계곡에서
+3704:Maree:쓴
+3705:Mareesa:마리아에서 유래
+3706:Margerie:프랑스로 Margerie에서 파생 된
+3707:Margie:이름 마가렛의 절단 변형
+3708:Marguirett:꾸미기
+3709:Margurite:꾸미기
+3710:Marian:매끈한 청소
+3711:Maridith:바다의 보호자
+3712:Marie:매끈한 청소
+3713:Marie-Christine:매끈한 청소
+3714:Mariel:격분한
+3715:Marietta:매끈한, 청소
+3716:Marigold:황금
+3717:Marilynn:매끈한, 청소
+3718:Marje:꾸미기
+3719:Marji:서 브라 반트 이름
+3720:Marjo:남성
+3721:Marjolaine:풀
+3722:Markes:남자 다움
+3723:Marla:노블 (귀족)
+3724:Marlaina:노블 (귀족)
+3725:Marlan:흑인
+3726:Marlana:노블 (귀족)
+3727:Marlayne:막달라 여자 상승 하나, 높은 타워
+3728:Marleen:매끈한 청소
+3729:Marleena:막달라 여자 상승 하나, 높은 타워
+3730:Marleene:막달라에서 매들린 여자의 변형
+3731:Marleigh:이탄 일반
+3732:Marlena:축소
+3733:Marlene:매끈한 청소
+3734:Marlenne:작은 호전
+3735:Marley:매끈한 청소
+3736:Marlin:매끈한 청소
+3737:Marlina:막달라의 여자
+3738:Marlinda:막달라의 여자
+3739:Marline:노블 (귀족)
+3740:Marlo:배수
+3741:Marlon:작은 호전
+3742:Marlow:배수
+3743:Marlowe:배수
+3744:Marly:명예 전체 용사
+3745:Marlyn:마리 또는 메리와 린의 혼합
+3746:Marlys:매끈한, 청소
+3747:Marlyssa:막달라에서 해양 여자의 변형
+3748:Mars-Leucetius:하느님은 목욕 숭배
+3749:Marsden:경계
+3750:Marsh:말 골키퍼
+3751:Marshal:말
+3752:Marshall:말
+3753:Marshell:말 트리머
+3754:Martyn:전쟁
+3755:Marullus:율리우스 카이사르 스탠드의 비극
+3756:Marven:매끈한, 청소
+3757:Marvyn:바다
+3758:Marwin:바다 친구
+3759:Maryan:쓴
+3760:Maryann:매끈한, 청소
+3761:Maryanna:메리에서 유래. 마리아는 성경의 어머니였다
+3762:Maryanne:매끈한 청소
+3763:Maryjo:메리
+3764:Marylin:매끈한, 청소
+3765:Marylu:메리 쓴 유래. 마리아는 성경의 어머니였다
+3766:Marylyn:마리 또는 메리와 린의 혼합물
+3767:Maryon:쓴
+3768:Mason:메이슨;
+3769:Maston:늪 정착
+3770:Mather:강력한 군대.
+3771:Mathers:잔디 깎는 사람
+3772:Matherson:잔디 깎는 사람
+3773:Mathew:선물
+3774:Mathias:하느님의 선물
+3775:Matt:주님의 선물
+3776:Matthias:하느님의 선물
+3777:Maude:강한
+3778:Maurice:무어, 모리타니의 주민
+3779:Maverick:반대자
+3780:Mavis:노래
+3781:Maxie:애완 동물
+3782:Maximillian:작은
+3783:Maxton:Maccus '시티에서
+3784:Maybe:아마
+3785:Maybell:멋진 다섯 번째 달
+3786:Maybelle:멋진 다섯 번째 달
+3787:Maybelline:쓴 아름다움
+3788:Mayda:처녀
+3789:Mayde:처녀
+3790:Maye:격분한
+3791:Mayer:최고. 시장. 성.
+3792:Mayes:직원 또는 마태의 자식
+3793:Mayme:꾸미기
+3794:Maynard:강한
+3795:Mayra:슬픈 / 쓴, 바다
+3796:Mechell:신으로
+3797:Mechelle:신으로
+3798:Medyr:medyredydd 전설의 아들
+3799:Megen:진주, 바다의 딸, 빛, 진주의 아이
+3800:Meggie:진주
+3801:Meigan:꾸미기
+3802:Meilyg:까악 까악의 전설적인 아들
+3803:Mekal:신으로
+3804:Mekayla:신으로
+3805:Meldon:언덕
+3806:Meldrick:강력한 공장에서
+3807:Melia:경쟁,
+3808:Melisaa:
+3809:Melisha:
+3810:Mellie:
+3811:Melloney:검은
+3812:Mellony:어두운, 블랙
+3813:Melode:
+3814:Melodi:
+3815:Melodie:멜로디
+3816:Melody:노래, 노래, 멜로디
+3817:Meloni:어두운, 블랙
+3818:Melony:어두운, 블랙
+3819:Melton:밀 시티
+3820:Melvin:친구
+3821:Melynda:멜리사와 린다의 혼합
+3822:Melyssa:꿀
+3823:Meranda:슈 피리 어
+3824:Mercher:연설자 통역
+3825:Mercia:경계
+3826:Meredith:영주, 신
+3827:Meredydd:바다의 수호자
+3828:Meri:바다
+3829:Meridel:영주, 신
+3830:Merilyn:매끈한, 청소
+3831:Merle:여인의 초상화
+3832:Merlene:
+3833:Merlin:바다
+3834:Merrick:황무지
+3835:Merrill:플레전트 힐의
+3836:Merrilyn:매끈한, 청소
+3837:Merritt:국경 게이트
+3838:Merry:연민;
+3839:Merton:배열
+3840:Mervin:매끈한, 청소
+3841:Meshell:신으로
+3842:Meshelle:신으로
+3843:Metella:원산지 사랑, 라틴
+3844:Micaela:어느
+3845:Micca:신으로
+3846:Michaelle:신으로
+3847:Michalene:신으로
+3848:Michayle:신으로
+3849:Michelia:신으로
+3850:Michellyn:
+3851:Michely:신으로
+3852:Michelyn:신으로
+3853:Mick:"하느님처럼 누구"에 대한 히브리어
+3854:Mickaela:신으로
+3855:Mickalla:신으로
+3856:Mickayla:신으로
+3857:Mickeel:신으로
+3858:Mickell:신으로
+3859:Mickelle:신으로
+3860:Mickey:하느님처럼 누구
+3861:Mickie:하느님과 같이 누구인가? \u003cbr /\u003e 하느님은 경우
+3862:Midge:꾸미기
+3863:Mikaela:어느
+3864:Mikalene:신으로
+3865:Mikaya:신으로
+3866:Mikayla:어느
+3867:Mikaylah:신으로
+3868:Mikayleigh:신으로
+3869:Mikaylin:신으로
+3870:Mike:"하느님처럼 누구"에 대한 히브리어
+3871:Mikea:신으로
+3872:Mikela:신으로
+3873:Mikella:하느님의 여성 마이클 선물
+3874:Mikelle:"하느님처럼 누구"에 대한 히브리어
+3875:Mikey:누가 주님처럼
+3876:Mikeya:신으로
+3877:Mikhael:신으로
+3878:Mikhaila:야훼의 선물
+3879:Mikia:신으로
+3880:Mikki:"하느님처럼 누구"에 대한 히브리어
+3881:Mikko:어느
+3882:Mil:Dugum의 전설 아들
+3883:Milana:은혜;
+3884:Milborough:온화한 마을이나 \u200b\u200b요새
+3885:Milburn:밀
+3886:Milde:가벼운
+3887:Mildraed:가벼운 힘.
+3888:Mildred:부드러운
+3889:Mildrid:가벼운 힘.
+3890:Miles:매끈한, 청소
+3891:Milford:밀
+3892:Millard:보호자
+3893:Millen:곡물 직업 성을 갈기 하나
+3894:Miller:가는 사람
+3895:Millie:노동;
+3896:Millman:공장 노동자
+3897:Mills:밀스 부근
+3898:Milly:노동;
+3899:Milman:공장 노동자
+3900:Milne:공장
+3901:Milt:밀 시티
+3902:Milton:배열
+3903:Milward:밀 대기
+3904:Mimosa:열대 부시
+3905:Mindi:꿀
+3906:Mindie:멜린다의 약어
+3907:Mindsay:내 마음 애정 린제이 말한다
+3908:Mindy:애완 동물
+3909:Minty:애완 동물
+3910:Miquela:신으로
+3911:Miquella:신으로
+3912:Miquelle:신으로
+3913:Miraculum:기적, 하느님의 행위
+3914:Mire:
+3915:Mirta:격분한
+3916:Mischelle:신으로
+3917:Mishayla:신으로
+3918:Missie:꿀
+3919:Misti:흐린
+3920:Misty:안개 낀;
+3921:Mitchele:신으로
+3922:Mitchelle:신으로
+3923:Mizell:나무 절단기
+3924:Modesty:중간
+3925:Modig:용감한
+3926:Moe:황무지
+3927:Mollie:매끈한, 청소
+3928:Molly:매끈한, 청소
+3929:Monte:Gomerics
+3930:Monty:Gomerics
+3931:Mopsa:겨울 이야기 양치
+3932:Morcan:바다 근처에 사는
+3933:Morcar:바다 근처에 사는
+3934:Mordred:용감한
+3935:More:헬스에서
+3936:Moren:Ìàêñ 전설의 아들
+3937:Morgan:삭제
+3938:Morgana:매끈한, 청소
+3939:Morgant:바다의 해안에서
+3940:Moria:선생님은 하느님입니다
+3941:Morly:무어의 초원에서
+3942:Morrie:, 거주자 모리타니, 진한 색
+3943:Morse:무어, 거주자 모리타니, 진한 색
+3944:Morton:배열
+3945:Morwen:어린 소녀
+3946:Morwenna:가능성
+3947:Moss:아들, 가지고
+3948:Mowgli:제작 이름
+3949:Mull:가는 사람
+3950:Murgatroyd:마가렛 지우기
+3951:Mya:매끈한, 청소
+3952:Mychael:신으로
+3953:Mychaela:"하느님처럼 누구"에 대한 히브리어
+3954:Mykaela:신으로
+3955:Mykaila:신으로
+3956:Myla:자비이다. 여성 마일스
+3957:Myles:매끈한, 청소
+3958:Mylo:자비로운
+3959:Myra:몰약, 연고
+3960:Myranda:아름다운, 훌륭한
+3961:Myrick:무어, 모리타니의 주민
+3962:Myrl:
+3963:Myrtilla:꽃 관목
+3964:Myrtle:꽃 관목
+3965:Mystee:흐린
+3966:Nadea:
+3967:Nakitha:Onveroverd
+3968:Nalany:천국`의 진정
+3969:Nan:향한 용맹 한
+3970:Nanci:하느님의 은혜
+3971:Nancie:하느님의 은혜
+3972:Nancy:하느님의 은혜
+3973:Nanette:/ 스위트
+3974:Naquita:Onveroverd
+3975:Narissa:바다 nympf
+3976:Natalea:크리스마스
+3977:Natalene:크리스마스
+3978:Natalina:크리스마스
+3979:Nataline:크리스마스
+3980:Natalle:크리스마스
+3981:Natashea:크리스마스
+3982:Natashka:크리스마스
+3983:Natassha:크리스마스
+3984:Natassja:크리스마스
+3985:Natasza:크리스마스
+3986:Nechten:왕의 이름
+3987:Ned:풍부한 보호자
+3988:Nedda:네드의 여성
+3989:Neddy:부자 행복
+3990:Neely:뿔
+3991:Neftali:
+3992:Neila:그래서 여성 닐,
+3993:Nelda:알더로
+3994:Nell:그리스 헬렌의 변형
+3995:Nella:엘레 빛나는 빛의 약어
+3996:Nellie:밝고, 아름다운
+3997:Nelly:밝고, 아름다운
+3998:Nels:승리 명
+3999:Nelson:닐, 챔피언`의 아들의 아들
+4000:Nerys:촛불이나 조명
+4001:Neti:하느님의 은혜
+4002:Netie:하느님의 은혜
+4003:Netti:하느님의 은혜
+4004:Netty:이름은 독립적 인 이름으로 사용 결말
+4005:Nety:하느님의 은혜
+4006:Neued:Tringad의 전설적인 아버지
+4007:Nevaeh:하늘
+4008:Neville:Nevil의 변형 : 새로운 마을에서. 19 세기 후반에 지금 이름으로 사용되기 때문에 원래 성. 유명한 소지자 : 소설가 Nevil는 슈트.
+4009:Newell:새로운 홀에서
+4010:Newman:새로운 남자
+4011:Newton:새로운 도시, 새로운 농장
+4012:Nia:래디언스;
+4013:Nic:도미니크의 소형 : 주
+4014:Nichola:승리
+4015:Nick:모든 사랑 사람들의 승자,
+4016:Nickie:승리
+4017:Nickole:사람들의 정복자
+4018:Nicky:승리
+4019:Nico:사람들의 정복자
+4020:Nicolaza:승자
+4021:Nicson:모든 사랑 사람들의 승자,
+4022:Nigel:/ 선장
+4023:Nigella:또는 블랙
+4024:Nijel:챔피언
+4025:Niketa:Onveroverd
+4026:Niketria:Onveroverd
+4027:Nikki:사람들의 정복자
+4028:Nikky:사람들의 정복자
+4029:Nikole:사람들의 정복자
+4030:Nikolle:승자
+4031:Nikos:모든 사랑 사람들의 승자,
+4032:Nikson:모든 사랑 사람들의 승자,
+4033:Niles:챔피언
+4034:Nilesia:깊은
+4035:Nimbus:후광
+4036:Nissyen:Eurosswydd 전설의 아들
+4037:Nivek:잘 생긴, 좋은, 달콤한
+4038:Nixen:모든 사랑 사람들의 승자,
+4039:Nixon:니콜라스의 아들
+4040:Nobelina:전쟁을 잃는.
+4041:Nodens:영국의 신
+4042:Nodons:영국의 신
+4043:Noelene:크리스마스
+4044:Nolene:전차 전투기
+4045:Nonie:하느님은 우리의 빛
+4046:Norbert:화려
+4047:Norberto:삭제
+4048:Norina:존경
+4049:Norman:북한 사람
+4050:Normand:북한의 남자. 성
+4051:Normina:북 말레, 바이킹
+4052:North:북쪽에서
+4053:Northwode:북쪽 숲에서
+4054:Norton:시티에서 북쪽
+4055:Norville:북쪽 상태에서
+4056:Norvin:북쪽의 친구
+4057:Norwel:북쪽 봄부터
+4058:Norwin:북쪽의 친구
+4059:Novaleon:새로운 사자
+4060:Nowell:크리스마스
+4061:Nuvia:
+4062:Nyckolas:승자
+4063:Nylah:
+4064:Nyle:챔피언.
+4065:Nyomi:축복 즐거운
+4066:Oakden:오크 밸리
+4067:Oakley:오크 clearning
+4068:Oberon:로얄웨어
+4069:Octavian:여덟 번째
+4070:Odale:계곡.
+4071:Odam:법률.
+4072:Odel:풍족한
+4073:Odell:계곡.
+4074:Odella:부유 한
+4075:Odwulf:리치 늑대
+4076:Ofydd:(모양이나 특성과) 양
+4077:Ogden:오크 밸리
+4078:Ol:Olwydd 전설의 아들
+4079:Olena:토치
+4080:Olexa:전사 보호자
+4081:Olita:날개.
+4082:Ollaneg:올니.
+4083:Olney:올니.
+4084:Olyvia:올리브 나무
+4085:Ondria:용감한
+4086:Onna:
+4087:Oona:
+4088:Opal:보석
+4089:Ora:아름다운 해안
+4090:Orabel:아름다운 해안
+4091:Ord:
+4092:Ordway:전사 창으로 무장
+4093:Orelia:황금.
+4094:Orell:광석 힐. 이름과 위치를 모두
+4095:Oriella:황금 아름다움
+4096:Orielle:황금 사자 신
+4097:Orik:오래 된 오크
+4098:Orlan:용감하고, 용감한
+4099:Orman:창병
+4100:Ormerod:보완
+4101:Ormond:붉은
+4102:Orrin:영어 강의 이름
+4103:Orton:해안 농장.
+4104:Orva:특별한 친구.
+4105:Orval:황금 도시
+4106:Orvil:창 강도
+4107:Orville:금
+4108:Orvin:스피어 친구
+4109:Os:신.
+4110:Osbert:하느님의 화려한
+4111:Osman:하느님의 보호
+4112:Osmar:하느님의 영광
+4113:Osmin:하느님의 보호
+4114:Osmond:하느님의 보호자.
+4115:Osmund:하느님의 수호자
+4116:Osrick:신성한 통치자
+4117:Osrik:신성한 통치자
+4118:Ossie:하느님의 창
+4119:Ossy:하느님의 신성한 창과 창
+4120:Oswald:매끈한, 청소
+4121:Oswell:강력한 신
+4122:Oswin:하느님의 친구, 하느님의 친구
+4123:Oswine:왕의 이름
+4124:Otha:부유 한
+4125:Ottilie:바보
+4126:Overton:해안 마을에서
+4127:Owein:젊은 전사
+4128:Oxford:오크 밸리
+4129:Oxley:황소 인클로저
+4130:Oz:힘, 용기
+4131:Ozzie:매끈한, 청소
+4132:Ozzy:신성한
+4133:Padrig:귀족, 귀족, E
+4134:Paegastun:전투기 농장
+4135:Page:공급자
+4136:Paiton:전사의 마을
+4137:Paley:이름 폴
+4138:Pam:전체, 단맛의\u200b\u200b 전체 노래
+4139:Pamela:이름은 책 '아르카디아'선생님 필립 시드니로의 주인공에 대한 16 세기에 발명했다.
+4140:Pamelia:이름은 책 아카디아의 주인공에 대한 16 세기에 발명
+4141:Pamila:
+4142:Panda:팬더 곰
+4143:Pander:타이어의 페리클레스 프린스 판더
+4144:Pansy:꽃
+4145:Pany:해리의 아들
+4146:Paprika:향신료
+4147:Park:숲의.
+4148:Parker:숲의 파수꾼, 레인저. 유명한 무기명 : 배우 파커 스티븐슨
+4149:Parkin:리틀 록
+4150:Parkinson:리틀 록
+4151:Parle:리틀 록
+4152:Parley:회의
+4153:Parnel:19 세기 아일랜드어 민족주의 찰스 파넬.
+4154:Parrish:귀족, 파리
+4155:Parsifal:계곡 침
+4156:Parson:목사, 성직자
+4157:Pasco:부활절 일요일에 태어난 부활절,
+4158:Patience:인내
+4159:Patrina:고귀한 혈통, 순도 중 하나와 사랑의
+4160:Patti:귀족
+4161:Patton:전사 도시
+4162:Pauleen:겸손한 작은
+4163:Paulene:겸손한 작은
+4164:Pax:조용한 농장
+4165:Paxtun:조용한 농장
+4166:Payne:소박한 마을 주민
+4167:Peace:휴식
+4168:Peaches:복숭아
+4169:Peck:펙
+4170:Peg:바다의 딸, 빛의 자녀
+4171:Peggie:꾸미기
+4172:Peggy:바다의 딸, 빛의 자녀
+4173:Pelton:도시의 무덤 Peola의
+4174:Pene:오리
+4175:Penn:주택 중
+4176:Pennsylvania:펜의 우드랜드
+4177:Penny:위버;
+4178:Percival:계곡에 침입
+4179:Percy:찌르다
+4180:Perkin:리틀 록
+4181:Perkins:리틀 록
+4182:Pernell:범프 킨
+4183:Perri:뜨내기
+4184:Perry:돌 / 흔들리지 않는 바위 신뢰성,
+4185:Perth:가시 덤불이나 스크럽
+4186:Pete:돌
+4187:Peter:록
+4188:Peterson:록
+4189:Petronel:시골뜨기
+4190:Petula:꽃잎과 튤립의 아마 조합
+4191:Peyton:전투기 자신의 농장
+4192:Phil:말 애호가
+4193:Philberta:화려한.
+4194:Philemon:사랑하는
+4195:Philip:말 친구
+4196:Philips:말 친구
+4197:Phillip:말을 좋아한다. 12 성경의 사도 중 하나입니다.
+4198:Phillips:말 친구
+4199:Phillis:녹색 잎
+4200:Phyllida:녹색 잎, 단풍
+4201:Pierce:돌
+4202:Pierrel:리틀 록
+4203:Piers:신뢰성 / 흔들리지 않는 바위
+4204:Pinch:오류가 교사의 코미디
+4205:Pinkie:분홍색 색깔, 소리
+4206:Piper:
+4207:Pit:구덩이에서
+4208:Plys:Rhys의 아들
+4209:Poll:격분한
+4210:Pollie:격분한
+4211:Pollyanna:큰 슬픔
+4212:Pompey:폼페이
+4213:Poole:물 몸
+4214:Posh:우아한
+4215:Posy:작은 꽃
+4216:Prair:
+4217:Prasutagus:왕의 이름
+4218:Preece:
+4219:Prentice:;. 성
+4220:Prescott:제사장의 집에서
+4221:Presley:성직자
+4222:Pressley:일반 사제
+4223:Prestin:농장의 사제
+4224:Preston:성직자
+4225:Primitivo:원시적 인
+4226:Primula:첫째, 특종
+4227:Princess:왕의
+4228:Princeton:첫째, 교장. 거리 음악가 왕자
+4229:Providenci:섭리
+4230:Provost:측정을 위해 측정
+4231:Prudence:조심, 조심
+4232:Prue:주의
+4233:Pure:
+4234:Purity:깨끗하고 더럽혀
+4235:Putnam:부동산의 사령관
+4236:Puw:퓨의 변형
+4237:Pyt:구덩이에서
+4238:Qahira:행진
+4239:Quaneisha:로얄 매
+4240:Queen:여성
+4241:Queenette:아름다운 여왕
+4242:Queenie:여성
+4243:Queeny:여왕
+4244:Quella:에
+4245:Quenna:여왕의 형태
+4246:Quent:쿠엔틴 '다섯 번째의 변종. "성
+4247:Quenton:쿠엔틴의 변종. 성
+4248:Quera:사람들에게 사랑
+4249:Quianna:하느님의 은혜
+4250:Quilla:퀼
+4251:Quincey:퀸 투스 '부동산
+4252:Quincy:다섯 번째
+4253:Quinette:강한 선정
+4254:Quint:다섯 번째
+4255:Quinterion:
+4256:Quintessen:
+4257:Quintilian:
+4258:Quinton:다섯 번째
+4259:Qwincy:, 퀸 투스에 관한
+4260:Rabecca:
+4261:Rabecka:
+4262:Rachaele:
+4263:Rachela:
+4264:Rachelann:
+4265:Racquel:여성 / 에웨어 양
+4266:Racquelle:
+4267:Rad:법정 변호사
+4268:Radbert:빨간 머리 상담
+4269:Radburt:빨간 머리 상담
+4270:Radbyrne:빨간색 스트림의 삶
+4271:Radcliff:레드 클리프
+4272:Radella:꼬마 요정 상담
+4273:Radford:빨간색 포드의
+4274:Radley:붉은 초원에서
+4275:Radmund:빨간 머리 수비수
+4276:Radolf:붉은 늑대.
+4277:Raechele:
+4278:Raechell:
+4279:Raed:붉은
+4280:Raedanoran:붉은 바다에서
+4281:Raedleah:붉은 초원에서
+4282:Raelyn:깨끗한 이미지 양고기
+4283:Raelynn:깨끗한 이미지 양고기
+4284:Raevyn:
+4285:Raff:붉은 늑대.
+4286:Ragnar:강한 상담. 이전 개인 이름
+4287:Rainbeaux:
+4288:Rainbo:
+4289:Rainbow:
+4290:Raine:육군의 가이드
+4291:Raisah:휴식
+4292:Raith:알 수없는
+4293:Raleah:사슴 초원
+4294:Raleigh:사슴 초원
+4295:Raley:사슴 초원
+4296:Ralf:늑대
+4297:Rally:사슴 초원
+4298:Ralph:늑대
+4299:Ralphina:현명한 통치자, 늑대
+4300:Ralston:랄프의 마을
+4301:Ram:진정
+4302:Ramm:양자리.
+4303:Rance:방패
+4304:Rand:랜돌프 늑대 방패의 변형입니다. 성
+4305:Randal:늑대
+4306:Randall:방패
+4307:Randel:랜돌프 늑대 방패의 변형입니다. 성
+4308:Randell:방패
+4309:Randi:아름다운
+4310:Randkin:작은 방패
+4311:Randolph:늑대
+4312:Randson:랜돌프 늑대 방패의 변형입니다. 성
+4313:Randy:늑대
+4314:Rane:육군의 가이드
+4315:Rang:평의회
+4316:Rangford:까마귀 포드
+4317:Rangley:초원의 까마귀
+4318:Rankin:작은 방패
+4319:Ransford:까마귀 포드
+4320:Ransley:까마귀 초원
+4321:Ransom:구속 구조
+4322:Raoul:영광스러운 늑대
+4323:Rapere:로프의 제조.
+4324:Raquela:
+4325:Raquele:
+4326:Rashawn:야훼는 은혜입니다
+4327:Rashelle:
+4328:Raven:갈가마귀
+4329:Ravendra:까마귀 보호자
+4330:Ravinger:산협
+4331:Rawling:Rawley의 아들
+4332:Rawlins:롤프의 아들
+4333:Rawls:사슴 초원
+4334:Rawnie:여자
+4335:Rawson:Rawley 나 롤리의 아들
+4336:Raybourne:사슴`의 힘
+4337:Rayce:법정 변호사
+4338:Raychell:
+4339:Rayder:상담. 레이몬드의 변형
+4340:Raydon:법정 변호사
+4341:Raylen:레이몬드의 상담 변종
+4342:Rayne:육군의 가이드
+4343:Raynell:상담. 레이몬드의 변형
+4344:Rayner:육군의 가이드
+4345:Raynor:전사 결정
+4346:Rayshaun:레이와 숀의 혼합
+4347:Rayshell:
+4348:Rea:흐르는
+4349:Reading:개간 거주자
+4350:Rebbeca:
+4351:Redding:레드,
+4352:Redell:늑대 상담
+4353:Redley:붉은 초원에서
+4354:Redman:빨간 머리 상담
+4355:Redmond:가이드, 보호자
+4356:Reece:열광
+4357:Reese:열광
+4358:Reeve:집행관 또는 청지기
+4359:Reg:자 고문
+4360:Regenweald:
+4361:Reggie:지배자
+4362:Reginal:
+4363:Reigh:
+4364:Reign:규칙 소버린
+4365:Remi:레밍턴의 약어
+4366:Remington:배열
+4367:Remo:레밍턴의 약어
+4368:Remy:도우미 / 구주
+4369:Ren:자.
+4370:Rena:재생
+4371:Rendall:랜돌프 '늑대의 방패의 변형입니다. "성
+4372:Rendell:랜돌프 '늑대의 방패의 변형입니다. "성
+4373:Renfield:까마귀 필드
+4374:Renton:까마귀 농장에서
+4375:Retha:꾸미기
+4376:Reve:참석자
+4377:Reveca:
+4378:Revecca:
+4379:Reyburn:사슴`의 힘
+4380:Reynold:강력한 상담원 / 자
+4381:Rhan:운명
+4382:Rhawn:거친 긴 머리
+4383:Rhearn:마법의 madien 또는 꽃
+4384:Rheda:
+4385:Rheged:Gwres의 전설적인 아버지
+4386:Rhett:조언
+4387:Rhian:마녀 / 요정 / 여신, 순수 처녀
+4388:Rhianna:위대한 여왕
+4389:Rhiannon:마녀 / 요정 / 여신
+4390:Rhioganedd:아일랜드의 전설적인 왕자
+4391:Rhobert:화려한 명성에 의해 화려한, 조명 명예의 전당
+4392:Rhodes:십자가에 가까운 생활
+4393:Rhys:열광
+4394:Riah:흐르는
+4395:Rianna:님프
+4396:Riccia:강력하고 용감한 자
+4397:Rice:열광
+4398:Rich:강력한 통치자
+4399:Richad:강력하고 용감한 자
+4400:Richard:강력한 강한 군대
+4401:Richendra:강력하고 용감한 자
+4402:Richman:강한
+4403:Rick:통치자 왕
+4404:Rickard:리차드 강, 강한 통치자의 변형
+4405:Rickardo:강력하고 용감한 자
+4406:Ricker:강한 군대.
+4407:Rickey:강한
+4408:Rickie:강한
+4409:Rickman:강한
+4410:Ricky:강한
+4411:Rider:정착
+4412:Ridere:기사.
+4413:Ridge:산마루
+4414:Ridley:갈대 삭제
+4415:Rigby:리지 팜
+4416:Rigel:통치자의 삶
+4417:Riley:Roghallach의 후손
+4418:Rina:깨끗하고 순수한
+4419:Ringo:손가락 장식
+4420:Ripley:Shouters 초원
+4421:Risley:잘라낸 곁가지 초원에서
+4422:Ritchy:리치의 변형 철자
+4423:Ro:명성에 빛나는
+4424:Roan:거룩한 이름 / 까마귀와
+4425:Rob:영광의 빛나는
+4426:Robb:변형 Hreodbeorht
+4427:Robbie:영광의 빛나는
+4428:Robbiey:화려한, 조명 명성
+4429:Robbin:영광의 빛나는
+4430:Robby:영광의 빛나는
+4431:Robee:화려한, 조명 명성
+4432:Roberta:빛나는 영광
+4433:Robertha:화려한, 조명 명성
+4434:Robertia:유명.
+4435:Roberts:화려한, 조명 명성
+4436:Robie:화려한, 조명 명성
+4437:Robin:영광의 빛나는
+4438:Robinne:화려한, 조명 명성
+4439:Robinson:명성에 빛나는
+4440:Robyn:삭제
+4441:Robynne:밝은 명성
+4442:Rochester:바위 요새
+4443:Rock:록
+4444:Rocket:제트 구동 관
+4445:Rockford:록
+4446:Rockwell:우물에서 연기
+4447:Rod:갈대 섬
+4448:Roddy:갈대 섬
+4449:Roden:SWIFT 강
+4450:Roderick:유명한 통치자.
+4451:Roderik:명성
+4452:Rodes:십자가에 가까운 생활
+4453:Rodman:그들이 현명하게 길을 살고
+4454:Rodney:명성
+4455:Rodwell:경로를 따라 봄의 생활
+4456:Rody:명성
+4457:Roé:명성
+4458:Rogue:불공정 야만인이나 예측
+4459:Rolfe:유명한 늑대
+4460:Rolla:유명한 국가
+4461:Rolland:나라의 유명한
+4462:Rollie:유명한 국가
+4463:Rollo:유명한
+4464:Rolo:영광스러운 늑대
+4465:Romay:로마
+4466:Romayne:여성
+4467:Romilly:프랑스의 도시
+4468:Romney:구불 구불 한 강 근처 생활
+4469:Ronaele:엘레 역
+4470:Ronal:가이드, 눈금자, 강 강
+4471:Ronda:
+4472:Ronn:강력한 상담원 / 자
+4473:Ronni:승리를 가져온다
+4474:Ronny:좋은 통치자
+4475:Ronson:가이드, 통치자
+4476:Rook:포효, 함성 (전투 외침을 IE)
+4477:Rosann:
+4478:Rosanna:장미 / 부시
+4479:Rosco:헤더 사슴
+4480:Roseann:물개와 로즈 앤 (찬성
+4481:Roseanne:물개와 로즈 앤 (찬성
+4482:Rosemary:바다
+4483:Rosemay:월 릴리
+4484:Rosette:장미
+4485:Rosevelt:장미의 정원
+4486:Rosie:장미
+4487:Rosina:로즈 / 숲, 장미, 핑크
+4488:Rosita:/ 부시, 핑크
+4489:Roswell:말 강력한
+4490:Rover:뜨내기
+4491:Rovere:뜨내기
+4492:Rowdy:거친 남자, 짐승, 난폭 한
+4493:Rowe:멕시코 양진이
+4494:Rowland:나라의 유명한
+4495:Rowley:유명한 국가
+4496:Royce:장미
+4497:Royston:로이스의 도시
+4498:Ruadson:Rowes 아들
+4499:Rubina:루비
+4500:Ruby:루비
+4501:Ruck:까마귀.
+4502:Ruddy:색 붉게
+4503:Rudyard:영광스러운 늑대
+4504:Rugby:까마귀 부동산
+4505:Ruhdugeard:원유 주택
+4506:Rumour:왕 헨리 IV의 제 2 발표자 재생
+4507:Rune:비밀 로어
+4508:Rush:레드,
+4509:Russ:붉은
+4510:Russel:작은
+4511:Russell:작은
+4512:Rusty:녹슨
+4513:Ruthe:동료, 친구
+4514:Rutherford:가축 포드
+4515:Ryana:작은 왕
+4516:Ryder:
+4517:Rye:섬 초원
+4518:Ryker:강력한 강한 군대
+4519:Rylan:국가
+4520:Ryland:국가
+4521:Ryleigh:호밀
+4522:Ryley:섬 초원
+4523:Ryman:라이 상인
+4524:Ryn:조언, 상담
+4525:Ryton:Rygetun - 라이 농장입니다.
+4526:Sabella:야훼에 전념
+4527:Sabrina:강 세번
+4528:Sabrinah:전설 공주, 대체 맞춤법 사브리나
+4529:Sacc:가방
+4530:Saer:목수.
+4531:Saeran:아일랜드어 성자
+4532:Saeth:화살
+4533:Saffie:향료
+4534:Saffron:크로커스와 꽃의 수술에서 만든 고가의 오렌지 향신료 종 모두.
+4535:Sagar:현명. 성
+4536:Sage:약초
+4537:Sal:샐리의 소형 (사라 : 공주)
+4538:Salina:거주, 가정
+4539:Sally:왕비
+4540:Sammantha:
+4541:Sammey:
+4542:Sandee:사람들의 보호
+4543:Sanders:전사 보호자
+4544:Sandine:사람들의 보호
+4545:Sandira:사람들의 보호
+4546:Sandon:모래 언덕에서
+4547:Sandra:보호, 인간의 afweerder
+4548:Sandrea:사람들의 보호
+4549:Sandy:보호자
+4550:Sandye:사람들의 보호
+4551:Sanford:모래
+4552:Sapphlyn:아름다운 사파이어
+4553:Sar:왕자
+4554:Saranna:화합물 사라 : 공주, 그리고 앤 : 은혜 나 자비
+4555:Sasha:보호
+4556:Saunders:변호하다
+4557:Saunderson:변호하다
+4558:Sawyer:
+4559:Saxon:날카로운
+4560:Saxton:소니의 마을에서
+4561:Say:헨리 VI 2 부 주님은 말씀
+4562:Sayers:목수.
+4563:Saylor:
+4564:Sayre:나무 본 사람
+4565:Scales:헨리 VI 2 부 주님 저울
+4566:Scand:부끄러움
+4567:Scarlet:빨간색.
+4568:Scarlett:바람과 함께 사라지다
+4569:Sceapleigh:양 초원에서
+4570:Scelfleah:평원의 가장자리
+4571:Scirloc:
+4572:Scotti:스코틀랜드 출신의
+4573:Scroop:왕 리처드의 두 번째 부인 스티븐 위기
+4574:Seal:작은 목재에 거주
+4575:Seaver:치열한 거점
+4576:Sebert:바다에서 영광
+4577:Secilia:떨어 뜨리는
+4578:Sedgewick:칼 잔디 장소에서
+4579:Seeley:아주 행복한
+4580:Seely:행복;
+4581:Seger:선원.
+4582:Sel:Selgi 전설의 아들
+4583:Selby:영지의 버드 나무 농장
+4584:Selda:발견 싸움
+4585:Selden:윌로우 밸리
+4586:Selia:하늘
+4587:Selwin:번영 친구
+4588:Selwyn:숲의 지배자
+4589:Sener:치열한 거점
+4590:Sequoya:체로키 알파벳의 발명가
+4591:Seren:딱딱한
+4592:Serenity:휴식
+4593:Sesilia:떨어 뜨리는
+4594:Sever:치열한 거점
+4595:Severin:박식 한
+4596:Severn:사브리나를 참조하십시오
+4597:Severne:엄격한. 몸매. 성
+4598:Sexton:교회 관리인
+4599:Seymour:황무지
+4600:Shad:주문
+4601:Shadow:그림자
+4602:Shadrach:주문
+4603:Shae:거주자
+4604:Shaleen:
+4605:Shalinda:하느님의 아름다운 선물
+4606:Shalonda:평화, 바이올렛
+4607:Shalyn:
+4608:Shanana:현명하고, 강
+4609:Shandley:큰 초원에서
+4610:Shandy:존에서 숀의 변형
+4611:Shannyn:현명하고, 강
+4612:Shantelle:부동의
+4613:Sharalyn:마릴린의 운 변종
+4614:Sharen:
+4615:Sharene:
+4616:Sharin:
+4617:Sharise:은혜, 은혜
+4618:Sharonda:
+4619:Sharry:사랑하는 일반
+4620:Shary:사랑하는 일반
+4621:Sharyl:사람들에게 사랑
+4622:Shavonne:하느님은 화해
+4623:Shawn:야훼,여호화(Yahweh)의 자비로움과 축복을 의미합니다.
+4624:Shawne:하느님은 화해
+4625:Shaydey:
+4626:Shelba:숨겨진 도시
+4627:Shelby:버드 나무와 농가
+4628:Sheldon:보호
+4629:Shelley:청소
+4630:Shelli:일반 증가
+4631:Shellie:일반 증가
+4632:Shelly:청소
+4633:Shelton:
+4634:Shem:유명한
+4635:Shentel:
+4636:Shepherd:
+4637:Shepley:양 초원에서
+4638:Sherae:조명
+4639:Sheree:친애하는
+4640:Sheren:
+4641:Sheridan:긴
+4642:Sherie:
+4643:Sherill:사람들에게 사랑
+4644:Sherlock:와
+4645:Sherly:분명 일반
+4646:Sherman:
+4647:Shermon:셔먼의 변형, 샤이의 사람
+4648:Sherrell:사람들에게 사랑
+4649:Sherri:
+4650:Sherron:
+4651:Sherry:
+4652:Sherryl:사람들에게 사랑
+4653:Sherryn:
+4654:Sherwood:삭제
+4655:Sheryl:친애하는
+4656:Shianne:샤이엔
+4657:Shields:바덴 해의
+4658:Shiloh:기도를 들어
+4659:Shipton:양 농장
+4660:Shireen:스몰 블라인드
+4661:Shirl:밝은 나무
+4662:Shirlee:분명 일반
+4663:Shirlene:분명 일반
+4664:Shirley:셜리
+4665:Shirlyn:밝은 초원
+4666:Shonda:하느님은 화해
+4667:Shyann:샤이엔
+4668:Sian:하느님은 우리와 함께
+4669:Siarl:무료
+4670:Sibille:선지자
+4671:Sibley:여성
+4672:Sid:넓은
+4673:Siddel:넓은 계곡에서
+4674:Sidney:습식 / 광대 한 초원
+4675:Sign:야훼는 은혜입니다
+4676:Silver:귀금속
+4677:Silvius:당신은 그것을 목자를 좋아하는
+4678:Simon:하느님의 들은 말씀을 의미합니다.
+4679:Sinley:친한
+4680:Sionet:하느님은 자비입니다
+4681:Sior:지구
+4682:Sisley:세실리아의 변형과의 이름의 가장 일반적인 형태
+4683:Sissie:로 시작하는 남성 또는 여성 이름의 소형 그리스도
+4684:Sissy:더미
+4685:Siwan:하느님은 우리와 함께
+4686:Skeat:
+4687:Skeet:
+4688:Skelly:이야기하는 사람
+4689:Skelton:난간에 부동산에서
+4690:Skipper:석사
+4691:Skipton:양 농장
+4692:Skyrah:영원한 생명, 힘, 사랑과 아름다움
+4693:Slade:골짜기
+4694:Slecg:
+4695:Smith:
+4696:Smyth:가게 주인
+4697:Smythe:가게 주인
+4698:Snape:영국의 이름
+4699:Snare:헨리 IV, 제 2 부 보안관 임원
+4700:Snell:NOLD
+4701:Snowden:눈 덮인 언덕
+4702:Sol:평화
+4703:Solomon:평화로운
+4704:Solstice:지점
+4705:Sonnet:14 행시 또는 절
+4706:Sonny:젊은이
+4707:Spark:용감한
+4708:Speed:
+4709:Spence:스펜서 제공
+4710:Spencer:법정에서 디스펜서,위원회의 발행인
+4711:Spenser:어떤 사람
+4712:Spring:에
+4713:Springer:활기찬
+4714:Sproule:활동적인
+4715:Square:광장
+4716:Staci:좋은
+4717:Staciënne:부활
+4718:Stacy:변종 : 스테이시
+4719:Stafford:착륙 장소 포드
+4720:Stamford:부동의
+4721:Stan:확고하고 참을성있는
+4722:Stanbeny:돌 요새에서
+4723:Stanberry:돌 요새에서
+4724:Stanford:돌
+4725:Stanly:목초지
+4726:Stanwyk:돌 마을
+4727:Star:딱딱한
+4728:Starla:딱딱한
+4729:Starlene:스타
+4730:Starlet:스타
+4731:Starling:찌르레기
+4732:Starr:딱딱한
+4733:Stefa:왕관
+4734:Stefannie:왕관
+4735:Steffani:왕관
+4736:Steffie:(승) 화환
+4737:Stepahnie:왕관
+4738:Stepan:"크라운"또는 "화환"
+4739:Stepania:왕관
+4740:Stepanie:왕관
+4741:Stepfanie:왕관
+4742:Stephaney:왕관
+4743:Stephani:왕관
+4744:Stephannie:왕관
+4745:Stephen:"크라운"또는 "화환"
+4746:Stephenson:화환
+4747:Stephney:왕관
+4748:Stephnie:왕관
+4749:Stephon:왕관
+4750:Stepne:왕관
+4751:Sterling:작은
+4752:Sterlyn:고품질의 순수
+4753:Sterne:엄격한
+4754:Steva:왕관
+4755:Stevan:"크라운"또는 "화환"
+4756:Stevana:왕관
+4757:Steve:(승) 화환
+4758:Steven:"크라운"또는 "화환"
+4759:Stevenson:"크라운"또는 "화환"
+4760:Stevey:왕관
+4761:Stevie:화환
+4762:Stevon:"크라운"또는 "화환"
+4763:Stevy:왕관
+4764:Steward:Gaurdian
+4765:Stiles:험한
+4766:Stockley:나무 그루터기 초원에서
+4767:Stod:말.
+4768:Stok:그루터기에서.
+4769:Stokley:그루터기 초원
+4770:Stoner:돌.
+4771:Stoney:단어의 기초 닉네임
+4772:Storm:성급한 운동, 폭풍, 폭력 공격
+4773:Stormie:폭풍
+4774:Stormy:난폭 한
+4775:Strang:강한
+4776:Strong:강한
+4777:Styles:험한
+4778:Sue:수련
+4779:Sueanne:수련
+4780:Suellen:결합
+4781:Sukie:수련
+4782:Sully:예민한
+4783:Sulyen:Ìàêñ 전설의 아들
+4784:Suma:여름 개월 동안 출생
+4785:Sumernor:소환사
+4786:Sumner:소환사
+4787:Sunn:태양의 선물
+4788:Sunngifu:태양
+4789:Sunniva:태양
+4790:Sunny:쾌활한.
+4791:Sunshine:조명
+4792:Susie:수잔 백합의 형태
+4793:Susy:수련
+4794:Sutcliff:남쪽 절벽에서
+4795:Sutton:도시
+4796:Suzann:수련
+4797:Suzanna:수련
+4798:Suzanne:백합
+4799:Suzy:수잔 백합의 형태
+4800:Swain:소년
+4801:Swift:빠른
+4802:Swintun:돼지 농장
+4803:Sydney:강을 따라 광대 한 풍경
+4804:Sylvester:
+4805:Sylvie:숲에서 의미하는 라틴어 실비아의 변형.
+4806:Sylvina:숲에서 의미하는 라틴어 실비아의 변형.
+4807:Symer:
+4808:Symon:시몬의 변형 듣고, 듣고,
+4809:Synne:태양의 선물
+4810:Taciana:세탁 대야
+4811:Tad:시인
+4812:Taillour:재단사, 재봉사
+4813:Taina:Sabijnenkoning 딛 Tatius에서 파생 된
+4814:Tait:사람들의 보호
+4815:Taite:
+4816:Takelia:테킬라
+4817:Takila:테킬라
+4818:Tal:이슬
+4819:Talaith:왕관
+4820:Talar:필드의 곶
+4821:Talbot:비밀스러운 메신저
+4822:Talbott:키. 탈의 변종. 성
+4823:Taldon:더 언덕에
+4824:Taliesin:이슬
+4825:Tallie:
+4826:Tallon:키. 탈의 변종. 성
+4827:Talmadge:키. 탈의 변종. 성
+4828:Talon:새 클로
+4829:Tamela:야자 나무 나 허브
+4830:Tamerlane:절름발이 철
+4831:Tamica:풍부한 아이
+4832:Tamilyn:아름다운 야자수, 허브
+4833:Tammi:야자수, 허브
+4834:Tammie:토마와 타마라의 약어
+4835:Tammy:야자 나무 나 허브
+4836:Tamsen:쌍둥이
+4837:Tamtun:조용한 강 농장
+4838:Tandy:사람
+4839:Tanielle:하느님은 내 판사입니다
+4840:Tanith:재산
+4841:Tanka:하느님의 은혜
+4842:Tanton:조용한 강 농장
+4843:Tanzi:꽃
+4844:Taralyn:아름다운 언덕
+4845:Taralynn:타라 아일랜드어 또는 산스크리트어의 변형
+4846:Taren:천둥.
+4847:Tariah:복
+4848:Tarian:방패.
+4849:Tarina:높은 언덕
+4850:Tarleton:천둥 부동산에서
+4851:Taron:탄
+4852:Tarran:천둥.
+4853:Tarrant:천둥.
+4854:Tarrence:로마 클랜 이름
+4855:Tashia:나타샤의 약어
+4856:Tasman:큰 믿음의
+4857:Tassa:나타샤의 약어
+4858:Tate:고대 영어 이름 타타 유래
+4859:Taten:
+4860:Tatum:테이 츠
+4861:Tavia:여덟 번째
+4862:Tay:재단사
+4863:Taylan:재단사. 성
+4864:Tayler:재단사. 성
+4865:Taylon:재단사. 성
+4866:Taylor:
+4867:Tayson:재단사. 성
+4868:Tayt:쾌활한.
+4869:Teagan:좀 더 가까이
+4870:Teanna:자유로운 정신이나 아름다운 마음
+4871:Tearle:줄기
+4872:Ted:유산의 보호자 / 후견인
+4873:Tedd:선물
+4874:Teddi:테오도라의 약어 하느님 께서 주신
+4875:Teddie:선물
+4876:Teddington:도시 사람들의 Tedda의
+4877:Teddy:유산의 보호자 / 후견인
+4878:Tedman:풍부한 수비수
+4879:Tedric:시어 도어의 약어
+4880:Tegan:공정. 웨일스 어 언어에서 파생 된 이름
+4881:Tekle:하느님의 영광
+4882:Temperance:절도
+4883:Tena:그리스도의 추종자
+4884:Tennyson:하느님은 우리와 함께
+4885:Teon:해악
+4886:Terena:테렌스
+4887:Teressa:여름, 수확기
+4888:Teri:사신
+4889:Terrance:불확실;
+4890:Terri:부족의 힘
+4891:Terrie:부족의 힘
+4892:Terrill:천둥 자
+4893:Terry:사람들의 강력한 열 / 여름, 헌트리스
+4894:Terryn:수확에서 일하는 여성
+4895:Tessa:수확에서 일하는 여성
+4896:Tessia:수확에서 일하는 여성
+4897:Tessie:열 / 여름, 헌트리스
+4898:Thayne:종자
+4899:Thelma:하느님의 보호 헬멧을 전사 케어
+4900:Theseus:나는 마샬, 커플 (법률) 고정, 주문하다
+4901:Thom:쌍정
+4902:Thomdic:가시 제방
+4903:Thomkins:작은 톰
+4904:Thompson:토마스 쌍둥이에서 유래
+4905:Thorn:가시
+4906:Thorndyke:가시 제방
+4907:Thorne:가시
+4908:Thornton:가시
+4909:Thorpe:작은 촌락
+4910:Thunder:강화 폭풍우
+4911:Thurman:보호
+4912:Tiahna:타티아나의 약어
+4913:Tiane:타티아나의 약어
+4914:Tianna:종자
+4915:Tibica:로마 흐르는 테 베레 강의
+4916:Tifanny:하느님의 형상
+4917:Tiffaney:하느님의 형상
+4918:Tiffanie:표명
+4919:Tiffany:하느님의 외관
+4920:Tila:
+4921:Tilian:목표
+4922:Tillman:농장주
+4923:Tilly:전투에서 강력한
+4924:Tilman:농장주
+4925:Tim:"하느님을 경외"또는 "Timmehh '명예의
+4926:Timmy:하느님을 공경
+4927:Timon:명예, 긍지
+4928:Timotheus:에
+4929:Timothy:하느님을 공경
+4930:Timthy:하느님은 만들기의 자랑
+4931:Tina:하느님은 취임 선서를했습니다
+4932:Tionna:타티아나의 약어
+4933:Tiphani:하느님의 형상
+4934:Titty:즐거움
+4935:Tobey:하느님은 좋은
+4936:Tobiah:하느님은 좋은
+4937:Tobie:히브리어 이름 도비야, 야훼의 약어가 좋다
+4938:Tobin:하느님은 좋은
+4939:Toby:하느님은 나의 좋은
+4940:Toddy:여우
+4941:Toft:주택
+4942:Tolan:책임을 국가의
+4943:Toland:과세 토지를 소유
+4944:Tolucan:파괴
+4945:Tom:쌍정
+4946:Tomasina:쌍정
+4947:Tomlin:쌍정
+4948:Tommie:쌍둥이 (형)
+4949:Tommy:쌍정
+4950:Tomos:쌍정
+4951:Toni:탁월한
+4952:Tony:귀중한
+4953:Tori:정복자;
+4954:Toriana:빅토리아, 빅터에서 파생 된
+4955:Torn:톰 트리
+4956:Torrey:정복자;
+4957:Townsend:도시의 가장자리
+4958:Toy:장난감
+4959:Toyah:제작 이름
+4960:Tracey:트레이시, 프랑스
+4961:Traci:Thracius
+4962:Tracie:수확에서 일하는 여성
+4963:Tracy:수확에서 일하는 여성
+4964:Tramaine:큰 도시에서
+4965:Tray:세
+4966:Tremain:록
+4967:Trent:여행자;
+4968:Trentin:영어 강의 트렌트을 의미합니다. 성
+4969:Trenton:Trents 치
+4970:Tresha:귀족
+4971:Treva:큰
+4972:Trevan:밀
+4973:Trever:현명하고, 신중
+4974:Trevor:바다
+4975:Trina:순수한
+4976:Trinity:트리플
+4977:Tripper:여행자.
+4978:Trish:
+4979:Trisha:
+4980:Trishelle:귀족, 신
+4981:Tristan:슬픈, 슬픈
+4982:Triston:상대 죄송합니다
+4983:Trixi:축복 여행
+4984:Trixie:여행자
+4985:Trudy:강력 창으로
+4986:True:정품, 실제
+4987:Truly:정직한
+4988:Truman:충실
+4989:Tryna:트리 나에서 RESP Elling
+4990:Tucker:어떤 사람
+4991:Tudor:지배자
+4992:Turner:
+4993:Twilight:어스름
+4994:Twins:쌍둥이
+4995:Ty:Eoghans 국가 (아일랜드 주)
+4996:Tybalt:용감한
+4997:Tylee:(타일러) 어느 타일 중 하나입니다.
+4998:Tyler:
+4999:Tyrelle:하느님은 우리와 함께
+5000:Udela:풍족한
+5001:Ulger:늑대 창.
+5002:Unity:단위;
+5003:Upwode:위의 숲에서
+5004:Vail:골짜기
+5005:Val:힘, 용기
+5006:Valary:힘, 용기
+5007:Vale:골짜기
+5008:Valen:힘, 용기
+5009:Valentine:건강한
+5010:Valerie:강한
+5011:Valiant:용감하게 맞서는.
+5012:Vallen:힘, 용기
+5013:Vance:점유자
+5014:Vannes:곡물 팬
+5015:Vareck:요새
+5016:Varik:요새
+5017:Varyk:요새
+5018:Vaughn:보간의 변형 : 작은.
+5019:Vayle:골짜기
+5020:Veeda:거룩한 지혜
+5021:Verena:겁
+5022:Verge:땅을 네 가지 에이커를 소유
+5023:Verl:
+5024:Verley:
+5025:Vern:장소
+5026:Vernie:승리를 가져온다
+5027:Versie:노래로 가득
+5028:Vi:제비꽃
+5029:Vian:
+5030:Vickey:
+5031:Vickie:승리자
+5032:Vidal:격려
+5033:Videl:생활
+5034:Vin:널리 행해진
+5035:Vina:한 친구를 사랑
+5036:Vinal:와인 룸
+5037:Vince:승리자
+5038:Vine:포도원 노동자
+5039:Vinnie:정복하다
+5040:Vinny:승리자
+5041:Vinson:
+5042:Viola:십이 일절 전야제
+5043:Violet:제비꽃
+5044:Violette:제비꽃
+5045:Vitaly:격려
+5046:Viviana:삶의 전체, 활기찬
+5047:Vivianna:삶의 전체, 활기찬
+5048:Vivianne:삶의 전체, 활기찬
+5049:Viviette:삶의 전체, 활기찬
+5050:Vivijan:
+5051:Vonn:조금.
+5052:Vyacheslav:요새
+5053:Wada:넘기고
+5054:Wadan:가기
+5055:Wade:포드;
+5056:Wadley:웨이드의 초원에서
+5057:Waeringawicum:요새
+5058:Wait:가드
+5059:Walberto:노벨상을 취소
+5060:Walbrydge:웨일스의 다리
+5061:Walcott:별장 웨일스어 사람의 삶
+5062:Waldo:월터 규칙 변형,. 정복하다
+5063:Walker:천 노동자
+5064:Walsh:웨일스 사람
+5065:Walton:월터 규칙 변형,. 정복하다
+5066:Walwyn:웨일스어 친구
+5067:Wann:창백.
+5068:War:주의 깊은
+5069:Ward:재산 부, 보호자
+5070:Warde:야경
+5071:Wardell:언덕의 보호자
+5072:Warden:유산 또는 보호자 (창), 복 수호자
+5073:Wardley:초원의 보호자
+5074:Warley:위어 초원에서
+5075:Warren:동물 보호소
+5076:Warrick:강 도시의
+5077:Warton:위어에 의해 농장에서
+5078:Warwick:성 및 장소 이름을 모두
+5079:Washington:Wassingtun의 변형
+5080:Watson:육군의 지휘관
+5081:Watt:군대의 통치자, 외국인, 육군 자
+5082:Wattekinson:와트의 아들
+5083:Wattkins:군대의 통치자, 외국인, 육군 자
+5084:Watts:
+5085:Wattson:군대의 통치자
+5086:Waverly:떨리는 사시 나무의 초원
+5087:Wayde:중세 스칸디나비아 신화에서 이름을 부여. 또한 영어 성은 물 건너을 참조.
+5088:Waylan:길가의 나라
+5089:Waylen:레인
+5090:Waylon:길가의 나라
+5091:Waymon:도로의 사람
+5092:Wayne:자동차 메이커
+5093:Weald:지도자, 통치자
+5094:Weard:가드
+5095:Weatherly:날씨 양 초원
+5096:Webbe:노력
+5097:Webley:목장 위버
+5098:Webster:위버 : 영어 모든 직업 성씨의 '괴물'결말이 작품은 원래 여성의 직업이었다 제공합니다.
+5099:Weddell:언덕 넘기고
+5100:Welborne:봄 시내에서
+5101:Welby:봄 농장에서
+5102:Welch:웨일스 말
+5103:Weldon:좋은와 언덕에서
+5104:Wella:흐름
+5105:Welles:봄의 생활
+5106:Wellington:부자 부동산
+5107:Wells:봄의 생활
+5108:Welsa:서쪽에서
+5109:Welsh:웨일스 말
+5110:Welss:서쪽에서
+5111:Welton:봄 농장에서
+5112:Wenda:가족; 방랑자
+5113:Wendi:그웬 돌린
+5114:Wendy:Fwendie
+5115:Wentworth:백인의 좋은
+5116:Weolingtun:부자 부동산
+5117:Weorth:농장.
+5118:Weslee:여성 웨슬리
+5119:Weslia:여성 웨슬리
+5120:Wessley:서부 초원입니다. 영어 성에서 웨슬리의 변형
+5121:West:서부 도시. 성
+5122:Westbrook:서쪽에 스트림
+5123:Westen:서부 도시. 성
+5124:Westin:서부 도시. 성
+5125:Westley:서쪽의 초원에서
+5126:Weston:서부 도시. 성
+5127:Weyland:고속도로에 의하여 국가의
+5128:Weylin:늑대의 아들
+5129:Wheatley:밀 필드
+5130:Wheeler:메이커 보내기
+5131:Whistler:피리 부는 사람
+5132:Whitaker:화이트 플레인 스
+5133:Whitfield:화이트 필드의
+5134:Whitley:흰색 초원에서
+5135:Whitlock:
+5136:Whitman:흰 머리
+5137:Wichell:도로 벤드
+5138:Wickley:마을에서 초원
+5139:Widaliz:하느님 께 헌신 인기 보호자,
+5140:Wiellaburne:봄 시내에서
+5141:Wigman:
+5142:Wiladene:영웅 보호기
+5143:Wilber:의도적; 분명
+5144:Wilbert:군대의 통치자
+5145:Wilbur:강한 요새에서 \\ u0026quot, 고의적, 밝은
+5146:Wilder:야생 동물
+5147:Wildon:나무가 우거진 언덕
+5148:Wiley:까다로운 강
+5149:Wilford:버드 나무에서 포드는 평화를 갈망
+5150:Wilfred:평화, 보호
+5151:Wilfrid:단호한 또는 평화로운
+5152:Wilfrida:평화, 보호
+5153:Wilkinson:젊은 사람의 아들이됩니다
+5154:Will:하여야한다
+5155:Willaim:영웅 보호기
+5156:Willes:영웅 보호기
+5157:Willia:영웅 보호기
+5158:William:헬멧과 의지로 강한로
+5159:Williamson:윌리엄의 아들
+5160:Willie:헬멧과 의지로 강한로
+5161:Willow:우아하고 슬림. 버드 나무에서 슬림 우아한 나뭇 가지와 나뭇잎에 대해 지적했다.
+5162:Willsn:
+5163:Willy:헬멧과 의지로 강한로
+5164:Wilmarie:하여야한다
+5165:Wilmer:단호한 또는 유명한
+5166:Wilona:뇌성
+5167:Wilton:봄 또는 버드 나무 농장에서
+5168:Win:위너 프 리드의 소형 : 축복 조정
+5169:Windsor:Windels의 변형
+5170:Windy:강한 공기의 이동
+5171:Winfield:우정의 돌 표식입니다. 성
+5172:Winn:친구
+5173:Winnie:복
+5174:Winslow:언덕 와인에 속하는
+5175:Winslowe:와인의 언덕
+5176:Winsor:윈치 방문 장소
+5177:Winston:돌
+5178:Winter:겨울
+5179:Winthrop:위너 프 리드의 소형 : 축복 조정
+5180:Winton:Wijns의 농장에서
+5181:Winward:숲에서 와인을
+5182:Wirt:
+5183:Wisdom:지식
+5184:Witt:현명.
+5185:Witta:현명.
+5186:Wittatun:부동산의 현명한 사람
+5187:Witter:현명한 wamor
+5188:Woden:신들의 왕
+5189:Wolf:늑대.
+5190:Wolfe:침략 늑대
+5191:Woodley:나무가 우거진 초원에서
+5192:Woodman:
+5193:Woodrow:산림, 나무로 집의 행
+5194:Woodruff:집행관
+5195:Woody:숲에서 행 주택
+5196:Woolcott:별장 Wolfes의 삶
+5197:Woolsey:승리 늑대
+5198:Worthington:거주 이름
+5199:Worton:야채 농장.
+5200:Wren:굴뚝새
+5201:Wright:목수, 노동자
+5202:Wudoweard:삼림 관
+5203:Wulf:늑대.
+5204:Wulfric:번영
+5205:Wulfweardsweorth:세계 보호자
+5206:Wyatt:성격 / 강 / 하디
+5207:Wyclyf:흰색 절벽에서
+5208:Wyman:전투 수호자
+5209:Wyndell:친구. 성
+5210:Wyndham:와이 먼의 정착
+5211:Wyne:친구.
+5212:Wynfield:필드의 친구
+5213:Wynfrid:
+5214:Wynfrith:평화의 친구
+5215:Wynn:친구
+5216:Wynne:친구
+5217:Wynter:겨울
+5218:Wythe:버드 나무.
+5219:Xandra:보호, 인간의 afweerder
+5220:Xari:짧지 만 강력한 멜로디
+5221:Xilla:보호
+5222:Yale:비옥 한;
+5223:Yamilet:
+5224:Yamilex:
+5225:Yardley:동봉하는
+5226:Yardly:목장에서
+5227:Yaris:아름다운 사랑, 봄,
+5228:Yashmine:재스민
+5229:Yeardley:동봉하는
+5230:Yedda:미음
+5231:Yesica:풍족한
+5232:Yestin:
+5233:Yetta:관대 한
+5234:Yoline:
+5235:Yoman:수수료
+5236:Yorath:장인의 선두 주자
+5237:Ysgawyn:Panon 전설의 아들
+5238:Yul:크리스마스에 태어
+5239:Yule:크리스마스에 태어
+5240:Zabrina:
+5241:Zach:주님을 기억
+5242:Zachary:야훼는 자신을 기억 기억
+5243:Zack:주님은 기억하고있다
+5244:Zackery:스가랴와 재커리에서 파생 된
+5245:Zadie:왕비
+5246:Zain:아름다움
+5247:Zaine:젠 또는 존에서 파생 된
+5248:Zak:주님은 기억하고있다
+5249:Zakari:스가랴와 재커리에서 파생 된
+5250:Zakary:하느님의 축하
+5251:Zanda:독립 아름 다운 소녀
+5252:Zander:보호, 인간의 afweerder
+5253:Zane:존의 변형. 미국 서부 작가 제인 그레이
+5254:Zavia:새 집
+5255:Zavrina:강 세번
+5256:Zay:절단
+5257:Zayne:제인과 존의 변형
+5258:Zeke:에스겔의 소형, 하느님은 하느님을 강화하거나, 강화
+5259:Zelene:
+5260:Zeppelin:비행선, 비행선, 소형 연식 비행선
+5261:Zhane:야훼의 선물
+5262:Zina:사람들의 창, 정복자와 강력한
+5263:Zinia:아름다운 꽃
+5264:Zita:소녀

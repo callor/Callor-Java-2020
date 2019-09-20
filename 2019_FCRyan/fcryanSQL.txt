@@ -1,0 +1,157 @@
+-- FCRyan
+DROP TABLE member;
+CREATE TABLE member(
+    id VARCHAR2(30) NOT NULL PRIMARY KEY,
+    pw VARCHAR2(30) NOT NULL,
+    name VARCHAR2(30) NOT NULL,
+    phone VARCHAR2(30) NOT NULL,
+    email VARCHAR2(50) NOT NULL,
+    zipcode VARCHAR2(20) NOT NULL,
+    addr1 VARCHAR2(200) NOT NULL,
+    addr2 VARCHAR2(200) NOT NULL,
+    regdate DATE DEFAULT SYSDATE
+);
+
+INSERT INTO member(id, pw, name, phone, email, zipcode, addr1, addr2)
+VALUES('ccw1104', 'ccw12345', '최철웅', '01026850201', 'sentilemon02@gmail.com', '506766', '광주광역시 광산구 운남동', '주공아파트 000동 0000호');
+
+COMMIT;
+
+SELECT * FROM member;
+        
+        
+-- FCRyan 상품테이블 하나로 합치기
+DROP SEQUENCE seq_fcproview;
+CREATE SEQUENCE seq_fcproview
+START WITH 1 -- 시작값
+INCREMENT BY 1;
+
+DROP TABLE fcproduct;
+CREATE TABLE fcproduct(
+    p_code VARCHAR2(5) PRIMARY KEY,
+    p_name VARCHAR2(100) NOT NULL,
+    p_club VARCHAR2(50),
+    p_nation VARCHAR2(100) NOT NULL,
+    p_local VARCHAR2(100) NOT NULL,
+    p_statidum VARCHAR2(100) NOT NULL,
+    p_coach VARCHAR2(100),
+    p_price NUMBER NOT NULL,
+    p_good NUMBER, 
+    p_img VARCHAR2(100),
+    p_indate DATE DEFAULT SYSDATE
+);
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '함부르크SV', '분데스리가', '독일', '독일 함부르크', '폴크스파르크슈타디온', '하네스 볼프', 3000, 20, '라이언1.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '애스턴 빌라 FC', '프리미어리그', '잉글랜드', '잉글랜드 버밍엄', '빌라 파크', '딘 스미스', 5000, 20, '라이언2.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '스완지 시티 AFC', '프리미어리그', '영국', '웨일스 스완지', '리버티 스타디움', '그레이엄 포터', 2000, 50, '라이언3.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, 'FC 인터 밀란', '세리에 A', '이탈리아', '이탈리아 밀라노', '주세페 메아차 스타디움', '루치아노 스팔레티', 8000, 120, '라이언4.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '바이엘 04 레버쿠젠', '분데스리가', '독일', '독일 레버쿠젠', '바이 아레나', '하이코 헤를리히', 3200, 15, '라이언5.jpg');
+commit;
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, 'AC 밀란', '세리에 A', '이탈리아', '이탈리아 밀라노', '산 시로 스타디움', '젠나로 가투소', 3200, 15, '라이언6.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '맨체스터 유나이티드 FC', '프리미어리그', '잉글랜드', '잉글랜드 맨체스터', '올드 트래포드', '조세 무리뉴', 12000, 350, '라이언8.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, 'FC 바르셀로나', '프리메라리그', '스페인', '스페인 바르셀로나', '캄프 누', '에르네스토 발베르데', 15000, 550, '라이언9.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '아스널 FC', '프리미어리그', '잉글랜드', '잉글랜드 런던', '에미레이트 스타디움', '우나이 에메리', 12000, 450, '라이언10.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '레알 마드리드', '프리메라리그', '스페인', '스페인 마드리드', '산티아고 베르나베우', '산티아고 솔라리', 10500, 470, '라이언12.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, 'FC 바이에른 뮌헨', '분데스리가', '독일', '독일 y헨', '알리안츠 아레나', '니코 코바치', 16500, 542, '라이언13.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '뉴캐슬 유나이티드 FC', '프리미어리그', '잉글랜드', '잉글랜드 뉴캐슬어폰타인', '세인트제임스 파크', '라파엘 베니테즈', 11243, 342, '라이언15.png');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, 'SV 베르더 브레멘', '분데스리가', '독일', '독일 브레맨', '베저스타디온', '플로리안 코펠트', 5300, 102, '라이언16.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '유벤투스 FC', '세리에 A', '이탈리아', '이탈리아 토리노', '알리안츠 스타디움', '마시밀리아노 알레그리', 17300, 560, '라이언17.jpg');
+INSERT INTO fcproduct (p_code, p_name, p_club, p_nation, p_local, p_statidum, p_coach, p_price, p_good, p_img)
+VALUES(seq_fcproview.NEXTVAL, '첼시 FC', '프리미엄리그', '잉글랜드', '잉글랜드 런던', '스템포드 브릿지', '마우리치오 사리', 15300, 423, '라이언18.jpg');
+COMMIT;
+        
+SELECT * FROM fcproduct;
+        
+        
+-- fcryan 게시판
+DROP SEQUENCE seq_fcryanboard;
+CREATE SEQUENCE seq_fcryanboard
+START WITH 1
+INCREMENT BY 1
+NOCYCLE;
+
+DROP TABLE fcryanboard;
+CREATE TABLE fcryanboard(
+    bno NUMBER NOT NULL PRIMARY KEY,
+    title VARCHAR2(200) NOT NULL,
+    content VARCHAR2(2000),
+    writer VARCHAR2(30) NOT NULL,
+    regdate date DEFAULT SYSDATE,
+    viewcnt NUMBER DEFAULT 0,
+    replycnt NUMBER DEFAULT 0,
+    goodcnt NUMBER DEFAULT 0,
+    filename VARCHAR2(100),
+    filesize NUMBER
+);
+
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '호날두 이적?', '진짜 호날두 이적합니까?', '이적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '호날두 이적한다고???', '마드리드에서 어디로 가는데?', '삼적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '유벤투스 세리에로 간다', '나에 호날두 유벤투스로 떠난다', '사적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '메시의 시대가 오는가', '호날두 이적하면 메시가 라리가 먹겠네', '메신');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '호빗같은 메시', '호빗같은녀석!!!', '오적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '한판 붙어보자는거냐???', '축구도 못하는게 모델이나 하라그래라', '메시신');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '모델도 못해요 다 늙어서...', '모델은 개뿔...', '메시신2');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '아니 ㅋㅋ 그만 하시져', '왜 싸우고들 그러세요', '중재자');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '멀 그만해 너는 누구편이냐?', '누구임 정체를 밝혀라', '오적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '거 참 사람들 성격...ㅉㅉ', '성격 별로네 에효', '중재자');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '메시도 폼 다 죽었어', '메시도 축구그만하고 감자칩이나 먹으라그래', '메시신3');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '사람들 다보는데 그만 좀 하이소', '부끄러운줄 알아라들..', '중재자2');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '맞아요 창피해요 정말', '싸울일 가지고 좀 싸우세요', '중재자3');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '오늘도 사과하자', '사과합니다. 제가 언행이 좀 심했네요', '메신');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '이해합니다 메시 날두 모두 최고의 선수들', '메시 호날두 누가 뭐래도 최고의 선수입니다.', '삼적날두');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '손흥민짱이야~~~', '박지성이 최고지', '지성박');
+INSERT INTO fcryanboard(bno, title, content, writer) VALUES(seq_fcryanboard.NEXTVAL, '지성이형이 짱이죠~~', '내가 짱이지!!', '흥민손');
+COMMIT;
+
+SELECT * FROM fcryanboard
+ORDER BY regdate DESC;      
+
+COMMIT;
+
+-- fcryan 댓글
+DROP SEQUENCE seq_fcryanreply_rno;
+CREATE SEQUENCE seq_fcryanreply_rno
+INCREMENT BY 1
+START WITH 1
+NOCYCLE
+MINVALUE 1
+NOMAXVALUE;
+
+DROP TABLE fcryanreply;
+CREATE TABLE fcryanreply(
+    rno NUMBER NOT NULL PRIMARY KEY,
+    content VARCHAR2(2000) NOT NULL,
+    writer VARCHAR2(30) NOT NULL,
+    regdate DATE DEFAULT SYSDATE,
+    bno NUMBER NOT NULL
+);
+ALTER TABLE fcryanreply ADD CONSTRAINT fcryanreply_fk_bno
+    FOREIGN KEY (bno) REFERENCES fcryanboard(bno);
+COMMIT;
+
+
+DELETE FROM fcryanreply;
+INSERT INTO fcryanreply(rno, content, writer, bno)
+VALUES(seq_fcryanreply_rno.NEXTVAL, '테스트입니다. 1', 'ccw1104', 17);
+INSERT INTO fcryanreply(rno, content, writer, bno)
+VALUES(seq_fcryanreply_rno.NEXTVAL, '테스트입니다. 2', 'Tester1', 17);
+INSERT INTO fcryanreply(rno, content, writer, bno)
+VALUES(seq_fcryanreply_rno.NEXTVAL, '테스트입니다. 3', 'ccw1104', 17);
+INSERT INTO fcryanreply(rno, content, writer, bno)
+VALUES(seq_fcryanreply_rno.NEXTVAL, '테스트입니다. 4', 'ccw1104', 17);
+INSERT INTO fcryanreply(rno, content, writer, bno)
+VALUES(seq_fcryanreply_rno.NEXTVAL, '테스트입니다. 5', 'Tester3', 17);
+COMMIT;
