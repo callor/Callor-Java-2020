@@ -11,7 +11,7 @@ public class bankEx_03 {
 		// TODO Auto-generated method stub
 		BankService bs = new BankServiceImpV2();
 		Scanner scanner = new Scanner(System.in);
-		String bookFile = "src/com/biz/bank/활빈당은행잔고원장.txt";
+		String bookFile = "src/com/callor/bank/활빈당은행잔고원장.txt";
 		try {
 
 			/*

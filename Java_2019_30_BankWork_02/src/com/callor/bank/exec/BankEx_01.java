@@ -10,7 +10,7 @@ public class BankEx_01 {
 		// interface로 선언하고
 		// class로 객체를 초기화 하기
 		BankService bs = new BankServiceImpV1();
-		String bookFile = "src/com/biz/bank/활빈당은행잔고원장.txt";
+		String bookFile = "src/com/callor/bank/활빈당은행잔고원장.txt";
 
 		try {
 			bs.readBook(bookFile);

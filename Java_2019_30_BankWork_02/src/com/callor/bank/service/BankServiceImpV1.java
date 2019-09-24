@@ -252,7 +252,7 @@ public class BankServiceImpV1 implements BankService {
 	public void accListWrite(String remark, int money) throws Exception {
 		// TODO 거래내역 파일로 저장
 		
-		String strAccPath = "src/com/biz/bank/books/";
+		String strAccPath = "src/com/callor/bank/books/";
 		FileWriter fileWriter;
 		PrintWriter accBook;
 		
