@@ -24,6 +24,7 @@ public class NetServer {
         OutputStream os = client.getOutputStream();
         DataOutputStream dos = new DataOutputStream(os);
 
+        
         while((data = scan.nextLine()) != null )
         {
             if(data.equals("exit")) {
@@ -36,6 +37,8 @@ public class NetServer {
         }
         dos.close();
         client.close();
+        scan.close();
+        server.close();
 	}
 
 }
