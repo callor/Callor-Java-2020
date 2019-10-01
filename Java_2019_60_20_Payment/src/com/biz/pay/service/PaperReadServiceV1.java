@@ -14,9 +14,9 @@ public class PaperReadServiceV1 {
 		return this.payStrList;
 	}
 	
-	public void read(String payList) throws IOException {
+	public void read(String payFile) throws IOException {
 		
-		FileReader fileReader = new FileReader(payList);
+		FileReader fileReader = new FileReader(payFile);
 		BufferedReader buffer = new BufferedReader(fileReader);
 		payStrList = new ArrayList<String>();
 		String reader = new String();

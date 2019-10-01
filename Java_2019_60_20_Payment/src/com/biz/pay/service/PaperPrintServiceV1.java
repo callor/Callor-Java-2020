@@ -5,11 +5,15 @@ import java.util.List;
 import com.biz.pay.domain.PaperVO;
 
 public class PaperPrintServiceV1 {
-	
+
+	PaperReadServiceV1 pr = null;
+	PaperMakeServiceV2 pm = null;
 	List<String> payStrList;
 	
 	public void setPayStrList(List<String> payStrList) {
 		this.payStrList = payStrList;
+		this.pm = new PaperMakeServiceV2();
+		this.pr = new PaperReadServiceV1();
 	}
 	
 	public void print(List<PaperVO> paperList) {
@@ -18,10 +22,8 @@ public class PaperPrintServiceV1 {
 		}
 	}
 	
-	
 	public void print() {
-
-		PaperMakeServiceV2 pm = new PaperMakeServiceV2();
+		
 		
 		// pay.txt에 읽은 문자열 들이 payStrList에 담겨있다.
 		for(String pay : payStrList) {
@@ -41,6 +43,7 @@ public class PaperPrintServiceV1 {
 			for(PaperVO vo : paperList) {
 				System.out.println(vo.getPaper() + "\t" + vo.getCount());
 			}
+		
 		}
 		
 		
