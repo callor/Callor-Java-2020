@@ -72,12 +72,16 @@ public class BlackExec01 {
 
 					System.out.println("아무키나 누르세요.....");
 					break;
+		
 				}
 
 			}
 			scan.nextLine();
-			scan.close();
 		}
+		
+		
+		// scan.close();
+
 
 	}
 

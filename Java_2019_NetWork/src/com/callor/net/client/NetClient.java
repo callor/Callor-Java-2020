@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 public class NetClient {
 
 	public static void main(String[] args) throws UnknownHostException, IOException {
-		  String serverIP = "127.0.0.1";
+		  String serverIP = "192.168.0.150";
 	        int port = 6974;
 	        System.out.println("Connect to " + serverIP + ":" + String.valueOf(port));
 	        Socket server = new Socket(serverIP, port);
@@ -28,6 +28,7 @@ public class NetClient {
 	        System.out.println("Disconnect with server.");
 	        dis.close();
 	        server.close();
+	        
 	}
 
 }

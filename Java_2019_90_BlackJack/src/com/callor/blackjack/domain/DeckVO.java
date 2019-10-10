@@ -62,7 +62,7 @@ public class DeckVO {
 
 	@Override
 	public String toString() {
-		return "DeckVO [suit=" + suit + ", denomination=" + denomination + ", value=" + value + "]";
+		return "[suit=" + suit + "\t\tdenomination=" + denomination + "\tvalue=" + value + "]";
 	}
 	
 
