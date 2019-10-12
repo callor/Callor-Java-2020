@@ -23,6 +23,7 @@ public class ExcelRead_01 {
 		try {
 			br = Files.newBufferedReader(Paths.get(fileName));
 			Charset.forName("UTF-8");
+			// Charset.forName("MS949");
 			String line = new String();
 
 			while (true) {

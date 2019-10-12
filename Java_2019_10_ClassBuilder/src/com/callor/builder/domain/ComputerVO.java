@@ -21,6 +21,10 @@ public class ComputerVO {
 		this.isBluetoothEnabled = builder.isBluetoothEnabled;
 	}
 	
+	public static Builder builder() {
+		return new ComputerVO.Builder();
+	}
+	
 	@Override
 	public String toString() {
 		return "ComputerVO [HDD=" + HDD + ", RAM=" + RAM + ", isGraphicsCardEnabled=" + isGraphicsCardEnabled
@@ -42,6 +46,7 @@ public class ComputerVO {
 			this.HDD = hdd;
 			this.RAM = ram;
 		}
+	
 
 		public Builder HDD(String HDD) {
 			this.HDD = HDD;

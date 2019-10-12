@@ -33,18 +33,17 @@ public class ExcelWrite_01 {
 			 * OS 마다 조금씩 다르다 
 			 * 
 			 */
-			bufWriter = Files.newBufferedWriter(Paths.get(fileName), Charset.forName("MS949"));
+			// bufWriter = Files.newBufferedWriter(Paths.get(fileName), Charset.forName("MS949"));
 
 			// 이럴때는 인코딩을 UTF로 설정하고 한글 BOM을 파일에 기록해 주어야 한다.
-			// bufWriter = Files.newBufferedWriter(Paths.get(fileName), Charset.forName("UTF-8"));
+			bufWriter = Files.newBufferedWriter(Paths.get(fileName), Charset.forName("UTF-8"));
 			
 			//
 			// 한글 깨짐 방지 BOM 출력
-			// bufWriter.write("\uFEFF");
+			bufWriter.write("\uFEFF");
 
 			
 			for (int i = 0 ; i < 20 ; i++) {
-				
 				
 				bufWriter.write(i+1 + ",");
 				bufWriter.write("'" + rnd.nextInt() + ",");
