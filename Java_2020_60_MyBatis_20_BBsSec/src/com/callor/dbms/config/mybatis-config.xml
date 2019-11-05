@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  
+<configuration>
+	
+	<typeAliases>
+		<typeAlias 
+			type="com.callor.dbms.persistence.BBsDTO" 
+			alias="BBsDTO"/>
+	</typeAliases>
+	
+	<!-- DB 연결을 위한 정보 설정 -->
+	<environments default="oracleConnection">
+		<environment id="oracleConnection">
+			<!-- 
+				MyBATIS에서 JDBC를 사용한 Connection관리 
+				JDBC  : 이 구성은 단순히 JDBC 커밋 및 롤백 기능을 사용합니다. 
+				트랜잭션의 범위를 관리하기 위해 dataSource에서 검색된 연결에 의존합니다.
+				 
+				MANAGED  : 이 구성은 거의 아무것도하지 않습니다. 
+				연결을 커밋하거나 롤백하지 않습니다. 
+				대신 컨테이너는 트랜잭션의 전체 수명주기 
+				(예 : JEE 응용 프로그램 서버 컨텍스트)를 관리 할 수 있습니다. 
+				기본적으로 연결이 닫힙니다. 
+				그러나 일부 컨테이너는이를 예상하지 않으므로 연결을 닫는 것을 중지해야하는 경우 
+				"closeConnection"속성을 false로 설정하십시오.				
+			-->
+			<transactionManager type="JDBC">
+			</transactionManager>
+			<dataSource type="POOLED">
+				<property name="driver" 
+						value="oracle.jdbc.OracleDriver"/>
+				<property name="url" 
+					value="jdbc:oracle:thin:@localhost:1521:xe"/>
+				<property name="username" value="${username}"/>
+				<property name="password" value="${password}"/>
+			</dataSource>
+		</environment>
+	</environments>
+	
+	<mappers>
+		<mapper  resource="com/callor/dbms/config/bbs-mapper.xml"/>
+	</mappers>
+	
+
+</configuration>
