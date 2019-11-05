@@ -1,4 +1,4 @@
-package com.biz.single.service;
+package com.callor.thread.exec.datas;
 /*
  * 현재 생성한 싱글클래스는
  * thread 환경에서 매우 불안전한 상태로 존재한다.
@@ -7,8 +7,8 @@ package com.biz.single.service;
  */
 public class SingleClassV1 {
 
-	
 	private static String name ;
+	public static int sum;
 	
 	/*
 	 * 프로젝트가 시작될때
@@ -30,17 +30,16 @@ public class SingleClassV1 {
 	public static SingleClassV1 getInstance() {
 		return myObject;
 	}
-	
-	public static String getName() {
-		return name;
-	}
-	
+
 	public static void setName(String arg) {
 		name = arg;
+		
 	}
-	
-	
-	
+
+	public static Object getName() {
+		// TODO Auto-generated method stub
+		return name;
+	}
 	
 	
 }

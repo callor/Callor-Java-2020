@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+ <mapper namespace="com.callor.dbms.dao.BBsDao">
+ 
+ 	<select id="selectAll" resultType="BBsDTO">
+ 		SELECT * FROM tbl_bbs 
+ 	</select>
+
+ 	<resultMap type="map" id="selectMapList">
+        <result column="BS_ID" property="BBS_ID"/>
+        <result column="BS_DATE" property="BBS_DATE"/>
+        <result column="BS_TIME" property="BBS_TIME"/>
+        <result column="BS_WRITER" property="BBS_WRITER"/>
+        <result column="BS_SUBJECT" property="BBS_SUBJECT"/>
+        <result column="BS_COUNT" property="BBS_COUNT"/>
+    </resultMap>
+ 	
+ 	
+ 	<select id="selectMap"  resultMap="selectMapList">
+ 		SELECT 
+		 		BS_ID,
+				BS_DATE,
+				BS_TIME,
+				BS_WRITER,
+				BS_SUBJECT,
+				BS_TEXT,
+				BS_COUNT
+ 		 FROM tbl_bbs
+ 	</select>
+ 	
+ 	<select id="findById"  resultType="BBsDTO">
+ 		SELECT * FROM tbl_bbs WHERE bs_id = #{bs_id}
+ 	</select>
+ 	
+ 	<insert id="insert" parameterType="BBsDTO">
+ 		INSERT INTO tbl_bbs( 
+ 						BS_ID,
+						BS_DATE,
+						BS_TIME,
+						BS_WRITER,
+						BS_SUBJECT,
+						BS_TEXT,
+						BS_COUNT )
+			VALUES (
+						SEQ_BBS.NEXTVAL,
+						#{bs_date},
+						#{bs_time},
+						#{bs_writer},
+						#{bs_subject},
+						#{bs_text},
+						#{bs_count}
+			)
+		
+ 	</insert>
+ 	<update id="update"  parameterType="BBsDTO">
+ 	
+ 	</update>
+ 	<delete id="delete">
+ 		DELETE FROM tbl_bbs
+ 		WHERE bs_id = #{bs_id}
+ 	</delete>
+ 
+ </mapper> 

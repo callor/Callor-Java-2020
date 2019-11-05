@@ -1,0 +1,4 @@
+KEY : C:\Program Files\ojdkbuild\java-11-openjdk-11.0.2-1\
+URL : jdbc:oracle:thin:@127.0.0.1:1521:XE -> XUdvba4oLvIskF7vyB+0uJ7RurgsuwEpV31g4lHZeWLHpxSLMrTmj28GC/I65NBT
+USER : user4 -> t4DnNUn3iyzpoSprWK4X8Q==
+PASSWORD : user4 -> ekYkRMJrNZABxxE6tARWZw==
