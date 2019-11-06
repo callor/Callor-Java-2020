@@ -1,6 +1,7 @@
 package com.callor.dbms.exec;
 
 import java.util.Map;
+import java.util.Set;
 
 public class GetENV_01 {
 
@@ -10,6 +11,12 @@ public class GetENV_01 {
 		
 		System.out.println(envList.get("CALLOR"));
 		System.out.println(envList.get("callor"));
+
+		
+		Set<String> keys = envList.keySet();
+		for(String key : keys) {
+			System.out.printf("%s : %s",key,envList.get(key));
+		}
 		
 		
 	}
