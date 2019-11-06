@@ -18,16 +18,20 @@ public class ChatClientV1 {
 		BufferedReader br = null;
 		PrintWriter pw = null;
 		boolean endflag = false;
+		
 		String serverIP = "192.168.0.8";
 		sock = new Socket(serverIP, 10001);// 아아디,포트
+		
 		pw = new PrintWriter(new OutputStreamWriter(sock.getOutputStream()));
 		br = new BufferedReader(new InputStreamReader(sock.getInputStream()));
 		BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in));
 
 		pw.println(serverIP);
 		pw.flush();
+		
 		InputThread it = new InputThread(sock, br);
 		it.start();
+		
 		String line = null;
 		while ((line = keyboard.readLine()) != null) {
 			pw.println(line);
@@ -60,19 +64,10 @@ class InputThread extends Thread {
 			while ((line = br.readLine()) != null) {
 				System.out.println(line);
 			}
+			br.close();
+			sock.close();
 		} catch (Exception e) {
 			e.printStackTrace();
-		} finally {
-			try {
-				if (br != null) {
-					br.close();
-				}
-				if (sock != null) {
-					sock.close();
-				}
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
 		}
 	}
 }

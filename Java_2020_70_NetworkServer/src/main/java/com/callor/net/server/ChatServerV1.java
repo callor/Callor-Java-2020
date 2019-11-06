@@ -10,6 +10,7 @@ import java.net.Socket;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Set;
 
 public class ChatServerV1 {
 
@@ -36,9 +37,16 @@ class ChatThread extends Thread {
 
 		this.sock = sock;
 		this.hm = hm;
+		
+		// 접속한 client socket을 출력포트로 설정
+		// 메시지 전송용 스트림
 		PrintWriter pw = new PrintWriter(new OutputStreamWriter(sock.getOutputStream()));
+		
+		// 접속한 client socket을 입력포트로 설정
+		// 메시지 수신용 스트림
 		br = new BufferedReader(new InputStreamReader(sock.getInputStream()));
 		id = br.readLine();
+		
 		broadcast(id + "님이 접속하셨습니다.");
 		System.out.println("접속한 사용자의 아이디 : " + id);
 		synchronized (hm) {
@@ -98,6 +106,15 @@ class ChatThread extends Thread {
 
 	public void broadcast(String msg) {
 		synchronized (hm) {
+			
+			Set<String> keys = hm.keySet();
+			for(String key : keys) {
+				PrintWriter pw = (PrintWriter) hm.get(key);
+				pw.print(msg);
+				pw.flush();
+			}
+			
+			/*
 			Collection<Object> collection = hm.values();
 			Iterator<?> iter = collection.iterator();
 			while (iter.hasNext()) {
@@ -105,6 +122,8 @@ class ChatThread extends Thread {
 				pw.println(msg);
 				pw.flush();
 			}
+			*/
+			
 		}
 	}
 }
