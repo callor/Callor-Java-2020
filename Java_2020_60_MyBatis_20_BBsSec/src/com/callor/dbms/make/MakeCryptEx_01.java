@@ -1,4 +1,4 @@
-package com.callor.dbms.exec;
+package com.callor.dbms.make;
 
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
@@ -6,6 +6,9 @@ public class MakeCryptEx_01 {
 
 	public static void main(String[] args) {
 
+		System.out.println(System.getenv("CALLOR"));
+		System.getenv().get("BIZ");
+		
 		StandardPBEStringEncryptor pbeEnc = new StandardPBEStringEncryptor();
 
 		pbeEnc.setAlgorithm("PBEWithMD5AndDES");

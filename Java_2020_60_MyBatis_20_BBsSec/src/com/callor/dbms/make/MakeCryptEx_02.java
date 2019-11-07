@@ -1,4 +1,4 @@
-package com.callor.dbms.exec;
+package com.callor.dbms.make;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -24,7 +24,7 @@ public class MakeCryptEx_02 {
 		
 		System.out.printf("암호화 Key(%s) >> ",env.get("JAVA_HOME"));
 		String secKey = scanner.nextLine();
-		if(secKey.trim().isBlank()) secKey = env.get("JAVA_HOME");
+		if(secKey.trim().isEmpty()) secKey = env.get("JAVA_HOME");
 		
 		pbeEnc.setPassword(secKey); // PBE 값(XML PASSWORD설정)
 
