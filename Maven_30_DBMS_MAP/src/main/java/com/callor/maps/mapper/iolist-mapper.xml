@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+ <mapper namespace="com.biz.oracle.mapper.IolistDao">
+ 
+ 	<!-- 
+ 	DTO,VO를 생성하지 않고 Mapper에서 result값을 담을 Map(jav 자료형)을
+ 	선언하고 Select된 결과를 Map에 담아 List로 얻어오기 위한 Code
+ 	
+ 	column="" 값은 SELECT의 projection 칼럼 명
+ 	property="" 변수명과 같은 역할이며 Map<> 의 key 로서
+ 		값을 getter할때 사용하는 이름
+ 		property 는 사용할때 문자열 행태이기 때문에 
+ 		All 대문자, All 소문자 특별이 _ 를 추가하여 명명한다.
+ 	 -->
+ 	<resultMap type="Map" id="selectMapList">
+	 	<result column="IO_SEQ" property="IO_SEQ" />
+		<result column="IO_DATE" property="IO_DATE" />
+		<result column="IO_INOUT" property="IO_INOUT" />
+		<result column="IO_QTY" property="IO_QTY" />
+		<result column="IO_PRICE" property="IO_PRICE" />
+		<result column="IO_TOTAL" property="IO_TOTAL" />
+		<result column="IO_PCODE" property="IO_PCODE" />
+		<result column="IO_DCODE" property="IO_DCODE" />
+ 	</resultMap>
+ 	
+ 	<select id="selectAll" resultMap="selectMapList">
+		 	SELECT IO_SEQ,
+					IO_DATE,
+					IO_INOUT,
+					IO_QTY,
+					IO_PRICE,
+					IO_TOTAL,
+					IO_PCODE,
+					IO_DCODE
+			FROM tbl_iolist
+ 	</select>
+ 	
+ 	<select id="findById"></select>
+ 	<insert id="insert"></insert>
+ 	<update id="update"></update>
+ 	<delete id="delete"></delete>
+ 
+ </mapper> 
