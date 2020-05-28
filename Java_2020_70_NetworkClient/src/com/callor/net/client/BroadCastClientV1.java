@@ -16,7 +16,7 @@ public class BroadCastClientV1 {
 	private static DatagramSocket socket = null;
 
 	public static void main(String[] args) throws IOException {
-		broadcast("Hello", InetAddress.getByName("255.255.255.255"));
+		broadcast("Hello", InetAddress.getByName("192.168.0.255"));
 	}
 
 	public static void broadcast(String broadcastMessage, InetAddress address) throws IOException {
