@@ -92,6 +92,5 @@ class Coord {
 		} else {
 			this.path = oldPath + " -> " + "(" + row + ", " + col + ")";
 		}
-		
 	}
 }
