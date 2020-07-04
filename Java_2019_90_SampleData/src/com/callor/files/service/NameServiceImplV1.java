@@ -9,14 +9,14 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class NameServiceV1 implements NameService {
+public class NameServiceImplV1 implements NameService {
 
 	List<String> nameList;
 	List<String> famList;
 
 	// 클래스 이름과 같은 이름의 method이고
 	// return type 없다(void, int...)
-	public NameServiceV1() {
+	public NameServiceImplV1() {
 		nameList = new ArrayList<String>();
 		famList = new ArrayList<String>();
 	}

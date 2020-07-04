@@ -8,11 +8,11 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
-public class NameServiceV2 extends NameServiceV1{
+public class NameServiceImplV2 extends NameServiceImplV1{
 
 	List<String> korNameList;
 	
-	public NameServiceV2() {
+	public NameServiceImplV2() {
 	
 		korNameList = new ArrayList<String>();
 		

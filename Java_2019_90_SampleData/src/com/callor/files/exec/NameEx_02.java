@@ -1,7 +1,7 @@
 package com.callor.files.exec;
 
 import com.callor.files.service.NameService;
-import com.callor.files.service.NameServiceV2;
+import com.callor.files.service.NameServiceImplV2;
 
 public class NameEx_02 {
 
@@ -31,7 +31,7 @@ public class NameEx_02 {
 		String famFile = "src/com/callor/files/성씨리스트.txt";
 		String korNameFile = "src/com/callor/files/한국인성명리스트.txt";
 		
-		NameService ns = new NameServiceV2();
+		NameService ns = new NameServiceImplV2();
 		
 		
 		try {

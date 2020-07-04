@@ -36,6 +36,9 @@ public class AddrService {
             aVO.setHomepage(adders[6]);
             addrList.add(aVO);
         }
+        
+        buffer.close();
+        fileReader.close();
     }
 
     public void makeAddr(String addrFile) throws FileNotFoundException {
