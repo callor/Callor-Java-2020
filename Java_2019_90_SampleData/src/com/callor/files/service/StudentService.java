@@ -10,7 +10,7 @@ public interface StudentService {
 	
 	//3 학번, 학년, 반, 주소를 추가하여 
 	// studentlist를 만들어서 파일에 기록
-	public void writeNameFile(String studentFile,int length)  throws Exception ;
+	public void writeStudentFile(String studentFile,int length)  throws Exception ;
 
 	
 }

@@ -16,7 +16,7 @@ public class Student {
 	private String num;
 	private String name;
 	private int gradeNum;
-	private int className;
+	private int classNum;
 	
 	private String addr;
 	
