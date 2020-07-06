@@ -23,11 +23,13 @@ public class StudentServiceImplV1 implements StudentService{
 	private List<String> addrList;
 	
 	private List<Student> studentList;
+	private String[] deptArray;
 	
 	public StudentServiceImplV1() {
 		nameList = new ArrayList<String>();
 		addrList = new ArrayList<String>();
 		studentList = new ArrayList<Student>();
+		deptArray =  new String[]{"컴퓨터공학","전자공학","국어국문","역사학","영어영문","법학","경제학"};
 	}
 
 	@Override
@@ -100,10 +102,11 @@ public class StudentServiceImplV1 implements StudentService{
 			int classNum = rnd.nextInt(10) + 1;
 			String name = nameList.get(i);
 			String addr = addrList.get(i);
+			String dept = deptArray[ rnd.nextInt( deptArray.length )];
 			
-			// 학번, 이름, 학년, 반, 주
-			String student = String.format("%05d:%s:%d:%d:%s", 
-					i+1,name,grade,classNum,addr);
+			// 학번, 이름, 학년, 반, 전공, 주소
+			String student = String.format("%05d:%s:%d:%d:%s:%s", 
+					i+1,name,grade,classNum,dept,addr);
 			
 			System.out.println(student);
 			outPut.println(student);
