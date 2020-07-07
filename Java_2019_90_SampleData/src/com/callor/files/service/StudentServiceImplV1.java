@@ -9,8 +9,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-import com.callor.files.domain.Student;
-
 public class StudentServiceImplV1 implements StudentService{
 
 	private FileReader fileReader = null;
@@ -22,13 +20,11 @@ public class StudentServiceImplV1 implements StudentService{
 	private List<String> nameList;
 	private List<String> addrList;
 	
-	private List<Student> studentList;
-	private String[] deptArray;
+	private String[] deptArray;	
 	
 	public StudentServiceImplV1() {
 		nameList = new ArrayList<String>();
 		addrList = new ArrayList<String>();
-		studentList = new ArrayList<Student>();
 		deptArray =  new String[]{"컴퓨터공학","전자공학","국어국문","역사학","영어영문","법학","경제학"};
 	}
 
@@ -85,6 +81,8 @@ public class StudentServiceImplV1 implements StudentService{
 	@Override
 	public void writeStudentFile(String studentFile, int length) throws Exception {
 
+		List<String> studentList = new ArrayList<String>();
+		
 		Collections.shuffle(addrList);
 		Collections.shuffle(nameList);
 		
@@ -109,10 +107,16 @@ public class StudentServiceImplV1 implements StudentService{
 					i+1,name,grade,classNum,dept,addr);
 			
 			System.out.println(student);
-			outPut.println(student);
+			studentList.add(student);
+			
 			
 		}
 		
+		Collections.shuffle(studentList);
+		
+		for(String student: studentList) {
+			outPut.println(student);	
+		}
 		outPut.close();
 		fileWriter.close();
 		
