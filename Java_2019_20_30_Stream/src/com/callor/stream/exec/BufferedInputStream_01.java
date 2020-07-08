@@ -25,7 +25,7 @@ public class BufferedInputStream_01 {
 			// 시작 ㅡ> 역시 사용법은 FileInputStream과 동일
 			buffer.read(receive);
 			for (int i = 0; i < receive.length; ++i) {
-				System.out.printf("%X ", receive[i]);
+				 System.out.printf("%X ", receive[i]);
 			}
 			// 끝 ㅡ> "read()" 메소드로 파일을 읽어와 콘솔창에 뿌려줌
 
