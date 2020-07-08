@@ -12,7 +12,7 @@ public class FileCopy_00 {
 	public static void main(String[] args) throws IOException {
 
 		String srcFile = "src/com/callor/file/2019_97886-2080.jpg";
-		String targetFile = "src/com/callor/file/2019_97886-2080.jpg";
+		String targetFile = "src/com/callor/file/2019_97886-2080_1.jpg";
 
 		Path from = Paths.get(srcFile);
 		Path to = Paths.get(targetFile);

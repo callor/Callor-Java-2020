@@ -60,7 +60,7 @@ public class BankServiceImplV2 implements BankService {
 
 		if (inout.equals("OUTPUT")) {
 			// 잔액계산
-			int balance = 100000;
+			int balance = 0;
 			for (AccountVO accVO : accList) {
 				balance += accVO.getInput();
 				balance -= accVO.getOutput();

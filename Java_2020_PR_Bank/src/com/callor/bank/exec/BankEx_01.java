@@ -40,6 +40,7 @@ public class BankEx_01 {
  				bService.inputBalance();
  			} else if(intMenu == 2) {
  				//  출금업무처리
+ 				bService.outputBalance();
  			} else if(intMenu == 3) {
  				// 입출금내역서 출력
  				bService.listBalance();

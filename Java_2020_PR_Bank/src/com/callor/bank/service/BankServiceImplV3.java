@@ -47,7 +47,12 @@ public class BankServiceImplV3 extends BankServiceImplV2 {
 		BufferedReader buffer = null;
 
 		try {
-			fileReader = new FileReader(bFileName);
+			if(bFile != null) {
+				fileReader = new FileReader(bFile);	
+			} else {
+				fileReader = new FileReader(bFileName);	
+			}
+			
 			buffer = new BufferedReader(fileReader);
 
 			String reader = "";
@@ -96,7 +101,11 @@ public class BankServiceImplV3 extends BankServiceImplV2 {
 
 		PrintStream outPut = null;
 		try {
-			outPut = new PrintStream(bFileName);
+			if(bFile != null) {
+				outPut = new PrintStream(bFile);
+			} else {
+				outPut = new PrintStream(bFileName);
+			}
 
 			int balance = 0;
 			for (AccountVO accVO : accList) {

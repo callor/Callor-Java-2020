@@ -69,6 +69,7 @@ public class BankEx_04 {
  				bService.listBalance();
  			}
 		}
+		System.out.println("업무를 종료합니다!!!");
 	}
 	
 }

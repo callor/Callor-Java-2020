@@ -11,7 +11,8 @@ public class Paths_01 {
 	public static void main(String[] args) {
 
 		
-		String imgFile = "C:/Users/callor/Documents/workspace/workspace_2020_java/Java_2019_20_35_FilePath_JDK7/src/com/callor/file/2019_97886-2080.jpg";
+//		String imgFile = "C:/Users/callor/Documents/workspace/workspace_2020_java/Java_2019_20_35_FilePath_JDK7/src/com/callor/file/2019_97886-2080.jpg";
+		String imgFile = "src/com/callor/file/2019_97886-2080.jpg";
 		
 		Path path = Paths.get(imgFile);
 		// 경로 루트
