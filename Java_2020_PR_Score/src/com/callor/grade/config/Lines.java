@@ -1,4 +1,4 @@
-package com.callor.config;
+package com.callor.grade.config;
 
 public class Lines {
 

@@ -101,10 +101,11 @@ public class StudentServiceImplV1 implements StudentService{
 			String name = nameList.get(i);
 			String addr = addrList.get(i);
 			String dept = deptArray[ rnd.nextInt( deptArray.length )];
+			String tel = String.format("010-%04d-%04d",rnd.nextInt(9999) +1,rnd.nextInt(9999) +1);
 			
-			// 학번, 이름, 학년, 반, 전공, 주소
-			String student = String.format("%05d:%s:%d:%d:%s:%s", 
-					i+1,name,grade,classNum,dept,addr);
+			// 학번, 이름, 전공, 학년, 반, 주소, 전화번호
+			String student = String.format("%05d:%s:%s:%d:%d:%s:%s", 
+					i+1,name,dept,grade,classNum,addr,tel);
 			
 			System.out.println(student);
 			studentList.add(student);

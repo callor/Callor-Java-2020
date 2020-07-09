@@ -1,4 +1,4 @@
-package com.callor.score.domain;
+package com.callor.grade.domain;
 
 public class Score {
 
@@ -6,7 +6,14 @@ public class Score {
 	private int kor;
 	private int eng;
 	private int math;
+	private int music;
 	
+	public int getMusic() {
+		return music;
+	}
+	public void setMusic(int music) {
+		this.music = music;
+	}
 	private int sum;
 	private int avg;
 	public String getNum() {
@@ -47,8 +54,9 @@ public class Score {
 	}
 	@Override
 	public String toString() {
-		return "Score [num=" + num + ", kor=" + kor + ", eng=" + eng + ", math=" + math + ", sum=" + sum + ", avg="
-				+ avg + "]";
+		return "Score [num=" + num + ", kor=" + kor + ", eng=" + eng + ", math=" + math + ", music=" + music + ", sum="
+				+ sum + ", avg=" + avg + "]";
 	}
+
 
 }

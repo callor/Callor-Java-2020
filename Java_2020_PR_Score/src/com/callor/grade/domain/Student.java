@@ -1,4 +1,4 @@
-package com.callor.score.domain;
+package com.callor.grade.domain;
 
 public class Student {
 
@@ -7,7 +7,7 @@ public class Student {
 	private int gradeNum;
 	private String dept;
 	
-	private String addr;
+	private String tel;
 
 	public String getNum() {
 		return num;
@@ -41,17 +41,17 @@ public class Student {
 		this.dept = dept;
 	}
 
-	public String getAddr() {
-		return addr;
+	public String getTel() {
+		return tel;
 	}
 
-	public void setAddr(String addr) {
-		this.addr = addr;
+	public void setTel(String tel) {
+		this.tel = tel;
 	}
 
 	@Override
 	public String toString() {
-		return "Student [num=" + num + ", name=" + name + ", gradeNum=" + gradeNum + ", dept=" + dept + ", addr=" + addr
+		return "Student [num=" + num + ", name=" + name + ", gradeNum=" + gradeNum + ", dept=" + dept + ", tel=" + tel
 				+ "]";
 	}
 
