@@ -15,7 +15,8 @@ public class Score {
 		this.music = music;
 	}
 	private int sum;
-	private int avg;
+	private float avg;
+	
 	public String getNum() {
 		return num;
 	}
@@ -46,10 +47,10 @@ public class Score {
 	public void setSum(int sum) {
 		this.sum = sum;
 	}
-	public int getAvg() {
+	public float getAvg() {
 		return avg;
 	}
-	public void setAvg(int avg) {
+	public void setAvg(float avg) {
 		this.avg = avg;
 	}
 	@Override

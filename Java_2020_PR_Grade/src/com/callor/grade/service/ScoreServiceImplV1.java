@@ -3,7 +3,9 @@ package com.callor.grade.service;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -19,17 +21,23 @@ public class ScoreServiceImplV1 implements ScoreService {
 	protected String fileName;
 	protected Scanner scan;
 	
+	protected String[] strSubject;
+	protected int subjectLength;
+	
 	protected StudentService studentService;
 	
 	public ScoreServiceImplV1() {
-		this("src/com/callor/score/score.txt");
+		this("src/com/callor/grade/exec/data/score.txt");
 	}
 	
 	public ScoreServiceImplV1(String fileName) {
-		scan = new Scanner(System.in);
-		scoreList = new ArrayList<Score>();
-		this.fileName = fileName;
+		this.scan = new Scanner(System.in);
 		
+		this.strSubject = new String[]{"국어","영어","수학","음악"};
+		this.subjectLength = this.strSubject.length;
+		
+		this.scoreList = new ArrayList<Score>();
+		this.fileName = fileName;
 		this.studentService = new StudentServiceImplV1();
 		this.studentService.loadStudent();
 		
@@ -124,28 +132,28 @@ public class ScoreServiceImplV1 implements ScoreService {
 			System.out.println(Lines.dLine);
 			return true;
 		}
+		score.setNum(sc_num);
 		
-		String[] strSubject = {"국어","영어","수학","음악"};
-		Integer[] intScore = new Integer[ strSubject.length ];
+		Integer[] intScore = new Integer[ subjectLength ];
 				
 		for(int i = 0 ; i < strSubject.length ; i++) {
 			System.out.printf("%s(END:종료)",strSubject[i]);
 			String sc_score = scan.nextLine();
 			intScore[i] = this.scoreCheck(sc_score);
 			
-			if(intScore[i] == -1) return false;
-			else if(intScore[i] == null ) {
+			if(intScore[i] == null ) {
 				i--;
 				continue;
-			}
+			} else if(intScore[i] == -1) return false;
 		}
+		
 		
 		score.setKor(intScore[0]);
 		score.setEng(intScore[1]);
 		score.setMath(intScore[2]);
 		score.setMusic(intScore[3]);
 		scoreList.add(score);
-		
+		this.saveScoreVO(score);
 		return true;
 	}
 
@@ -157,24 +165,52 @@ public class ScoreServiceImplV1 implements ScoreService {
 			// return;
 		};
 		
+		int[] totalSum = new int[subjectLength];
 		System.out.println(Lines.dLine);
 		System.out.println("성적 일람표");
 		System.out.println(Lines.dLine);
-		System.out.println("학번\t|이름\t|국어\t|영어\t|수학\t음악\t총점\t평균\t|");
+		System.out.println("학번\t|이름\t|국어\t|영어\t|수학\t|음악\t|총점\t|평균\t|");
 		System.out.println(Lines.sLine);
 		
 		for(Score score: scoreList) {
-			System.out.printf("%s\t|",score.getNum());
-			System.out.printf("%s\t|","이름");
-			System.out.printf("%d\t|",score.getKor());
-			System.out.printf("%d\t|",score.getEng());
-			System.out.printf("%d\t|\n",score.getMath());
-			System.out.printf("%d\t|\n",score.getMusic());
 			
-			System.out.printf("%d\t|\n",score.getSum());
-			System.out.printf("%d\t|\n",score.getAvg());
+			Student stVO = studentService.findByNum(score.getNum());
+			
+			System.out.printf("%s\t|",score.getNum());
+			System.out.printf("%s\t|",stVO == null ? "[없음]" : stVO.getName());
+			System.out.printf("%6d\t|",score.getKor());
+			System.out.printf("%6d\t|",score.getEng());
+			System.out.printf("%6d\t|",score.getMath());
+			System.out.printf("%6d\t|",score.getMusic());
+			
+			System.out.printf("%6d\t|",score.getSum());
+			System.out.printf("%5.1f\t|\n",score.getAvg());
+			
+			totalSum[0] += score.getKor();
+			totalSum[1] += score.getEng();
+			totalSum[2] += score.getMath();
+			totalSum[3] += score.getMusic();
 		}
 		System.out.println(Lines.dLine);
+		System.out.printf("%8s\t|","과목총점");
+		int sumAndSum = 0;
+		for(int sum : totalSum) {
+			System.out.printf("%6d\t|",sum);
+			sumAndSum += sum;
+		}
+		System.out.printf("%s\t|x\t|\n",sumAndSum);
+		
+		System.out.printf("%8s\t|","과목평균");
+		float avgAndAvg = 0f;
+		for(int sum : totalSum) {
+			float avg = (float)sum / scoreList.size();
+			System.out.printf("%5.2f\t|",avg);
+			avgAndAvg += avg;
+		}
+		System.out.printf("x\t|%5.2f\t|\n",avgAndAvg / totalSum.length);
+		System.out.println(Lines.dLine);
+		
+		
 		System.out.println("출력이 완료되었습니다 아무키나 누르세요.....");
 		scan.nextLine();		
 	}
@@ -185,6 +221,49 @@ public class ScoreServiceImplV1 implements ScoreService {
 		
 	}
 
+	
+	@Override
+	public void calcSum() {
+		for(Score scoreVO : scoreList) {
+			int sum = scoreVO.getKor();
+			sum += scoreVO.getEng();
+			sum += scoreVO.getMath();
+			sum += scoreVO.getMusic();
+			scoreVO.setSum(sum);
+		}
+	}
+
+	@Override
+	public void calcAvg() {
+		for(Score scoreVO : scoreList) {
+			int sum = scoreVO.getSum();
+			float avg = (float)sum / subjectLength;
+			scoreVO.setAvg(avg);
+		}
+	}
+
+	@Override
+	public void saveScoreVO(Score score) {
+		FileWriter fileWriter = null;
+		PrintWriter pWriter = null;
+
+		try {
+			fileWriter = new FileWriter(this.fileName,true);
+			pWriter = new PrintWriter(fileWriter);
+			
+			pWriter.printf("%s:", score.getNum());
+			pWriter.printf("%d:", score.getKor());
+			pWriter.printf("%d:", score.getEng());
+			pWriter.printf("%d:", score.getMath());
+			pWriter.printf("%d\n", score.getMusic());
+			pWriter.flush();
+			pWriter.close();
+
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}		
+	}
 	
 
 }
