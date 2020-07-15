@@ -1,4 +1,4 @@
-package com.biz.method;
+package com.callor.method;
 
 public class MethosEx_02 {
 

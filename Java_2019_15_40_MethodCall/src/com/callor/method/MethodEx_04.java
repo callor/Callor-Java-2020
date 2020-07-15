@@ -1,8 +1,8 @@
-package com.biz.method;
+package com.callor.method;
 
 import java.util.List;
 
-import com.biz.method.service.MakeListService;
+import com.callor.method.service.MakeListService;
 
 public class MethodEx_04 {
 

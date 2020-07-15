@@ -1,4 +1,4 @@
-package com.biz.method.service;
+package com.callor.method.service;
 
 import java.util.ArrayList;
 import java.util.List;

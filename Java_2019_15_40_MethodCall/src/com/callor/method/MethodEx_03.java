@@ -1,6 +1,6 @@
-package com.biz.method;
+package com.callor.method;
 
-import com.biz.method.service.CalcService;
+import com.callor.method.service.CalcService;
 
 public class MethodEx_03 {
 

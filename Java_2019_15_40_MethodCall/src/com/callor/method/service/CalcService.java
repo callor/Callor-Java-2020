@@ -1,4 +1,4 @@
-package com.biz.method.service;
+package com.callor.method.service;
 
 public class CalcService {
 
