@@ -1,6 +1,6 @@
 package com.callor.exam.exec;
 
-import com.biz.exam.model.BookVO;
+import com.callor.exam.domain.BookVO;
 
 public class Ex_06 {
 

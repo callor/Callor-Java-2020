@@ -1,7 +1,8 @@
 package com.callor.exam.exec;
 
-public class Ex_01_02_03 {
+public class Ex_01 {
 
+	// 1 자바의 진입점 메서드를 서술하시
 	// JVM 프로젝트를 실행하는데 제일먼저 호출한 method
 	// 절대 키워드가 빠지거나 매개변수가 빠지면 안되는 method
 	public static void main(String[] args) {

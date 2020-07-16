@@ -9,7 +9,7 @@ public class MainEx_02 {
 
 	public static void main(String[] args) {
 		
-		List<BookVO> bookList = null;
+		List<BookVO> bookList = new ArrayList<BookVO>();
 		for(int i = 0 ; i < 10 ; i++) {
 			BookVO bookVO = new BookVO();
 			bookList.add(bookVO);

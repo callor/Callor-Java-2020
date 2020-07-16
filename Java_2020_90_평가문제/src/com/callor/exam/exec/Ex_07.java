@@ -3,7 +3,7 @@ package com.callor.exam.exec;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.biz.exam.model.BookVO;
+import com.callor.exam.domain.BookVO;
 
 public class Ex_07 {
 
