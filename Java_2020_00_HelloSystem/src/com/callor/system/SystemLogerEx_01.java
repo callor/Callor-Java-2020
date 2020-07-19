@@ -2,6 +2,7 @@ package com.callor.system;
 
 public class SystemLogerEx_01 {
 
+// JDK 9 이상
 	private static System.Logger LOGGER = System.getLogger(SystemLogerEx_01.class.getName());
 
 	public static void main(String[] args) {
@@ -10,8 +11,10 @@ public class SystemLogerEx_01 {
 		LOGGER.log(System.Logger.Level.ERROR, "Just a ERROR message");
 		LOGGER.log(System.Logger.Level.INFO, "Just a INFO message");
 		LOGGER.log(System.Logger.Level.WARNING, "Just a WARNING message");
-		
+//		
 		LOGGER.log(System.Logger.Level.TRACE, "Just a TRACE message");
+
+		System.out.println("대한민국 만세");
 		
 		
 	}

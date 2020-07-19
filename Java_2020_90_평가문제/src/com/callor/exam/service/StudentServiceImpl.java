@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.biz.exam.model.BookVO;
+import com.callor.exam.domain.BookVO;
 
 public class StudentServiceImpl implements StudentService {
 
