@@ -17,6 +17,10 @@ public class BookVO {
 	public void setComp(String comp) {
 		this.comp = comp;
 	}
+	@Override
+	public String toString() {
+		return "BookVO [title=" + title + ", comp=" + comp + "]\n";
+	}
 	
 	
 	

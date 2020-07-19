@@ -22,5 +22,7 @@ public class Ex_07 {
 			bookList.add(bookVO);
 			
 		}
+		System.out.println(bookList);
+
 	}
 }
