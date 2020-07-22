@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  
+<configuration>
+	
+	<typeAliases>
+		<typeAlias 
+			type="com.biz.dbms.persistence.BBsDTO" 
+			alias="BBsDTO"/>
+	</typeAliases>
+	
+	<!-- DB 연결을 위한 정보 설정 -->
+	<environments default="mysqlConnection">
+	
+		<environment id="mysqlConnection">
+			<!-- 
+				MyBATIS에서 JDBC를 사용한 Connection관리 
+			-->
+			<transactionManager type="JDBC">
+			</transactionManager>
+			<dataSource type="POOLED">
+				<property name="driver" 
+						value="com.mysql.jdbc.Driver"/>
+				<property name="url" 
+					value="jdbc:mysql://localhost:3306/mydb"/>
+					
+					<!-- jdbc:mysql://localhost:3306/mydb -->
+					<!-- jdbc:oracle:thin:@localhost:1521:xe -->
+				
+				<!-- 
+				실제사용하는 username과 password를 설정한 후
+				파일이릌을 mybatis-config.xml로 변경하여 사용하세요
+				 -->
+				<property name="username" value="MYSQLID"/>
+				<property name="password" value="MYSQLPW"/>
+			</dataSource>
+		</environment>
+		
+		<environment id="oracleConnection">
+			<!-- 
+				MyBATIS에서 JDBC를 사용한 Connection관리 
+			-->
+			<transactionManager type="JDBC">
+			</transactionManager>
+			<dataSource type="POOLED">
+				<property name="driver" 
+						value="oracle.jdbc.OracleDriver"/>
+				<property name="url" 
+					value="jdbc:oracle:thin:@localhost:1521:xe"/>
+					
+					<!-- jdbc:mysql://localhost:3306/mydb -->
+					<!-- jdbc:oracle:thin:@localhost:1521:xe -->
+				
+				<property name="username" value="ORACLEID"/>
+				<property name="password" value="ORACLEPW"/>
+			</dataSource>
+		</environment>
+
+
+
+	</environments>
+
+</configuration>

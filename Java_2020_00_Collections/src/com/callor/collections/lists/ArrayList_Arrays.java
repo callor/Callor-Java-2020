@@ -16,12 +16,14 @@ public class ArrayList_Arrays {
 		List<String> strNationList = new ArrayList<String>(Arrays.asList(strNations));
 		
 		// 리스트를 배열로
-		String[] strNationsCopy = (String[]) strNationList.toArray();
+		// toArray() 매개변수로 length가 0인 type 변수를 전달해 주어야 한다.
+		String[] strNationsCopy = strNationList.toArray(new String[0]);
 		
 		for(String s : strNationsCopy) {
 			System.out.print(s + " ");
 		}
-		
+		System.out.println();
+		System.out.println(String.format("%0100d",0).replace("0", "="));
 		
 	}
 	
