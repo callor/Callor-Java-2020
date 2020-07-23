@@ -95,6 +95,7 @@ public class JdbcEx_05 {
 				e.printStackTrace();
 			}
 		}
+		scan.close();
 		System.out.println("업무종료 휴가가자!!!");
 	}
 
