@@ -1,8 +1,8 @@
-package com.callor.dbms.dao;
+package com.callor.dbms.persistence;
 
 import java.util.List;
 
-import com.callor.dbms.persistence.BBsDTO;
+import com.callor.dbms.domain.BBsDTO;
 
 public interface BBsDao {
 	

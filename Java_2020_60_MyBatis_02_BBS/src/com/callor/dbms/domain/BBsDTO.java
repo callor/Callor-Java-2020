@@ -1,4 +1,4 @@
-package com.callor.dbms.persistence;
+package com.callor.dbms.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

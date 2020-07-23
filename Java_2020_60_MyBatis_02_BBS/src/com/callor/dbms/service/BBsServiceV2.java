@@ -5,8 +5,8 @@ import java.util.Scanner;
 import org.apache.ibatis.session.SqlSession;
 
 import com.callor.dbms.config.DBConnection;
-import com.callor.dbms.dao.BBsDao;
-import com.callor.dbms.persistence.BBsDTO;
+import com.callor.dbms.domain.BBsDTO;
+import com.callor.dbms.persistence.BBsDao;
 
 public class BBsServiceV2 extends BBsServiceV1{
 	
