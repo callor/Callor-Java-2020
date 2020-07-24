@@ -35,5 +35,10 @@ public class MyBatisEx_01 {
 			System.out.println(dto.toString());
 
 		}
+		
+		
+		SqlSession
+		
+		
 	}
 }
