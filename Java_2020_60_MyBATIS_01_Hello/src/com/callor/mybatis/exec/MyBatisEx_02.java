@@ -1,7 +1,5 @@
 package com.callor.mybatis.exec;
 
-import java.util.List;
-
 import org.apache.ibatis.session.SqlSession;
 
 import com.callor.mybatis.config.DBConnection;

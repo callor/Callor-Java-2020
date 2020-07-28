@@ -37,7 +37,6 @@ public class MyBatisEx_01 {
 		}
 		
 		
-		SqlSession
 		
 		
 	}
