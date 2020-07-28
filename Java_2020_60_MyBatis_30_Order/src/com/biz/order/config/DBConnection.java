@@ -16,7 +16,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
  * 		Java가 인식할수 있는 데이터로 변환하고
  * 
  * 		model 클래스(VO, DTO)에 데이터를 자동으로 추가해주는
- * 		기능을 수행한다.
+ * 		기능을 수행한다.O
  * 
  */
 
