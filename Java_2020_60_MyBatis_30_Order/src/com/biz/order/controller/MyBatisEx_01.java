@@ -4,8 +4,8 @@ import java.util.List;
 
 import org.apache.ibatis.session.SqlSession;
 
-import src.com.biz.order.config.DBConnection;
-import src.com.biz.order.model.OrderVO;
+import com.biz.order.config.DBConnection;
+import com.biz.order.model.OrderVO;
 
 public class MyBatisEx_01 {
 
