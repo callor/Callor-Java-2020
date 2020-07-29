@@ -16,9 +16,6 @@ public class MyBatisEx_01 {
 			for(OrderVO vo : orderList) {
 				System.out.println(vo);
 			}
-
-		
 		}
-		
 	}
 }
