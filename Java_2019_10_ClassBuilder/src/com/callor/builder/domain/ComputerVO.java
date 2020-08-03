@@ -21,6 +21,8 @@ public class ComputerVO {
 		this.isBluetoothEnabled = builder.isBluetoothEnabled;
 	}
 	
+	// 110478933316
+	
 	public static Builder builder() {
 		return new ComputerVO.Builder();
 	}
