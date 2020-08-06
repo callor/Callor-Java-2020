@@ -8,7 +8,7 @@
 	<!-- DTO, VO클래스의 별명설정 -->
 	<typeAliases>
 		<typeAlias alias="Bdto" 
-			type="com.biz.mybatis.peristence.BookDTO"/>
+			type="com.callor.mybatis.peristence.BookDTO"/>
 	</typeAliases>
 
 	<!-- 
@@ -33,7 +33,7 @@
 		</environment>
 	</environments>
 	<mappers>
-		<mapper resource="com/biz/mybatis/mapper/book-mapper.xml"/>
+		<mapper resource="com/callor/mybatis/mapper/book-mapper.xml"/>
 	</mappers>
 	
 

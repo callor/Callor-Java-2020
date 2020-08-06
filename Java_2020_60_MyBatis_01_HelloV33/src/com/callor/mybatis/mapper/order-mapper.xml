@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.callor.mybatis.mapper.OrderDao">
+	
+	<select id="findById" resultType="OrderVO">
+			SELECT	
+				*
+			FROM tbl_order
+			WHERE o_seq = #{seq}
+			
+	</select>
+
+	<select id="findByName" resultType="OrderVO">
+
+	</select>
+	
+	<insert id="insert" parameterType="OrderVO" >
+	</insert>
+	<update id="update" parameterType="OrderVO">
+	</update>
+	<delete id="delete" parameterType="String">
+	</delete>
+	
+	
+</mapper>  
