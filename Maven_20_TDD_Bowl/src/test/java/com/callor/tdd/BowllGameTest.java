@@ -93,12 +93,12 @@ class BowllGameTest {
         assertEquals(26, game.score());
     }
 
-	private void extracted() {
-		Random rnd = new Random();
-        for(int i = 0 ; i < 16 ; i++) {
-        	game.roll(rnd.nextInt(5));
-        }
-	}
+//	private void extracted() {
+//		Random rnd = new Random();
+//        for(int i = 0 ; i < 16 ; i++) {
+//        	game.roll(rnd.nextInt(5));
+//        }
+//	}
 
     // 퍼펙트 게임 계산
     @Test
