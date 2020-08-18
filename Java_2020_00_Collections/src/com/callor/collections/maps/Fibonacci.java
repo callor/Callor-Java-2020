@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Fibonacci {
 
-	private Map<Integer, BigInteger> memoizeHashMap = new HashMap<>();
+	private Map<Integer, BigInteger> memoizeHashMap = new HashMap<Integer, BigInteger>();
 	
 	
 	// default 생성자
