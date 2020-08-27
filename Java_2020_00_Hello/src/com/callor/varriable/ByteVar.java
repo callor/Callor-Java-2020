@@ -21,6 +21,7 @@ public class ByteVar {
 		val = (byte)0xF8;
 		System.out.println(val);
 		
+		
 		/*
 		 * 
 		 * 자바는 기본 자료형 확산 변환될때 부호확장이 일어나서 상위비트를 부호값으로 채운다.
