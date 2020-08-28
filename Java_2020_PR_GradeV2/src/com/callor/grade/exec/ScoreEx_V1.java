@@ -8,7 +8,7 @@ import com.callor.grade.service.StudentService;
 import com.callor.grade.service.impl.ScoreServiceImplV1;
 import com.callor.grade.service.impl.StudentServiceImplV1;
 
-public class ScoreEx_01 {
+public class ScoreEx_V1 {
 
 	public static void main(String[] args) {
 		

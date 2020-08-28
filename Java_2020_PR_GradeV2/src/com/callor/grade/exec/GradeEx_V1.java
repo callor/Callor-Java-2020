@@ -10,7 +10,7 @@ import com.callor.grade.service.impl.ScoreServiceImplV1;
 import com.callor.grade.service.impl.StudentServiceImplV1;
 
 
-public class GradeEx_01 {
+public class GradeEx_V1 {
 
 	public static void main(String[] args) {
 
