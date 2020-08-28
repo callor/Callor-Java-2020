@@ -6,11 +6,11 @@ import com.callor.grade.config.DBContract;
 import com.callor.grade.config.Lines;
 import com.callor.grade.service.ScoreService;
 import com.callor.grade.service.StudentService;
-import com.callor.grade.service.impl.ScoreServiceImplV1;
+import com.callor.grade.service.impl.ScoreServiceImplV2;
 import com.callor.grade.service.impl.StudentServiceImplV1;
 
 
-public class GradeEx_01 {
+public class GradeEx_V2 {
 
 	public static void main(String[] args) {
 
@@ -18,7 +18,8 @@ public class GradeEx_01 {
 		StudentService stService = new StudentServiceImplV1();
 		stService.loadStudent();
 		
-		ScoreService scService = new ScoreServiceImplV1();
+		String studentFile = "src/com/callor/grade/exec/data/student.txt";
+		ScoreService scService = new ScoreServiceImplV2(studentFile,stService);
 		scService.loadScore();
 
 		while (true) {
@@ -68,6 +69,7 @@ public class GradeEx_01 {
 				scService.scoreList();
 			}
 		}
+		scan.close();
 		System.out.println("업무종료!!!");
 		System.out.println("야 퇴근이다!!!");
 	}

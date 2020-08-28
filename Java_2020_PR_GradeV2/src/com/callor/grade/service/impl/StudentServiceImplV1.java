@@ -1,4 +1,4 @@
-package com.callor.grade.service;
+package com.callor.grade.service.impl;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -13,6 +13,7 @@ import java.util.Scanner;
 import com.callor.grade.config.DBContract;
 import com.callor.grade.config.Lines;
 import com.callor.grade.domain.Student;
+import com.callor.grade.service.StudentService;
 
 public class StudentServiceImplV1 implements StudentService {
 
