@@ -1,9 +1,11 @@
-package com.callor.stream;
+package com.callor.stream.exec;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
+
+import com.callor.stream.domain.Student;
 
 public class StreamMakeEx1 {
 
@@ -38,22 +40,4 @@ public class StreamMakeEx1 {
 	}
 }
 
-class Student {
-	private String name;
-	private int score;
 
-	public Student(String name, int score) {
-		super();
-		this.name = name;
-		this.score = score;
-	}
-
-	public String getName() {
-		return name;
-	}
-
-	public int getScore() {
-		return score;
-	}
-
-}

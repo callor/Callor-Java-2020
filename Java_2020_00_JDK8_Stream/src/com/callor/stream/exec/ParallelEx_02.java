@@ -1,4 +1,4 @@
-package com.callor.stream;
+package com.callor.stream.exec;
 
 import java.util.Date;
 import java.util.stream.IntStream;

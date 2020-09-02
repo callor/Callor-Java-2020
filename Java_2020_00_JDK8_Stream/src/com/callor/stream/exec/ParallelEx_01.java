@@ -1,4 +1,4 @@
-package com.callor.stream;
+package com.callor.stream.exec;
 
 import java.util.Arrays;
 import java.util.List;

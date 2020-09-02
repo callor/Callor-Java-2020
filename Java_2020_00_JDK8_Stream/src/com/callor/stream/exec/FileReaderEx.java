@@ -1,4 +1,4 @@
-package com.callor.stream;
+package com.callor.stream.exec;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,7 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
-public class FilePath {
+public class FileReaderEx {
 
 	public static void main(String[] args) {
 		Path path = Paths.get("src/com/callor/stream/data.txt");
