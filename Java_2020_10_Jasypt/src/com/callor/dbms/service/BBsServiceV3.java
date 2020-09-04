@@ -2,16 +2,29 @@ package com.callor.dbms.service;
 
 import java.sql.Date;
 import java.text.SimpleDateFormat;
-import java.util.List;
 import java.util.Scanner;
-
-import org.apache.ibatis.session.SqlSession;
 
 import com.callor.dbms.config.DBConnection;
 import com.callor.dbms.dao.BBsDao;
 import com.callor.dbms.persistence.BBsDTO;
 
 public class BBsServiceV3 extends BBsServiceV2{
+	
+	
+	/**
+	 * @since V3 
+	 * SqlSession을 모두 감추고 Mapper 만 사용한다.
+	 */
+	protected BBsDao bbsDao = null;
+	protected Scanner scanner = null ;
+	
+	public BBsServiceV3() {
+		bbsDao = DBConnection
+				.getSqlSessionFactory()
+				.openSession(true)
+				.getMapper(BBsDao.class);
+	}
+	
 	public void bbsMenu() {
 		while(true) {
 			System.out.print("내용보기(SQ입력)  W.작성  U.수정  D.삭제  Q.종료 >>");

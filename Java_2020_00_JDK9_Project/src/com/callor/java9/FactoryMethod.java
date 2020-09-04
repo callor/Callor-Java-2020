@@ -8,6 +8,7 @@ import java.util.Set;
 public class FactoryMethod {
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
 		List<Point> list = List.of(new Point(1, 1), new Point(2, 2), new Point(3, 3), new Point(4, 4));
 
@@ -23,11 +24,11 @@ public class FactoryMethod {
 //		                         ...
 
 		Map<String, Integer> map2 = Map.ofEntries(
-		    Map.entry("Ã¶¼ö:", 20),
-		    Map.entry("¿µÈñ:", 30),
-		    Map.entry("¸Í¹Ú", 40),
+		    Map.entry("Ã¶ï¿½ï¿½:", 20),
+		    Map.entry("ï¿½ï¿½ï¿½ï¿½:", 30),
+		    Map.entry("ï¿½Í¹ï¿½", 40),
 //		    // ...
-		    Map.entry("ÁØÇ¥", 99));
+		    Map.entry("ï¿½ï¿½Ç¥", 99));
 		System.out.println(map2);
 		
 		

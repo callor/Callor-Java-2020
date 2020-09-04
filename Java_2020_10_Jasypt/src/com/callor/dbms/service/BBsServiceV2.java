@@ -10,21 +10,26 @@ import com.callor.dbms.persistence.BBsDTO;
 
 public class BBsServiceV2 extends BBsServiceV1{
 	
-	protected SqlSession sqlSession = null;
+	private SqlSession sqlSession = null;
+	private BBsDao bbsDao = null;
+	
 	protected Scanner scanner = null ;
-	protected BBsDao bbsDao = null;
 
 	public BBsServiceV2() {
-	
+			
+		scanner = new Scanner(System.in);
+		
+		/**
+		 * sqlSession을 DBConnection으로 부터 받아오기
+		 */
 		sqlSession = DBConnection
 						.getSqlSessionFactory()
 						.openSession(true);
-		scanner = new Scanner(System.in);
-	
-		
-		bbsDao = DBConnection
-				.getSqlSessionFactory()
-				.openSession(true)
+
+		/**
+		 * sqlSession으로 부터 Mapper 받아오기
+		 */
+		bbsDao = sqlSession
 				.getMapper(BBsDao.class);
 	
 	
