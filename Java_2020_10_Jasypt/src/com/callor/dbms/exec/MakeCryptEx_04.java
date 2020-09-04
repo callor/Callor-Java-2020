@@ -7,56 +7,56 @@ import java.util.List;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
-public class MakeCryptEx_02 {
+public class MakeCryptEx_04 {
 
 	public static void main(String[] args) {
 
 		/*
 		 * PBE 알고리즘
 		 * 
-		 * PBEWithMD5AndDES
-		 * PBEWithSHAAndBlowfish
-		 * PBEWithSHAAnd128BitRC4
-		 * PBEWithSHAAndDEA-CBC
-		 * PBEWithSHAAnd3-KeyTripleDES-CBC
+		 * 가) PBEWithMD5AndDES
+		 * 나) PBEWithSHAAndBlowfish
+		 * 다) PBEWithSHAAnd128BitRC4
+		 * 라) PBEWithSHAAndDEA-CBC
+		 * 마) PBEWithSHAAnd3-KeyTripleDES-CBC
+		 * 사) PBKDF2WithHmacSHA256
 		 * 
-		 * PBE 확장 알고리즘 JCE 정책때문에 오류가 날수 있다.
-		 * 1.8.161 이상에서는 정상 작동
-		 * 
-		 * PBEwithMD5and128bitAES-CBC-OPENSSL |    16
-		 * PBEwithMD5and192bitAES-CBC-OPENSSL |    16
-		 * PBEwithMD5and256bitAES-CBC-OPENSSL |    16
-		 * PBEwithMD5andDES                   |    16
-		 * PBEwithMD5andRC2                   |    16
-		 * PBEwithSHA1andRC2                  |    16
-		 * PBEwithSHA1andDES                  |    16
-		 * PBEwithSHAand128bitAES-CBC-BC      |     7
-		 * PBEwithSHAand192bitAES-CBC-BC      |     7
-		 * PBEwithSHAand256bitAES-CBC-BC      |     7
-		 * PBEwithSHAand40bitRC2-CBC          |     7
-		 * PBEwithSHAand128bitRC2-CBC         |     7
-		 * PBEwithSHAand40bitRC4              |     7
-		 * PBEwithSHAand128BITRC4             |     7
-		 * PBEwithSHAandAND128BITAES-CBC-BC   |     7
-		 * PBEwithSHAandAND192BITAES-CBC-BC   |     7
-		 * PBEwithSHAandAND256BITAES-CBC-BC   |     7
-		 * PBEwithSHAand2-KEYTRIPLEDES-CBC    |     7
-		 * PBEwithSHAand3-KEYTRIPLEDES-CBC    |     7
-		 * PBEwithSHAandTWOFISH-CBC           |     7
+		 * PBEWITHMD5AND128BITAES-CBC-OPENSSL |    16
+		 * PBEWITHMD5AND192BITAES-CBC-OPENSSL |    16
+		 * PBEWITHMD5AND256BITAES-CBC-OPENSSL |    16
+		 * PBEWITHMD5ANDDES                   |    16
+		 * PBEWITHMD5ANDRC2                   |    16
+		 * PBEWITHSHA1ANDRC2                  |    16
+		 * PBEWITHSHA1ANDDES                  |    16
+		 * PBEWITHSHAAND128BITAES-CBC-BC      |     7
+		 * PBEWITHSHAAND192BITAES-CBC-BC      |     7
+		 * PBEWITHSHAAND256BITAES-CBC-BC      |     7
+		 * PBEWITHSHAAND40BITRC2-CBC          |     7
+		 * PBEWITHSHAAND128BITRC2-CBC         |     7
+		 * PBEWITHSHAAND40BITRC4              |     7
+		 * PBEWITHSHAAND128BITRC4             |     7
+		 * PBEWITHSHA256AND128BITAES-CBC-BC   |     7
+		 * PBEWITHSHA256AND192BITAES-CBC-BC   |     7
+		 * PBEWITHSHA256AND256BITAES-CBC-BC   |     7
+		 * PBEWITHSHAAND2-KEYTRIPLEDES-CBC    |     7
+		 * PBEWITHSHAAND3-KEYTRIPLEDES-CBC    |     7
+		 * PBEWITHSHAANDTWOFISH-CBC           |     7
 		 */
-		System.out.println("PBEWITHSHA256AND256BITAES-CBC-BC 암호화");
+		System.out.println("PBEWITHSHA256AND128BITAES-CBC-BC 암호화");
+		Security.setProperty("crypto.policy", "unlimited");
 		
-		Security.addProvider(new BouncyCastleProvider());
+		// Security.addProvider(new BouncyCastleProvider());
         StandardPBEStringEncryptor pbeEnc = new StandardPBEStringEncryptor();
+        
         
         /*
          * Oracle JDK의 JCE(Java Cryptography Extension) 정책상 AES128까지만 지원한다.
          * AES256을 사용하기 위해서 BouncyCastleProvider를 사용하고
          * JCE provider name에 명시를 해 주어야 한다.
          */
-        pbeEnc.setProviderName("BC"); 
-        pbeEnc.setAlgorithm("PBEwithSHA256and256bitAES-CBC-BC"); // SHA 256bit and AES 256bit
-        pbeEnc.setPassword("com.callor");
+        // pbeEnc.setProviderName("BC"); 
+        pbeEnc.setAlgorithm("PBEWITHMD5AND256BITAES-CBC-OPENSSL"); // AES 256bit도 가능
+        pbeEnc.setPassword("com.callor.republic.of.korea");
          
         
         List<String> encryptList = new ArrayList<String>();

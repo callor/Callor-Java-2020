@@ -8,6 +8,17 @@ public class MakeCryptEx_01 {
 
 		StandardPBEStringEncryptor pbeEnc = new StandardPBEStringEncryptor();
 
+		/*
+		 * PBE 기본 알고리즘
+		 * 
+		 * PBEWithMD5AndDES
+		 * PBEWithSHAAndBlowfish
+		 * PBEWithSHAAnd128BitRC4
+		 * PBEWithSHAAndDEA-CBC
+		 * PBEWithSHAAnd3-KeyTripleDES-CBC
+		 */
+
+		
 		pbeEnc.setAlgorithm("PBEWithMD5AndDES");
 		pbeEnc.setPassword("jasyptPass"); // PBE 값(XML PASSWORD설정)
 
