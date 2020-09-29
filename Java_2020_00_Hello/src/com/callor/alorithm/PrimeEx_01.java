@@ -12,7 +12,7 @@ public class PrimeEx_01 {
 			int num = rnd.nextInt(100) + 2;
 			int j = 0;
 			for(j = 2 ; j < num ; j++) {
-				if(num % j == 0) break;
+				if(j % num == 0) break;
 			}
 
 			if(j >= num) {
