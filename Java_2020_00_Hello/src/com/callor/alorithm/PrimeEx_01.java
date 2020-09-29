@@ -8,7 +8,6 @@ public class PrimeEx_01 {
 
 		
 		Random rnd = new Random();
-		
 		for(int i = 0 ; i < 10 ; i++) {
 			int num = rnd.nextInt(100) + 2;
 			int j = 0;
