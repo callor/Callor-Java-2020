@@ -21,6 +21,9 @@ public class LupingGame {
 
 		Random rnd = new Random();
 		Scanner scan = new Scanner(System.in);
+
+		String dLine = String.format("%020d",0).replace("0", "=");
+		String sLine = String.format("%020d",0).replace("0", "-");
 		
 		int rndNum = rnd.nextInt(100) + 1;
 		int yesCount = 0;
@@ -28,15 +31,16 @@ public class LupingGame {
 			
 			System.out.print("숫자입력(-1:끝내기) >>");
 			int inputNum = scan.nextInt();
-			String dLine = String.format("%020d",0).replace("0", "=");
-			String sLine = String.format("%020d",0).replace("0", "-");
-			
+			if(inputNum < 0) {
+				System.out.println("Good Bye !!!");
+				break;
+			}
 			
 			if(inputNum == rndNum) {
 				System.out.println(dLine);
 				System.out.println("맞았어요 참잘했어요 !!!");
-				System.out.printf("%d 번 만에 맞추었네요\t",++yesCount);
-				
+				System.out.printf("%d 번 만에 맞추었네요\n",++yesCount);
+				System.out.println(sLine);
 				if(yesCount < 3) {
 					System.out.println("대단한 예지력 입니다 !!");
 				} else if(yesCount > 4 && yesCount < 10) {
@@ -55,6 +59,7 @@ public class LupingGame {
 			yesCount ++;
 			
 		}
+		scan.close();
 		
 	}
 
