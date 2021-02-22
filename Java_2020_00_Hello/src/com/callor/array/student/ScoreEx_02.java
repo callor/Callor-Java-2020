@@ -1,6 +1,5 @@
 package com.callor.array.student;
 
-import java.util.Random;
 import java.util.Scanner;
 
 public class ScoreEx_02 {
