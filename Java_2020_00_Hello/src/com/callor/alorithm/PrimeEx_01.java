@@ -1,26 +1,31 @@
 package com.callor.alorithm;
 
-import java.util.Random;
+import java.util.Scanner;
 
 public class PrimeEx_01 {
 
 	public static void main(String[] args) {
-
 		
-		Random rnd = new Random();
-		for(int i = 0 ; i < 10 ; i++) {
-			int num = rnd.nextInt(100) + 2;
-			int j = 0;
-			for(j = 2 ; j < num ; j++) {
-				if(j % num == 0) break;
-			}
-
-			if(j >= num) {
-				System.out.printf("%d 는 소수입니다\n",num);
-			} else {
-				System.out.printf("%d 는 소수가 아닙니다\n",num);
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("2 이상의 정수를 입력하세요!!");
+		System.out.print(" >> ");
+		int keyNum = scan.nextInt();
+		
+		int index = 2;
+		for(index = 2 ; index  < keyNum ; index ++) {
+			if(keyNum % index == 0) {
+				System.out.printf("%d 는 %d 로 나누어지는 수 이므로 소수가 아님\n",keyNum,index);
+				break;
 			}
 		}
+		if(index < keyNum) {
+			System.out.printf("%d 는 %d 로 나누어지는 수 이므로 소수가 아님\n",keyNum,index);	
+		} else {
+			System.out.printf("%d 는 소수임\n",keyNum);
+		}
+		
+		scan.close();
 	}
-
+	
 }

@@ -8,7 +8,10 @@ import java.util.Scanner;
  * 1 ~ 10까지의 난수를 생성하여 저장
  * 
  * 키보드로 1 ~ 10까지의 정수를 입력받아
- * 해당 값이 들어 있는 배열 요소를 출력
+ * 1. 해당 값이 몇개 들어 있는지 출력
+ * 2. 해당 값이 들어 있는 요소중 최초로 발견된 위치
+ * 3. 해당 값이 들어 있는 요소중 가장 마지막에 발견된 위치
+ * 
  */
 public class ArrayEx_01 {
 
@@ -28,10 +31,12 @@ public class ArrayEx_01 {
 		// num 변수에는 0 ~ 99까지 중 1개의 숫자가
 		// 저장 될 것이다.
 		int num = rnd.nextInt(100);
+		System.out.println(num);
 
 		// num 변수에는 1 ~ 100까지 중 1개의 숫자가
 		// 저장 될 것이다
 		num = rnd.nextInt(100) + 1;
+		System.out.println(num);
 
 		// 정수 100개를 저장할 배열변수를 선언
 		// 생성(초기화 : 사용할 준비를 하라) 하라
@@ -51,8 +56,8 @@ public class ArrayEx_01 {
 		}
 
 		/*
-		 * 0 ~ intNums.length 까지의 정수를 만들어서 intNums의 위치값으로 정하고
-		 * 1 ~ 10까지의 임의 숫자를 생성하여 intNums의 배열에 채워 넣어라
+		 * 0 ~ intNums.length 까지의 정수를 만들어서 intNums의 위치값으로 정하고 1 ~ 10까지의 임의 숫자를 생성하여
+		 * intNums의 배열에 채워 넣어라
 		 */
 		for (int i = 0; i < intNums.length; i++) {
 
@@ -65,9 +70,10 @@ public class ArrayEx_01 {
 			// intNums의 i 번째 위치에 저장하라
 			intNums[i] = rnd.nextInt(10) + 1;
 		}
-		
-Scanner scan = new Scanner(System.in);
-		
+
+		Scanner scan = new Scanner(System.in);
+
+		System.out.println("===================================================");
 		System.out.println("정수 1 ~ 10까지 중 숫자 입력!");
 		System.out.print("숫자 >> ");
 		int keyNum = scan.nextInt();
@@ -78,45 +84,47 @@ Scanner scan = new Scanner(System.in);
 		// 키보드로 입력받은 값( keyNum에 저장되어 있다 )과
 		// 같은 값들이 몇번(몇개) 저장되어 있는지
 		// 알고 싶다
-		
-		int count = 0; // 몇개인지 개수를 헤아릴 변수 
-		for(int i = 0 ; i < intNums.length ; i++) {
-			
-			// if(intNums[i] == keyNum) {  }
+
+		System.out.println("===================================================");
+		int count = 0; // 몇개인지 개수를 헤아릴 변수
+		for (int i = 0; i < intNums.length; i++) {
+
+			// if(intNums[i] == keyNum) { }
 			boolean bYes = intNums[i] == keyNum;
-			if(bYes) {
+			if (bYes) {
 				// 카운드를 세서...
-				count ++;
-				System.out.printf("%d, ",intNums[i] );
+				count++;
+				System.out.printf("%d, ", intNums[i]);
 			}
 		}
 		System.out.println();
 		System.out.println(keyNum + "의 갯수 : " + count);
-		
-		
-		System.out.printf( "값 %d가 저장된 위치!!!\n",keyNum);
-		for(int positon = 0 ; positon < intNums.length ; positon++) {
-			if(intNums[positon] == keyNum) {
-				System.out.print(positon + ", ") ;
+
+		System.out.println("===================================================");
+		System.out.printf("값 %d가 저장된 위치!!!\n", keyNum);
+		for (int positon = 0; positon < intNums.length; positon++) {
+			if (intNums[positon] == keyNum) {
+				System.out.print(positon + ", ");
 			}
 		}
 		System.out.println();
+
 		
-		
-		System.out.printf( "값 %d가 최초로 나타난 위치!!!\n",keyNum);
-		for(int positon = 0 ; positon < intNums.length ; positon++) {
-			if(intNums[positon] == keyNum) {
-				System.out.println(positon) ;
+		System.out.println("===================================================");
+		System.out.printf("값 %d가 최초로 나타난 위치!!!\n", keyNum);
+		for (int positon = 0; positon < intNums.length; positon++) {
+			if (intNums[positon] == keyNum) {
+				System.out.println(positon);
 				break;
 			}
 		}
-		
-		
+
+		System.out.println("===================================================");
 		int lastPos = 0;
-		System.out.printf( "값 %d가 마지막으로 나타난 위치!!!\n",keyNum);
-		for(int positon = 0 ; positon < intNums.length ; positon++) {
-			if(intNums[positon] == keyNum) {
-				System.out.printf("%d, ",positon) ;
+		System.out.printf("값 %d가 마지막으로 나타난 위치!!!\n", keyNum);
+		for (int positon = 0; positon < intNums.length; positon++) {
+			if (intNums[positon] == keyNum) {
+				System.out.printf("%d, ", positon);
 				// 키보드로 입력한 값이 일치할때마다
 				// 그 위치를 lastPos에 저장한다.
 				lastPos = positon;
@@ -128,6 +136,7 @@ Scanner scan = new Scanner(System.in);
 		// 결과만 담고 있다
 		System.out.println(lastPos);
 		
+		scan.close();
 
 	}
 
