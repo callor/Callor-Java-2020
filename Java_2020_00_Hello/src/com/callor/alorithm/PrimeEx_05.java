@@ -4,41 +4,31 @@ import java.util.Random;
 
 public class PrimeEx_05 {
 
-	public static void main(String ...args) {
+	
+	public static void main(String[] args) {
 		
 		Random rnd = new Random();
-		int nums[] = new int[10];
-		for(int i = 0 ; i < nums.length ; i++) {
-			nums[i] = rnd.nextInt(1000) + 2;
-		}
-		int count = 0 ;
-		for(int n : nums) {
-			System.out.printf("%d\t",n);
-			if(++count%5 == 0) System.out.println();
-		}
 		
-		for(int i = 0 ; i < nums.length ; i++) {
-			
-			int j = 0;
-			for(j = 2 ; j< nums[i] ; j++) {
-				if(nums[i] % j == 0) break;
-//				System.out.println(j);
-			}
-			
-			if(j >= nums[i]) {
-				System.out.printf("%5d : Prime\n",nums[i]);
+		for(int i = 0 ; i < 10 ; i++) {
+			int num = rnd.nextInt(1000);
+			int result = prime(num);
+			if( result < 0) {
+				System.out.printf("%d 는 소수\n",num);
 			} else {
-				System.out.printf("%5d : No~~ Prime\n",nums[i]); 
+				System.out.printf("%d 는 소수가 아님 \n",num);
 			}
 			
 		}
-		
-		
-		
-		
-		
-		
-		
+	}
+	
+	
+	private static int prime(int num) {
+		for(int i = 2 ; i < num ; i ++) {
+			if(num % 2 == 0) {
+				return num;
+			}
+		}
+		return -1;
 	}
 	
 }
