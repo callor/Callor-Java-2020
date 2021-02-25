@@ -30,5 +30,14 @@ public class PrimeEx_05 {
 		}
 		return -1;
 	}
+
+
+	@Override
+	public String toString() {
+		return "PrimeEx_05 []";
+	}
+	
+	
+	
 	
 }
