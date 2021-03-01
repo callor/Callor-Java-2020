@@ -10,6 +10,9 @@ import java.util.List;
 
 import com.callor.files.Files;
 
+/*
+ * Java 에서 운영체제 Command 실행하기
+ */
 public class JavaProcessBuilder {
 	
 	
@@ -32,7 +35,7 @@ public class JavaProcessBuilder {
         InputStream inputStream = process.getInputStream();
         InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-        String line;
+        String line = new String();
         while ((line = bufferedReader.readLine()) != null) {
             System.out.println(line);
         }
