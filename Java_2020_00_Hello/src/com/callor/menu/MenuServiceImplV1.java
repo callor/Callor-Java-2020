@@ -17,11 +17,9 @@ public class MenuServiceImplV1 implements MenuService {
 			System.out.println("Java Menu System v1");
 			System.out.println("------------------------------------");
 			
-			System.out.println("1. 메뉴1");
-			System.out.println("2. 메뉴1");
-			System.out.println("3. 메뉴1");
-			System.out.println("4. 메뉴1");
-			System.out.println("5. 메뉴1");
+			System.out.println("1. 카트추가");
+			System.out.println("2. 카트삭제");
+			System.out.println("3. 카트리스트");
 			System.out.println("Q. 끝내기");
 			System.out.println("------------------------------------");
 			System.out.print("선택 >> ");
