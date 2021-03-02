@@ -6,6 +6,6 @@ public interface MenuService {
 	public static final Integer MENU_INPUT = 1;
 	
 	
-	public int selectMenu();
+	public Integer selectMenu();
 
 }

@@ -10,7 +10,7 @@ public class MenuServiceImplV1 implements MenuService {
 		scan = new Scanner(System.in);
 	}
 	
-	public int selectMenu() {
+	public Integer selectMenu() {
 		
 		while(true) {
 			System.out.println("====================================");
@@ -42,8 +42,5 @@ public class MenuServiceImplV1 implements MenuService {
 			return intMenu;
 			
 		}
-		
 	}
-	
-	
 }
