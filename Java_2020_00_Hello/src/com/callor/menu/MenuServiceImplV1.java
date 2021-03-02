@@ -2,12 +2,15 @@ package com.callor.menu;
 
 import java.util.Scanner;
 
-public class MenuServiceV1 {
+public class MenuServiceImplV1 implements MenuService {
 
+	
+	Scanner scan;
+	public MenuServiceImplV1() {
+		scan = new Scanner(System.in);
+	}
+	
 	public int selectMenu() {
-		
-		Scanner scan = new Scanner(System.in);
-		
 		
 		while(true) {
 			System.out.println("====================================");
@@ -23,15 +26,20 @@ public class MenuServiceV1 {
 			System.out.println("------------------------------------");
 			System.out.print("선택 >> ");
 			String strMenu = scan.nextLine();
+			Integer intMenu = MenuService.MENU_QUIT;
+			
 			if(strMenu.equals("Q")) {
-				return -1;
+				return MenuService.MENU_QUIT;
 			}
-			Integer intMenu = 0;
-					
 			try {
 				intMenu = Integer.valueOf(strMenu);
+				if(intMenu < 1 || intMenu > 5) {
+					System.out.println("메뉴는 1 ~ 5까지 선택할 수 있습니다");
+					continue;
+				}
 			} catch (Exception e) {
 				System.out.println("메뉴 선택은 Q:(끝내기), 1 ~ 5까지 정수만 입력해야 합니다");
+				continue;
 			}
 			return intMenu;
 			
