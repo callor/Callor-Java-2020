@@ -22,6 +22,14 @@ public class CartEx_01 {
 				cService.inputCart();
 			} else if(intMenu == 2) {
 				cService.printAllCart();
+			} else if(intMenu == 3) {
+				cService.printUserCart();
+			} else if(intMenu == 4) {
+				cService.saveCartToFile();
+
+			} else if(intMenu == 5) {
+				// 파일에서 불러오기
+				cService.loadCartFromFile();
 			}
 		}
 		

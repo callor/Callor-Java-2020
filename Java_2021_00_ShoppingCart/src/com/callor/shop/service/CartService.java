@@ -4,6 +4,9 @@ public interface CartService {
 	
 	public void inputCart() ;
 	public void printAllCart();
-	public void printUserCart(String userName);
+	public void printUserCart();
+	
+	public void saveCartToFile();
+	public void loadCartFromFile();
 
 }
