@@ -6,7 +6,4 @@ public interface CartService {
 	public void printAllCart();
 	public void printUserCart();
 	
-	public void saveCartToFile();
-	public void loadCartFromFile();
-
 }

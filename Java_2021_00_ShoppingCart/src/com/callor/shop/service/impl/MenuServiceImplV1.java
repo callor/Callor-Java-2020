@@ -2,30 +2,30 @@ package com.callor.shop.service.impl;
 
 import java.util.Scanner;
 
-import com.callor.shop.config.LayoutService;
+import com.callor.shop.config.Values;
 import com.callor.shop.service.MenuService;
 
-public class MenuServiceV1 implements MenuService {
+public class MenuServiceImplV1 implements MenuService {
 
 	private final Scanner scan;
 
-	public MenuServiceV1() {
+	public MenuServiceImplV1() {
 		this.scan = new Scanner(System.in);
 	}
 
 	@Override
 	public Integer selectMenu() {
 		while(true) {
-			System.out.println(LayoutService.dLine);
+			System.out.println(Values.dLine);
 			System.out.println("빛나라 쇼핑몰 System V2021");
-			System.out.println(LayoutService.sLine);
+			System.out.println(Values.sLine);
 			System.out.println("1. 장바구니 상품 담기");
 			System.out.println("2. 장바구니 전체 리스트 보기");
 			System.out.println("3. 구매자별 장바구니 리스트 보기");
 			System.out.println("4. 장바구니 파일에 저장");
 			System.out.println("5. 장바구니 파일에서 불러오기");
 			System.out.println("QUIT. 끝내기");
-			System.out.println(LayoutService.dLine);
+			System.out.println(Values.dLine);
 			System.out.print("선택 >> ");
 			String strMenu = scan.nextLine();
 			if(strMenu.equals("QUIT")) {
