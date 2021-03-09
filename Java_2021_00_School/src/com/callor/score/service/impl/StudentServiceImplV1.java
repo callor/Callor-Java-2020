@@ -69,12 +69,14 @@ public class StudentServiceImplV1 implements StudentService {
 			return;
 		}
 		while (true) {
-			System.out.println(Values.dLine(30));
-			System.out.println("===========================================");
+			System.out.println(Values.dLine(50));
 			System.out.println("찾는 학생이름을 입력하세요(종료하려면 QUIT를 입력)");
-			System.out.println(Values.sLine(30));
-			System.out.println("이름 >> ");
+			System.out.println(Values.sLine(50));
+			System.out.print("이름 >> ");
 			String strInputName = scan.nextLine();
+			if(strInputName.equals("QUIT")) {
+				break;
+			}
 
 			boolean bYesSearch = false;
 			for (StudentVO stVO : stdList) {

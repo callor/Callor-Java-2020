@@ -16,9 +16,9 @@ public class MenuServiceImplV1 implements MenuService{
 	public Integer selectMenu() {
 
 		while(true) {
-			System.out.println(Values.dLine);
+			System.out.println(Values.dLine(50));
 			System.out.println("빛나라 고료 성적처리 프로젝트 2021");
-			System.out.println(Values.sLine);
+			System.out.println(Values.sLine(50));
 			
 			
 			System.out.printf("%d. 성적데이터 생성\n",Values.MENU_MAKE);
@@ -28,7 +28,7 @@ public class MenuServiceImplV1 implements MenuService{
 			System.out.printf("%d. 학생 정보 검색\n",Values.MENU_STUDENT_SEARCH);
 			
 			System.out.println("QUIT. 업무종료");
-			System.out.println(Values.sLine);
+			System.out.println(Values.sLine(50));
 			System.out.print("선택>> ");
 			String strMenu = scan.nextLine();
 			if(strMenu.equals("QUIT")) {
