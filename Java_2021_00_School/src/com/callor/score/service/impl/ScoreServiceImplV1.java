@@ -1,4 +1,4 @@
-package com.callorscor.service.impl;
+package com.callor.score.service.impl;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -10,9 +10,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.callorscor.model.ScoreVO;
-import com.callorscor.service.ScoreService;
-import com.callorscor.values.Values;
+import com.callor.score.model.ScoreVO;
+import com.callor.score.service.ScoreService;
+import com.callor.score.values.Values;
 
 public class ScoreServiceImplV1 implements ScoreService {
 

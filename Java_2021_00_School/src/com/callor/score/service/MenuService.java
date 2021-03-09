@@ -1,4 +1,4 @@
-package com.callorscor.service;
+package com.callor.score.service;
 
 public interface MenuService {
 	

@@ -1,4 +1,4 @@
-package com.callorscor.model;
+package com.callor.score.model;
 
 public class ScoreVO {
 	
