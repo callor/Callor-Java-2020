@@ -14,11 +14,11 @@ import com.callor.score.values.Values;
 
 public class StudentServiceImplV1 implements StudentService {
 
-	private final String studentFileName;
-	private List<StudentVO> stdList;
+	protected String studentFileName;
+	protected List<StudentVO> stdList;
 
 	public StudentServiceImplV1() {
-		this("src/com/callorscor/exec/student.txt");
+		this("src/com/callor/scoreexec/student.txt");
 	}
 
 	public StudentServiceImplV1(String studentFileName) {
@@ -82,14 +82,7 @@ public class StudentServiceImplV1 implements StudentService {
 			for (StudentVO stVO : stdList) {
 				String stName = stVO.getStName();
 				if (strInputName.trim().equals(stName)) {
-					System.out.println(Values.dLine(50));
-					System.out.printf("이름 : %s\n",stVO.getStName());
-					System.out.printf("학과 : %s\n",stVO.getStDept());
-					System.out.printf("학년 : %s\n",stVO.getStGrade());
-					System.out.printf("반 : %s\n",stVO.getStClass());
-					System.out.printf("주소 : %s\n",stVO.getStAddr());
-					System.out.printf("전화번호 : %s\n",stVO.getStTel());
-					System.out.println(Values.dLine(50));
+					this.printStVO(stVO);
 					bYesSearch = true;
 					break;
 				}
@@ -99,6 +92,18 @@ public class StudentServiceImplV1 implements StudentService {
 				System.out.println(strInputName + "학생정보를 찾을 수 없습니다");
 			}
 		}
+	}
+	
+	protected void printStVO(StudentVO stVO) {
+		System.out.println(Values.dLine(50));
+		System.out.printf("이름 : %s\n",stVO.getStName());
+		System.out.printf("학과 : %s\n",stVO.getStDept());
+		System.out.printf("학년 : %s\n",stVO.getStGrade());
+		System.out.printf("반 : %s\n",stVO.getStClass());
+		System.out.printf("주소 : %s\n",stVO.getStAddr());
+		System.out.printf("전화번호 : %s\n",stVO.getStTel());
+		System.out.println(Values.dLine(50));
+		
 	}
 
 }

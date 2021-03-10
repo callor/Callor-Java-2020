@@ -8,7 +8,7 @@ import com.callor.score.service.ScoreService;
 import com.callor.score.service.StudentService;
 import com.callor.score.service.impl.MenuServiceImplV1;
 import com.callor.score.service.impl.ScoreServiceImplV1;
-import com.callor.score.service.impl.StudentServiceImplV1;
+import com.callor.score.service.impl.StudentServiceImplV2;
 import com.callor.score.values.Values;
 
 public class SchoolEx_01 {
@@ -21,7 +21,7 @@ public class SchoolEx_01 {
 		
 		MenuService mService = new MenuServiceImplV1();
 		ScoreService sService = new ScoreServiceImplV1(scoreFileName);
-		StudentService stService = new StudentServiceImplV1(studentFileName);
+		StudentService stService = new StudentServiceImplV2(studentFileName);
 		
 		while(true) {
 			Integer selectMenu = mService.selectMenu();
