@@ -1,4 +1,4 @@
-package com.callor.hello;
+package com.callor.main;
 
 import java.util.Arrays;
 
