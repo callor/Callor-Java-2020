@@ -1,4 +1,4 @@
-package com.callor.forloop;
+package com.callor.for1;
 
 public class ForController_01 {
 	
