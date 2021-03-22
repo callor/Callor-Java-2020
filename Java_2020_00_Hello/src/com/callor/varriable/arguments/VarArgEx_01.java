@@ -1,4 +1,4 @@
-package com.callor.variable.arguments;
+package com.callor.varriable.arguments;
 
 import java.util.Arrays;
 
