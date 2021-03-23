@@ -18,14 +18,14 @@ public class PizzaServiceV1 {
 		this.pizzaOrders = new Integer[intMember];
 		
 		for(int i = 0 ; i < intMembers.length ; i++) {
-			intMembers[i] = rnd.nextInt(51) + 50;
+			intMembers[i] = rnd.nextInt(10) + 50;
 		}
 	}
 	
 	public void pizzsOrders() {
 		for(int i = 0 ; i < intMembers.length ; i++) {
 			pizzaOrders[i] =  intMembers[i] / pizzaPcs;
-			if(pizzaOrders[i] % (pizzaOrders[i] * pizzaPcs) > 0) {
+			if(intMembers[i] % (pizzaOrders[i] * pizzaPcs) > 0) {
 				pizzaOrders[i]++;
 			}
 		}

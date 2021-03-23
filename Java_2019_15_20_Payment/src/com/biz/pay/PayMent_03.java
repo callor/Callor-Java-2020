@@ -8,7 +8,7 @@ public class PayMent_03 {
 
 		PayServiceV5 ps = new PayServiceV5();
 		
-		int nPay = 3929390;
+		int nPay = 3723560;
 		 ps.array(nPay);
 		 // ps.whilePay(nPay);
 		 ps.forPay(nPay);
