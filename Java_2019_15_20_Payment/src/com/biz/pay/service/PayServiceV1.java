@@ -2,7 +2,7 @@ package com.biz.pay.service;
 
 import java.text.DecimalFormat;
 
-public class PayServiceV1 {
+public class PayServiceV1 implements PayService {
 	private int[] money = new int[] {
 			50000,
 			10000,
@@ -38,5 +38,17 @@ public class PayServiceV1 {
 		}
 		System.out.println("========================");
 	
+	}
+
+	@Override
+	public void whilePay(int nPay) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void forPay(int nPay) {
+		// TODO Auto-generated method stub
+		
 	}
 }

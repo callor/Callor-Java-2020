@@ -25,16 +25,16 @@ public class PayServiceV4 extends PayServiceV2{
 			// 5원일 경우 수행이 될까요? yes
 			// if(nPay < 5) break; 
 			
-			int nCount = nPay / nMoney ; // 매수계산
-			nPay -= nCount * nMoney; // nPay = nPay - nCount * nMoney
+			int nCount = nPay / nPaper ; // 매수계산
+			nPay -= nCount * nPaper; // nPay = nPay - nCount * nPaper
 			System.out.printf("%8s 원권 %4d매\n",
-					paperForm.format(nMoney),
+					paperForm.format(nPaper),
 					nCount);
 
 			if(intSw == 1) {
-				nMoney /= 5; // nMoney = nMoney / 5
+				nPaper /= 5; // nPaper = nPaper / 5
 			} else {
-				nMoney /= 2; // nMoney = nMoney / 2
+				nPaper /= 2; // nPaper = nPaper / 2
 			}
 			intSw = intSw * (-1);
 		

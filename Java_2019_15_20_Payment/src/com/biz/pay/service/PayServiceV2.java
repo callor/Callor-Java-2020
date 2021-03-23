@@ -9,12 +9,12 @@ public class PayServiceV2 extends PayServiceV1 {
 	 * 이 클래스(PayServiceV2)를 상속받은 클래스들에서
 	 * 접근하여사용할수 있다.
 	 */
-	protected int nMoney = 50000;
+	protected int nPaper = 50000;
 	protected DecimalFormat paperForm 
 			= new DecimalFormat("###,###");
 
 	public PayServiceV2() {
-		nMoney = 50000;
+		nPaper = 50000;
 	}
 	
 	/*
@@ -39,16 +39,16 @@ public class PayServiceV2 extends PayServiceV1 {
 			// 더이상 연산을 수행하지 마라
 			if(nPay < 5) break; 
 			
-			int nCount = nPay / nMoney ; // 매수계산
-			nPay -= nCount * nMoney; // nPay = nPay - nCount * nMoney
+			int nCount = nPay / nPaper ; // 매수계산
+			nPay -= nCount * nPaper; // nPay = nPay - nCount * nPaper
 			System.out.printf("%8s 원권 %4d매\n",
-					paperForm.format(nMoney),
+					paperForm.format(nPaper),
 					nCount);
 			if(intSw == 0) {
-				nMoney /= 5; // nMoney = nMoney / 5
+				nPaper /= 5; // nPaper = nPaper / 5
 				intSw = 1;
 			} else {
-				nMoney /= 2; // nMoney = nMoney / 2
+				nPaper /= 2; // nPaper = nPaper / 2
 				intSw = 0;
 			}
 		
