@@ -1,4 +1,4 @@
-package com.callor.alorithm;
+package com.callor.alorithm.pizza;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.callor.alorithm;
+package com.callor.alorithm.prime;
 
 import java.util.Scanner;
 
