@@ -1,4 +1,4 @@
-package com.callor.array.student;
+package com.callor.array.score;
 
 import java.util.Random;
 

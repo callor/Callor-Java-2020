@@ -14,6 +14,17 @@ public class Java7ArrayContainsValueForOldVersions {
 
 		// Java old way
 		System.out.println(Arrays.asList(array).contains("world"));
+		
+		String[] strNames = {
+				"홍기동",
+				"이몽룡",
+				"성춘향",
+				"장녹수",
+				"임꺽정",
+				"장보고"
+				};
+		System.out.println(Arrays.toString(strNames));
+		
 
 	}
 

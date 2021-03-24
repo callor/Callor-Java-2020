@@ -16,6 +16,7 @@ public class Java8ArrayContainsCertainStringValue {
 	        
 	        // Java 8 string check
 	        System.out.println(Stream.of(array).anyMatch(x -> x == "world"));
+	        System.out.println(Stream.of(array).anyMatch(x -> x.equals("world") ));
 
 	    }
 

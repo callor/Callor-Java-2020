@@ -1,4 +1,4 @@
-package com.callor.find;
+package com.callor.stream.find;
 
 import java.util.Optional;
 import java.util.stream.Stream;

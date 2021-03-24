@@ -1,8 +1,8 @@
-package com.callor.array.student;
+package com.callor.array.score;
 
 import java.util.Scanner;
 
-public class ScoreEx_02 {
+public class ScoreEx_03 {
 
 	public static void main(String[] args) {
 
