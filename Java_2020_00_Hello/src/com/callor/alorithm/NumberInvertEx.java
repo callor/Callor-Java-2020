@@ -24,7 +24,7 @@ public class NumberInvertEx {
 		intNum = Long.valueOf(str);
 		System.out.println(intNum);
 		
-		System.out.printf("\\%");
+		
 		
 	}
 	
