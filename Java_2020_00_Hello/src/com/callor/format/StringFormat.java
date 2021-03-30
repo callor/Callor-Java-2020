@@ -12,9 +12,6 @@ public class StringFormat {
 		
 		System.out.println(String.format("%s","대한민국")); // 문자열
 		
-
-		
-		
 		
 	}
 	
