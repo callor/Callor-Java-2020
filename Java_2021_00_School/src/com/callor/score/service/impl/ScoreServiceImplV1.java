@@ -31,7 +31,7 @@ public class ScoreServiceImplV1 implements ScoreService {
 
 
 	@Override
-	public void maikScore() {
+	public void makeScore() {
 		// scoreList = new ArrayList<ScoreVO>();
 		
 		/*
