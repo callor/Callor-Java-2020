@@ -1,5 +1,6 @@
 package com.callor.date.jdk6;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class CalendarEx_01 {
@@ -45,11 +46,22 @@ public class CalendarEx_01 {
 		System.out.println("현재초:" 
 				+ calendar.get(Calendar.SECOND));
 
-		System.out.printf("%02d:%02d:%02d",
+		System.out.printf("%02d:%02d:%02d\n",
 				calendar.get(Calendar.HOUR_OF_DAY),
 				calendar.get(Calendar.MINUTE),
 				calendar.get(Calendar.SECOND)
 		);
+
+		String curTime = String.format("%02d:%02d:%02d\n",
+				calendar.get(Calendar.HOUR_OF_DAY),
+				calendar.get(Calendar.MINUTE),
+				calendar.get(Calendar.SECOND)
+		);
+		System.out.println(curTime);
+
+		
+		
+		
 		
 		
 	}
