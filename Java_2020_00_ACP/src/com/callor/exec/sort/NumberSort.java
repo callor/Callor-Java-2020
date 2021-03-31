@@ -1,10 +1,5 @@
 package com.callor.exec.sort;
 
-import java.util.Arrays;
-import java.util.Comparator;
-
-
-
 public class NumberSort {
 
 	/*
@@ -14,61 +9,16 @@ public class NumberSort {
 	 */
 	public static void main(String[] args) {
 		
-		SolutionS so = new SolutionS();
-		long result = so.solution(3929195654654391L);
+		SolutionV1 soV1 = new SolutionV1();
+		long result = soV1.solution(3929195654654391L);
 		System.out.println(result);
+		
+		SolutionV1 soV2 = new SolutionV1();
+		result = soV2.solution(3929195654654391L);
+		System.out.println(result);
+
 		
 	}
 	
-}
-
-class Solution {
-    public long solution(long n) {
-        
-        char[] chars = String.valueOf(n).toCharArray();
-        
-         for(int i=0;i<(chars.length-1);i++)
-        {
-            for(int j=i+1;j>0;j--)
-            {
-                if(chars[j]>chars[j-1])
-                {
-                    char Temp = chars[j-1];
-                    chars[j-1] = chars[j];
-                    chars[j] = Temp;
-                }
-            }
-        }
-        String sortedString = new String(chars);
-        long answer = Long.parseLong(sortedString);
-        return answer;
-    }
-}
-
-class SolutionS {
-    public long solution(long n) {
-        
-    	
-    	String str = String.valueOf(n);
-        char[] charArray = str.toCharArray();
-
-        Character[] myCharArr = new Character[charArray.length];
-        for(int i = 0 ; i < charArray.length ; i++) {
-        	myCharArr[i] = charArray[i];
-        }
-        Arrays.sort(myCharArr, new Comparator<Character>() {
-
-            @Override
-            public int compare(Character char1, Character char2) {
-                return char1.compareTo(char2);
-            }
-        });
-        for(int i = 0 ; i < charArray.length ; i++) {
-        	charArray[i] = myCharArr[i];
-        }
-        String sortString = new String(myCharArr,0,myCharArr.length);
-        long answer = Long.parseLong(sortString);
-        return answer;
-    }
 }
 

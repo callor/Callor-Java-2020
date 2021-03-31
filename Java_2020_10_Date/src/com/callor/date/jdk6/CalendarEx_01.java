@@ -15,12 +15,13 @@ public class CalendarEx_01 {
 		 * 하지만 날짜 관련된 연산을 Date클래스에서 제거하면서
 		 * Calendar를 사용한다.
 		 * 
-		 * Calendar는 생성로 객체를 생성할수 없다.!!!
+		 * Calendar는 생성자로 객체를 생성할수 없다.!!!
 		 * Calendar는 싱글톤객체
 		 * 1개의 프로젝트에서 공통으로 공유하는 객체
 		 * 
 		 * 객체를 만드는게 아니라 이미 생성되어있는 객체를
 		 * getInstance() method를 통해서 가져다 쓴다
+		 * 
 		 */
 		Calendar calendar = Calendar.getInstance();
 		
