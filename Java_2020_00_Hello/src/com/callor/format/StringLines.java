@@ -5,6 +5,7 @@ public class StringLines {
 	public static void main(String[] args) {
 	
 		// Java 11에 추가된 method
+		// 연속된 문자열 만들기
 		System.out.println("-".repeat(150));
 		
 	}

@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 
+
 public class NumberSort {
 
 	/*
@@ -13,8 +14,8 @@ public class NumberSort {
 	 */
 	public static void main(String[] args) {
 		
-		Solution so = new Solution();
-		long result = so.solution(392919391L);
+		SolutionS so = new SolutionS();
+		long result = so.solution(3929195654654391L);
 		System.out.println(result);
 		
 	}
@@ -51,16 +52,21 @@ class SolutionS {
     	String str = String.valueOf(n);
         char[] charArray = str.toCharArray();
 
-        Character[] myCharArr = ArrayUtils.toObject(charArray);
-
+        Character[] myCharArr = new Character[charArray.length];
+        for(int i = 0 ; i < charArray.length ; i++) {
+        	myCharArr[i] = charArray[i];
+        }
         Arrays.sort(myCharArr, new Comparator<Character>() {
 
             @Override
             public int compare(Character char1, Character char2) {
-                return char2.compareTo(char1);
+                return char1.compareTo(char2);
             }
         });
-        String sortString = new String(myCharArr);
+        for(int i = 0 ; i < charArray.length ; i++) {
+        	charArray[i] = myCharArr[i];
+        }
+        String sortString = new String(myCharArr,0,myCharArr.length);
         long answer = Long.parseLong(sortString);
         return answer;
     }
