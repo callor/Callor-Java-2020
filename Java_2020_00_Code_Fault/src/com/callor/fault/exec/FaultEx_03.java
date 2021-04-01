@@ -1,6 +1,5 @@
 package com.callor.fault.exec;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class FaultEx_03 {

@@ -23,6 +23,7 @@ public class ScannerEx_01 {
 		str =  scan.next();
 		
 		System.out.println(str);
+		scan.close();
 		
 	}
 

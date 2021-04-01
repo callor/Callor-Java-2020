@@ -1,7 +1,5 @@
 package com.callor.random;
 
-import java.util.Random;
-
 /*
  * 임의의 문자 생성
  */

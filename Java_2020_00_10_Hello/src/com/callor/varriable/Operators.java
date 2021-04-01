@@ -2,6 +2,7 @@ package com.callor.varriable;
 
 public class Operators {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		System.out.println( 3 == 3 ? "맞아" : "아니");

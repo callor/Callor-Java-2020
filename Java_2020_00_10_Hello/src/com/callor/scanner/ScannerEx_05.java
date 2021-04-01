@@ -31,6 +31,7 @@ public class ScannerEx_05 {
 		} catch (Exception e) {
 			System.out.println("문자열은 000-0000-0000 형식으로 입력해야 합니다");
 		}
+		scan.close();
 
 	}
 }

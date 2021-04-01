@@ -6,6 +6,7 @@ public class PrimeEx_01 {
 
 	public static void main(String[] args) {
 		
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("2 이상의 정수를 입력하세요!!");

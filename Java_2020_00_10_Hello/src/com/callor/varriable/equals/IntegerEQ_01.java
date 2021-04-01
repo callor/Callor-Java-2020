@@ -6,6 +6,8 @@ public class IntegerEQ_01 {
 		
 		int num1 = 30;
 		int num2 = 30;
+		
+		@SuppressWarnings("deprecation")
 		Integer num3 = new Integer(30);
 		
 		System.out.println(num1 == num2);

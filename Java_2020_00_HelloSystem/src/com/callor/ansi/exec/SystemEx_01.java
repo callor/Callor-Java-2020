@@ -6,6 +6,7 @@ import java.io.OutputStream;
 public class SystemEx_01 {
 	
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		/*
@@ -19,10 +20,7 @@ public class SystemEx_01 {
 		 * System.out 클래스는 원래 OutputStream 클래스이다.
 		 */
 		OutputStream outputStream = System.out;
-		
-		
 		InputStream inputStream = System.in;
-		
 		
 		
 	}
