@@ -37,6 +37,8 @@ public class ScoreServiceImplV1 implements ScoreService {
 				break;
 			}
 
+			
+			
 			Integer intMenu = null;
 			try {
 				intMenu = Integer.valueOf(strMenu);
