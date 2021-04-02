@@ -9,6 +9,22 @@ public class ScoreVO {
 	private Integer math;
 	private Integer sci;
 	private Integer hist;
+	
+	private Integer total;
+	private Float avg;
+	
+	public Integer getTotal() {
+		return total;
+	}
+	public void setTotal(Integer total) {
+		this.total = total;
+	}
+	public Float getAvg() {
+		return avg;
+	}
+	public void setAvg(Float avg) {
+		this.avg = avg;
+	}
 	public String getNum() {
 		return num;
 	}
