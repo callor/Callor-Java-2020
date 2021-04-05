@@ -10,6 +10,12 @@ import com.callor.score.service.Values;
 
 public class ScoreServiceImplV1 implements ScoreService {
 
+	protected final int 국어 = 0;
+	protected final int 영어 = 1;
+	protected final int 수학 = 2;
+	protected final int 과학 = 3;
+	protected final int 국사 = 4;
+	
 	protected Scanner scan;
 	protected List<ScoreVO> scoreList;
 
@@ -92,11 +98,11 @@ public class ScoreServiceImplV1 implements ScoreService {
 
 			ScoreVO scoreVO = new ScoreVO();
 			scoreVO.setName(strName);
-			scoreVO.setKor(intScores[0]);
-			scoreVO.setEng(intScores[1]);
-			scoreVO.setMath(intScores[2]);
-			scoreVO.setSci(intScores[3]);
-			scoreVO.setHist(intScores[4]);
+			scoreVO.setKor(intScores[ 국어 ]);
+			scoreVO.setEng(intScores[ 영어 ]);
+			scoreVO.setMath(intScores[ 수학 ]);
+			scoreVO.setSci(intScores[ 과학 ]);
+			scoreVO.setHist(intScores[ 국사 ]);
 
 			this.scoreTotalAndAvg(scoreVO);
 			this.addScore(scoreVO);
@@ -127,11 +133,11 @@ public class ScoreServiceImplV1 implements ScoreService {
 		int nSeq = 0;
 		for(ScoreVO scoreVO : scoreList) {
 			
-			intSubTotal[ 0 ] += scoreVO.getKor();
-			intSubTotal[ 1 ] += scoreVO.getEng();
-			intSubTotal[ 2 ] += scoreVO.getMath();
-			intSubTotal[ 3 ] += scoreVO.getSci();
-			intSubTotal[ 4 ] += scoreVO.getHist();
+			intSubTotal[ this.국어 ] += scoreVO.getKor();
+			intSubTotal[ this.영어 ] += scoreVO.getEng();
+			intSubTotal[ this.수학 ] += scoreVO.getMath();
+			intSubTotal[ this.과학 ] += scoreVO.getSci();
+			intSubTotal[ this.국사 ] += scoreVO.getHist();
 			
 			allTotal += scoreVO.getTotal();
 			allAvg += scoreVO.getAvg();
