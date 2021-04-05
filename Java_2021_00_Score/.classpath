@@ -6,6 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/callor/Documents/workspace/java_works/java_2020/NumberService.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

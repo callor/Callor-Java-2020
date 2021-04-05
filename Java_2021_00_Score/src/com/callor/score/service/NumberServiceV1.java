@@ -2,10 +2,10 @@ package com.callor.score.service;
 
 import java.util.Scanner;
 
-public class NumberServiceLIBV1 {
+public class NumberServiceV1 {
 	
 	protected final Scanner scan;
-	public NumberServiceLIBV1() {
+	public NumberServiceV1() {
 		scan = new Scanner(System.in);
 	}
 	
