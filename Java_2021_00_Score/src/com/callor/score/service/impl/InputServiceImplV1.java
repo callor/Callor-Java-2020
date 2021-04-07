@@ -39,6 +39,7 @@ public class InputServiceImplV1 implements InputService {
 
 	@Override
 	public Integer inputValue() {
+		return null;
 		// TODO Auto-generated method stub
 	}
 
@@ -56,6 +57,12 @@ public class InputServiceImplV1 implements InputService {
 			}
 			return null;
 		}
+	}
+
+	@Override
+	public Integer inputValue(String title, int start) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }
