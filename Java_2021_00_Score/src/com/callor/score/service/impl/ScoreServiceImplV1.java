@@ -230,4 +230,10 @@ public class ScoreServiceImplV1 implements ScoreService {
 		Values.dLines(50);
 	}
 
+	@Override
+	public void inputName() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
