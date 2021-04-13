@@ -90,4 +90,29 @@ public class InputServiceImplV1 implements InputService {
 			return intIn;
 		} // end while
 	}
+
+	@Override
+	public String inputString(String title) {
+
+		
+		return null;
+	}
+	
+	@Override
+`	public String inputString(String title, boolean required) {
+
+		while(true) {
+			System.out.println(title + "입력하세요");
+			System.out.print(">> ");
+			String str = scan.nextLine();
+			if(str.equals("")) {
+				System.out.println(title + "값은 필수항목입니다");
+				continue;
+			}
+			return str
+		}
+	}
+
+	
+	
 }
