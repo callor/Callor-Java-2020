@@ -14,10 +14,7 @@ public class PrintStream_01 {
 		
 		out = System.out;
 		out.println("System.out");
-		
 		out.close();
-		
-		
 		
 	}
 

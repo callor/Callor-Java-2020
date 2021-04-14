@@ -99,7 +99,7 @@ public class InputServiceImplV1 implements InputService {
 	}
 	
 	@Override
-`	public String inputString(String title, boolean required) {
+	public String inputString(String title, boolean required) {
 
 		while(true) {
 			System.out.println(title + "입력하세요");
@@ -109,7 +109,7 @@ public class InputServiceImplV1 implements InputService {
 				System.out.println(title + "값은 필수항목입니다");
 				continue;
 			}
-			return str
+			return str;
 		}
 	}
 
