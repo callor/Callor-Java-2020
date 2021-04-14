@@ -5,6 +5,7 @@ import java.util.regex.Pattern;
 
 /*
  * 정규표현식을 사용하여 문자열 추출하기
+ * 숫자값만 추출하기
  */
 public class Pattern_01 {
 
