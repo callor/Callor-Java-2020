@@ -42,6 +42,23 @@ public class StudentVO {
 	public String getAddress() {
 		return address;
 	}
+	public void setNum(String num) {
+		this.num = num;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void setGrade(String grade) {
+		this.grade = grade;
+	}
+	public void setDept(String dept) {
+		this.dept = dept;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	
+	
 	
 	
 
