@@ -1,5 +1,8 @@
 package com.callor.score.service.impl;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -18,12 +21,25 @@ public class ScoreServiceImplV1  implements ScoreService {
 	protected StudentService stService;
 	protected List<ScoreVO> scoreList;
 	protected Scanner scan;
+	protected String scoreFileName; 
+	
+	
+	protected final int 학번 = 0 ;
+	protected final int 국어 = 1 ;
+	protected final int 영어 = 2 ;
+	protected final int 수학 = 3 ;
 	
 	public ScoreServiceImplV1() throws IOException {
+		this("src/com/callor/score/score.txt");
+	}
+	public ScoreServiceImplV1(String scoreFileName) throws IOException {
+		this.scoreFileName = scoreFileName;
 		inService = new InputServiceImplV1();
 		stService = new StudentServiceImplV1();
 		scoreList = new ArrayList<ScoreVO>();
 		scan = new Scanner(System.in);
+		
+		this.loadScore();
 	}
 	
 	/*
@@ -127,29 +143,46 @@ public class ScoreServiceImplV1  implements ScoreService {
 	}
 
 	@Override
-	public void loadScore() {
-		// TODO Auto-generated method stub
+	public void loadScore() throws FileNotFoundException, IOException {
+		// TODO 파일을 읽어 성적 데이터 만들기
+		FileReader fileReader = null;
+		BufferedReader buffer = null;
 		
+		fileReader = new FileReader(this.scoreFileName);
+		buffer = new BufferedReader(fileReader);
+		
+		String reader ;
+		while((reader = buffer.readLine()) != null) {
+			String scores[] = reader.split(":");
+			ScoreVO scoreVO = new ScoreVO();
+			scoreVO.setNum(scores[학번]);
+			scoreVO.setKor(Integer.valueOf(scores[국어]));
+			scoreVO.setEng(Integer.valueOf(scores[영어]));
+			scoreVO.setMath(Integer.valueOf(scores[수학]));
+			
+			scoreList.add(scoreVO);
+		}
+		buffer.close();
 	}
 
 	@Override
-	public void printStudent() {
+	public void printScore() {
 		// TODO 학생성적리스트
 		System.out.println("빛나라 고등학교 성적처리 프로젝트 V2");
 		System.out.println("=".repeat(100));
-		System.out.println("학번\t이름\t학과\t학년\t국어\t영어\t수학\t총점\t평균");
+		System.out.println("학번\t이름\t학과\t\t 학년\t 국어\t 영어\t 수학\t 총점\t 평균");
 		System.out.println("-".repeat(100));
 		
 		for(ScoreVO vo : scoreList) {
 			StudentVO stVO = stService.getStudent(vo.getNum());
 			System.out.print(vo.getNum() + "\t");
 			System.out.print(stVO.getName() + "\t");
-			System.out.print(stVO.getDept() + "\t");
-			System.out.print(stVO.getGrade() + "\t");
-			System.out.print(vo.getKor() + "\t");
-			System.out.print(vo.getEng() + "\t");
-			System.out.print(vo.getMath() + "\t");
-			System.out.print(vo.getTotal() + "\t");
+			System.out.printf("%-10s\t",stVO.getDept());
+			System.out.printf("%5s\t",stVO.getGrade());
+			System.out.printf("%5d\t",vo.getKor());
+			System.out.printf("%5d\t",vo.getEng());
+			System.out.printf("%5d\t",vo.getMath());
+			System.out.printf("%5d\t",vo.getTotal());
 			System.out.printf("%3.2f\n",vo.getAvg());
 		}
 		System.out.println("=".repeat(100));

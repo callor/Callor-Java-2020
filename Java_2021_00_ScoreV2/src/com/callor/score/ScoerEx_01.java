@@ -10,7 +10,8 @@ public class ScoerEx_01 {
 	public static void main(String[] args) throws IOException {
 		
 		ScoreService sService = new ScoreServiceImplV1();
-		sService.insertScore();
+		// sService.insertScore();
+		sService.printScore();
 		
 	}
 	
