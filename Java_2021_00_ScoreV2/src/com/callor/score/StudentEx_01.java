@@ -3,7 +3,7 @@ package com.callor.score;
 import java.io.IOException;
 
 import com.callor.score.service.StudentService;
-import com.callor.score.service.StudentServiceImplV1;
+import com.callor.score.service.impl.StudentServiceImplV1;
 
 public class StudentEx_01 {
 	

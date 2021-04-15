@@ -1,4 +1,4 @@
-package com.callor.score.service;
+package com.callor.score.service.impl;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.callor.score.model.StudentVO;
+import com.callor.score.service.StudentService;
 
 public class StudentServiceImplV1 implements StudentService {
 	
