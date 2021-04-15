@@ -168,7 +168,8 @@ public class ScoreServiceImplV1  implements ScoreService {
 	@Override
 	public void printScore() {
 		// TODO 학생성적리스트
-		System.out.println("빛나라 고등학교 성적처리 프로젝트 V2");
+		System.out.println("=".repeat(100)+"\n");
+		System.out.println("빛나라 고등학교 성적처리 프로젝트 V2\n" );
 		System.out.println("=".repeat(100));
 		System.out.println("학번\t이름\t학과\t\t 학년\t 국어\t 영어\t 수학\t 총점\t 평균");
 		System.out.println("-".repeat(100));
