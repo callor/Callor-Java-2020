@@ -1,6 +1,6 @@
 package com.callor.wrapperClass;
 
-public class IntegerEx {
+public class IntegerEx_01 {
 	
 	
 	public static void main(String[] args) {
