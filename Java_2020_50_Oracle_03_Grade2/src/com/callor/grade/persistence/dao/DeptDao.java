@@ -4,9 +4,7 @@ import java.sql.Connection;
 import java.util.List;
 
 import com.callor.grade.config.DBConnection;
-import com.callor.grade.config.DBContract;
 import com.callor.grade.persistence.domain.DeptDTO;
-import com.callor.grade.persistence.domain.StudentDTO;
 
 public abstract class DeptDao {
 

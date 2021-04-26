@@ -9,8 +9,6 @@ import java.util.List;
 import com.callor.oracle.config.DBContract;
 import com.callor.oracle.persistence.BookDTO;
 
-import oracle.jdbc.proxy.annotation.Pre;
-
 public class BookDaoImp extends BookDao {
 
 	@Override

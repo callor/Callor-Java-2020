@@ -70,6 +70,10 @@ public class JdbcEx_01 {
 				System.out.print(rst.getInt(1) + "\t");
 				System.out.print(rst.getLong(1) + "\t");
 				
+				// 문자열로 읽어 숫자로 변환할 수 있다
+				String strQTY = rst.getString(1);
+				System.out.println(Integer.valueOf(strQTY));
+				
 				// 읽을 준비가된 리스트 요소의 2번칼럼의 값을 꺼내라
 				System.out.print(rst.getString(2) + "\t");
 				System.out.print(rst.getInt(3) + "\n");

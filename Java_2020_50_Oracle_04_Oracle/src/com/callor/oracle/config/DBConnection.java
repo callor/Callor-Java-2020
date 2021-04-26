@@ -10,17 +10,20 @@ public class DBConnection {
 	
 	static {
 		
-		String jdbcDriver = "oracle.jdbc.OracleDriver";
+		// String jdbcDriver = "oracle.jdbc.OracleDriver";
 		String url = "jdbc:oracle:thin:@localhost:1521:xe";
 		String user = "user4";
 		String password = "user4" ;
-		
-		// JDBC 드라이버를 메모리에 load하여 사용할 준비하라
+
 		try {
-			Class.forName(jdbcDriver);
+			// JDBC 드라이버를 메모리에 load하여 사용할 준비하라
+			// Class.forName(jdbcDriver);
+			// JDBC 4.0(Java 6) 이상에서는 사용하지 않아도 된다.
+			
 			dbConn = DriverManager.getConnection(url, user, password);
 			System.out.println("DBConnection OK!!");
-		} catch (ClassNotFoundException | SQLException e) {
+//		} catch (ClassNotFoundException | SQLException e) {
+		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
@@ -28,6 +31,5 @@ public class DBConnection {
 	public static Connection getDBConnection() {
 		return dbConn;
 	}
-	
 	
 }

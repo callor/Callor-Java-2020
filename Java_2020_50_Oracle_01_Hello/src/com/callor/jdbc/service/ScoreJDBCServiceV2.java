@@ -94,10 +94,5 @@ public class ScoreJDBCServiceV2 {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		
-		
 	}
-	
-	
 }
