@@ -17,8 +17,5 @@ public class Ex_01 {
 		// 3
 		int num = 0;
 		System.out.println(num);
-		
-			
 	}
-	
 }
