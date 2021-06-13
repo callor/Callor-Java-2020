@@ -66,6 +66,6 @@ public class VoList_01 {
 		voList.add(vo);
 		
 	}
-
+1
 
 }
