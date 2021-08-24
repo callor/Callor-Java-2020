@@ -74,7 +74,8 @@ public class LambdaMainEx_02 {
 		
 		// 두개의 매개변수, 1개의 return
 		// 매개변수, return 타입이 모두 다를때
-		BiFunction<Integer, Integer, String> biF1 = (num1, num2)->String.format("%d * %d = %d",num1,num2, num1 * num2);
+		BiFunction<Integer, Integer, String> biF1 
+			= (num1, num2)->String.format("%d * %d = %d",num1,num2, num1 * num2);
 		System.out.println(biF1.apply(200, 300));
 		
 		
