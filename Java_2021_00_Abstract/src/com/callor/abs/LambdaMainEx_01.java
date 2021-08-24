@@ -1,8 +1,5 @@
 package com.callor.abs;
 
-import java.util.function.BinaryOperator;
-import java.util.function.IntFunction;
-
 import com.callor.abs.service.LambdaService;
 
 public class LambdaMainEx_01 {

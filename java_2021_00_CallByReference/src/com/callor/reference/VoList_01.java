@@ -8,7 +8,7 @@ public class VoList_01 {
 	public static void main(String[] args) {
 		
 		List<ValueObject> voList = new ArrayList<ValueObject>();
-		
+	
 		ValueObject vo = new ValueObject();
 		
 		vo.name = "홍길동";
